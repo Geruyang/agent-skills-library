@@ -1,0 +1,1887 @@
+{
+  "schema_version": 1,
+  "scope": "Individually inspected immutable historical findings only; new occurrences require review",
+  "credentials_included": false,
+  "findings": [
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md",
+      "StartLine": 128,
+      "EndLine": 128,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md:generic-api-key:128",
+      "blob_sha256": "f7317f0dbab04e4ce3e97e7aa9a5f2a57069398c47136e223ad8f0a2c20b7f95",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md",
+      "StartLine": 209,
+      "EndLine": 209,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md:generic-api-key:209",
+      "blob_sha256": "f7317f0dbab04e4ce3e97e7aa9a5f2a57069398c47136e223ad8f0a2c20b7f95",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md",
+      "StartLine": 224,
+      "EndLine": 224,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md:curl-auth-header:224",
+      "blob_sha256": "964d5b0cba41b6ab838abcf13f3add26b58d1e5ce6574ddf126f849e8070f5ea",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md",
+      "StartLine": 230,
+      "EndLine": 230,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md:curl-auth-header:230",
+      "blob_sha256": "964d5b0cba41b6ab838abcf13f3add26b58d1e5ce6574ddf126f849e8070f5ea",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/authentication-flows.md",
+      "StartLine": 41,
+      "EndLine": 41,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/authentication-flows.md:generic-api-key:41",
+      "blob_sha256": "30c1ee0e4cb830515ad7bf18688f3c9af27f9c8e3d9087276d26a4e4adbbfe8a",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 132,
+      "EndLine": 133,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:132",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 16,
+      "EndLine": 17,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:16",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 199,
+      "EndLine": 200,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:199",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 234,
+      "EndLine": 235,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:234",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 293,
+      "EndLine": 294,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:293",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 33,
+      "EndLine": 34,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:33",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 103,
+      "EndLine": 103,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:103",
+      "blob_sha256": "48b656b9318cb85b61b4f4064274eda225e5a07441dc3db0b6f5607372b6c778",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 104,
+      "EndLine": 104,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:104",
+      "blob_sha256": "48b656b9318cb85b61b4f4064274eda225e5a07441dc3db0b6f5607372b6c778",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 93,
+      "EndLine": 93,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:93",
+      "blob_sha256": "48b656b9318cb85b61b4f4064274eda225e5a07441dc3db0b6f5607372b6c778",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 188,
+      "EndLine": 188,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:188",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 190,
+      "EndLine": 190,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:190",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 42,
+      "EndLine": 42,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:42",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 199,
+      "EndLine": 199,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:199",
+      "blob_sha256": "8b532336f6e2312716b2991763dc9e366d7edd0343772bbfc3a8385a939426fc",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 71,
+      "EndLine": 72,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:71",
+      "blob_sha256": "8b532336f6e2312716b2991763dc9e366d7edd0343772bbfc3a8385a939426fc",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 91,
+      "EndLine": 92,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:91",
+      "blob_sha256": "8b532336f6e2312716b2991763dc9e366d7edd0343772bbfc3a8385a939426fc",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 61,
+      "EndLine": 61,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:generic-api-key:61",
+      "blob_sha256": "8b532336f6e2312716b2991763dc9e366d7edd0343772bbfc3a8385a939426fc",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/README.md",
+      "StartLine": 13,
+      "EndLine": 14,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/README.md:curl-auth-header:13",
+      "blob_sha256": "a545ee9c004eac4da117cbab0c5a7c06d9b31467c2fc4ffd661834885706bee4",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md",
+      "StartLine": 27,
+      "EndLine": 28,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md:curl-auth-header:27",
+      "blob_sha256": "65520a19fc3c43e87ff394a7bf80cac79d804e472246d81a57f268b49797186c",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md",
+      "StartLine": 84,
+      "EndLine": 85,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md:curl-auth-header:84",
+      "blob_sha256": "65520a19fc3c43e87ff394a7bf80cac79d804e472246d81a57f268b49797186c",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/bindings/patterns.md",
+      "StartLine": 182,
+      "EndLine": 182,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/bindings/patterns.md:generic-api-key:182",
+      "blob_sha256": "81e3a5b003191ab0d5a5754ae44e017606850df1fcf8e6d4254c29dc7f8a06df",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/bindings/patterns.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/bindings/patterns.md:generic-api-key:82",
+      "blob_sha256": "81e3a5b003191ab0d5a5754ae44e017606850df1fcf8e6d4254c29dc7f8a06df",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-5083390/references/pipelines/api.md",
+      "StartLine": 113,
+      "EndLine": 115,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-5083390/references/pipelines/api.md:curl-auth-header:113",
+      "blob_sha256": "594699deedafb01a0b4f79f0604aa2da9d4e8993fcfac2cd6afa3754f82c78ba",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/README.md",
+      "StartLine": 13,
+      "EndLine": 14,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/README.md:curl-auth-header:13",
+      "blob_sha256": "a545ee9c004eac4da117cbab0c5a7c06d9b31467c2fc4ffd661834885706bee4",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md",
+      "StartLine": 27,
+      "EndLine": 28,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md:curl-auth-header:27",
+      "blob_sha256": "96a05828823b83793e6ad8277897dcd5f54f37a0e0c744bdcf47236ee7c742d1",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md",
+      "StartLine": 84,
+      "EndLine": 85,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md:curl-auth-header:84",
+      "blob_sha256": "96a05828823b83793e6ad8277897dcd5f54f37a0e0c744bdcf47236ee7c742d1",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md",
+      "StartLine": 182,
+      "EndLine": 182,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md:generic-api-key:182",
+      "blob_sha256": "81dbc7a6d5b9b2cb4257c1b47e5f8053293918d3eac604009216f649c70bce4b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md:generic-api-key:82",
+      "blob_sha256": "81dbc7a6d5b9b2cb4257c1b47e5f8053293918d3eac604009216f649c70bce4b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-cloudflare-deploy-f6089b7/references/pipelines/api.md",
+      "StartLine": 113,
+      "EndLine": 115,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-cloudflare-deploy-f6089b7/references/pipelines/api.md:curl-auth-header:113",
+      "blob_sha256": "5e7aacacaf1ba9b7c16b9728b937ca0ef1f86318c3dcb1df65195326c8d4fa08",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 183,
+      "EndLine": 183,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:183",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 184,
+      "EndLine": 184,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:184",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 198,
+      "EndLine": 198,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:198",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 208,
+      "EndLine": 208,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:208",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 209,
+      "EndLine": 209,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:209",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 227,
+      "EndLine": 227,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:227",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 237,
+      "EndLine": 237,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:237",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 238,
+      "EndLine": 238,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:238",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 248,
+      "EndLine": 248,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:248",
+      "blob_sha256": "8b016c4e45247bbc02122a2827e303660d454f710cb2179732a3f54f6016ecf0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 776,
+      "EndLine": 776,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:776",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 804,
+      "EndLine": 804,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:804",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 81,
+      "EndLine": 81,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:81",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 171,
+      "EndLine": 171,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:171",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 172,
+      "EndLine": 172,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:172",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 173,
+      "EndLine": 173,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:173",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 188,
+      "EndLine": 188,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:188",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 189,
+      "EndLine": 189,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:189",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 191,
+      "EndLine": 191,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:191",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 192,
+      "EndLine": 192,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:192",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 51,
+      "EndLine": 51,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:51",
+      "blob_sha256": "da1a3b54b179d975a14532d6b0b7def1a59f93984481203449516107e3713388",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-workers-best-practices-873fdce/references/rules.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-workers-best-practices-873fdce/references/rules.md:generic-api-key:82",
+      "blob_sha256": "6730a1c56314039844c6b9b071a7cb089b11708ef7ab1b94763ee6cd3d9a6e17",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-zoom-cobrowse-sdk-39cc3a6/get-started.md",
+      "StartLine": 146,
+      "EndLine": 146,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-cobrowse-sdk-39cc3a6/get-started.md:generic-api-key:146",
+      "blob_sha256": "294fa87c8bb914ab4f1e02405bf3a5700733f44d350c6ae592d647ed83efd575",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-zoom-cobrowse-sdk-39cc3a6/references/full-guide.md",
+      "StartLine": 181,
+      "EndLine": 181,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-cobrowse-sdk-39cc3a6/references/full-guide.md:generic-api-key:181",
+      "blob_sha256": "e734b0be2b84ef6fe4b078c3b234496734364fbdc3c4a082734e0cd7ba574863",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-zoom-general-37cf44c/use-cases/transcription-bot-linux.md",
+      "StartLine": 45,
+      "EndLine": 46,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-general-37cf44c/use-cases/transcription-bot-linux.md:curl-auth-header:45",
+      "blob_sha256": "4e5ed8882dcc727c6eb6e7d71035fa27a93ae7dc45943988be1e7a390d60536c",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 191,
+      "EndLine": 192,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:191",
+      "blob_sha256": "91901e249582fdfdad3ffb62a457c5ee7f87b3545c203d046b5a48e13cc897af",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 214,
+      "EndLine": 215,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:214",
+      "blob_sha256": "91901e249582fdfdad3ffb62a457c5ee7f87b3545c203d046b5a48e13cc897af",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 520,
+      "EndLine": 521,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:520",
+      "blob_sha256": "91901e249582fdfdad3ffb62a457c5ee7f87b3545c203d046b5a48e13cc897af",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/references/linux-reference.md",
+      "StartLine": 183,
+      "EndLine": 183,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-meeting-sdk-linux-7c38d37/references/linux-reference.md:generic-api-key:183",
+      "blob_sha256": "4a6f16428a83aab3c48f7e9a4d61babe2b861470cc55339e011d7e6a6289a91d",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "original-skills/x-openai-zoom-rtms-ae86f57/examples/rtms-bot.md",
+      "StartLine": 183,
+      "EndLine": 184,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:original-skills/x-openai-zoom-rtms-ae86f57/examples/rtms-bot.md:curl-auth-header:183",
+      "blob_sha256": "f4df9cf60e3c470ac348e29414b998feb160922b1285bed2f24192c646113ea9",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md",
+      "StartLine": 128,
+      "EndLine": 128,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md:generic-api-key:128",
+      "blob_sha256": "f7317f0dbab04e4ce3e97e7aa9a5f2a57069398c47136e223ad8f0a2c20b7f95",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md",
+      "StartLine": 209,
+      "EndLine": 209,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-meeting-sdk-app-f579820/references/bot-authentication.md:generic-api-key:209",
+      "blob_sha256": "f7317f0dbab04e4ce3e97e7aa9a5f2a57069398c47136e223ad8f0a2c20b7f95",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md",
+      "StartLine": 224,
+      "EndLine": 224,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md:curl-auth-header:224",
+      "blob_sha256": "9e9864848ed77946097ffaea0c747f3cd1eaecee1252f2b1f1072999d2c07b52",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md",
+      "StartLine": 230,
+      "EndLine": 230,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/api-architecture.md:curl-auth-header:230",
+      "blob_sha256": "9e9864848ed77946097ffaea0c747f3cd1eaecee1252f2b1f1072999d2c07b52",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/authentication-flows.md",
+      "StartLine": 41,
+      "EndLine": 41,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/concepts/authentication-flows.md:generic-api-key:41",
+      "blob_sha256": "9f2eab62691d51d2989b65baa9a903f317b30ddc97c56771a1581f7709abdc16",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 132,
+      "EndLine": 133,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:132",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 16,
+      "EndLine": 17,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:16",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 199,
+      "EndLine": 200,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:199",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 234,
+      "EndLine": 235,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:234",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 293,
+      "EndLine": 294,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:293",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md",
+      "StartLine": 33,
+      "EndLine": 34,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/meeting-lifecycle.md:curl-auth-header:33",
+      "blob_sha256": "f6d741bfaed6c2832cff0bfb7fa9eafab43b01d493b8583507e76b3802f1715e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 103,
+      "EndLine": 103,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:103",
+      "blob_sha256": "22597bcc11442550e24d3e6327243b94f24c811c2be55821b81f339c2237d55e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 104,
+      "EndLine": 104,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:104",
+      "blob_sha256": "22597bcc11442550e24d3e6327243b94f24c811c2be55821b81f339c2237d55e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md",
+      "StartLine": 93,
+      "EndLine": 93,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/examples/webhook-server.md:generic-api-key:93",
+      "blob_sha256": "22597bcc11442550e24d3e6327243b94f24c811c2be55821b81f339c2237d55e",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Zoom endpoint.url_validation challenge/response example. plainToken is the echoed public webhook validation challenge, not an account/API authentication token; encryptedToken is the illustrated HMAC response digest. Request and response challenge values are identical; digest has 64 hexadecimal characters. No signing-secret value is included in these findings."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 188,
+      "EndLine": 188,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:188",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 190,
+      "EndLine": 190,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:190",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md",
+      "StartLine": 42,
+      "EndLine": 42,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/authentication.md:generic-api-key:42",
+      "blob_sha256": "e74f084757f4fe779eb75db9055421e5fe485186065bc4d520c46d62e1467ec6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 199,
+      "EndLine": 199,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:199",
+      "blob_sha256": "3fd6313e71d66828b3a6cdd0f6d75cb560654d1a2de3b8397a65f7e98200ce74",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 71,
+      "EndLine": 72,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:71",
+      "blob_sha256": "3fd6313e71d66828b3a6cdd0f6d75cb560654d1a2de3b8397a65f7e98200ce74",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 91,
+      "EndLine": 92,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:curl-auth-header:91",
+      "blob_sha256": "3fd6313e71d66828b3a6cdd0f6d75cb560654d1a2de3b8397a65f7e98200ce74",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md",
+      "StartLine": 61,
+      "EndLine": 61,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-build-zoom-rest-api-app-fa8ade3/references/full-guide.md:generic-api-key:61",
+      "blob_sha256": "3fd6313e71d66828b3a6cdd0f6d75cb560654d1a2de3b8397a65f7e98200ce74",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-5083390/references/argo-smart-routing/README.md",
+      "StartLine": 13,
+      "EndLine": 14,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/argo-smart-routing/README.md:curl-auth-header:13",
+      "blob_sha256": "a545ee9c004eac4da117cbab0c5a7c06d9b31467c2fc4ffd661834885706bee4",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md",
+      "StartLine": 27,
+      "EndLine": 28,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md:curl-auth-header:27",
+      "blob_sha256": "65520a19fc3c43e87ff394a7bf80cac79d804e472246d81a57f268b49797186c",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md",
+      "StartLine": 84,
+      "EndLine": 85,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/argo-smart-routing/api.md:curl-auth-header:84",
+      "blob_sha256": "65520a19fc3c43e87ff394a7bf80cac79d804e472246d81a57f268b49797186c",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-cloudflare-5083390/references/bindings/patterns.md",
+      "StartLine": 182,
+      "EndLine": 182,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/bindings/patterns.md:generic-api-key:182",
+      "blob_sha256": "81e3a5b003191ab0d5a5754ae44e017606850df1fcf8e6d4254c29dc7f8a06df",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-cloudflare-5083390/references/bindings/patterns.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/bindings/patterns.md:generic-api-key:82",
+      "blob_sha256": "81e3a5b003191ab0d5a5754ae44e017606850df1fcf8e6d4254c29dc7f8a06df",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-5083390/references/pipelines/api.md",
+      "StartLine": 113,
+      "EndLine": 115,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-5083390/references/pipelines/api.md:curl-auth-header:113",
+      "blob_sha256": "594699deedafb01a0b4f79f0604aa2da9d4e8993fcfac2cd6afa3754f82c78ba",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/README.md",
+      "StartLine": 13,
+      "EndLine": 14,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/README.md:curl-auth-header:13",
+      "blob_sha256": "a545ee9c004eac4da117cbab0c5a7c06d9b31467c2fc4ffd661834885706bee4",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md",
+      "StartLine": 27,
+      "EndLine": 28,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md:curl-auth-header:27",
+      "blob_sha256": "96a05828823b83793e6ad8277897dcd5f54f37a0e0c744bdcf47236ee7c742d1",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md",
+      "StartLine": 84,
+      "EndLine": 85,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/argo-smart-routing/api.md:curl-auth-header:84",
+      "blob_sha256": "96a05828823b83793e6ad8277897dcd5f54f37a0e0c744bdcf47236ee7c742d1",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md",
+      "StartLine": 182,
+      "EndLine": 182,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md:generic-api-key:182",
+      "blob_sha256": "81dbc7a6d5b9b2cb4257c1b47e5f8053293918d3eac604009216f649c70bce4b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/bindings/patterns.md:generic-api-key:82",
+      "blob_sha256": "81dbc7a6d5b9b2cb4257c1b47e5f8053293918d3eac604009216f649c70bce4b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Cloudflare binding anti-pattern demonstration: API_KEY vars / credentials.apiKey assignment uses the same literal example with an abc123 suffix. Nearby text explicitly identifies the hard-coded-secret anti-pattern; not accepted merely because it is documentation."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-cloudflare-deploy-f6089b7/references/pipelines/api.md",
+      "StartLine": 113,
+      "EndLine": 115,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-cloudflare-deploy-f6089b7/references/pipelines/api.md:curl-auth-header:113",
+      "blob_sha256": "5e7aacacaf1ba9b7c16b9728b937ca0ef1f86318c3dcb1df65195326c8d4fa08",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 195,
+      "EndLine": 195,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:195",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 196,
+      "EndLine": 196,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:196",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 210,
+      "EndLine": 210,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:210",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 220,
+      "EndLine": 220,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:220",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 221,
+      "EndLine": 221,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:221",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 239,
+      "EndLine": 239,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:239",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 249,
+      "EndLine": 249,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:249",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 250,
+      "EndLine": 250,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:250",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+      "StartLine": 260,
+      "EndLine": 260,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-code-connect-components-3776464/SKILL.md:generic-api-key:260",
+      "blob_sha256": "4406b2f87885a9dabc21c519499748c6e914252273a13de96401eb4057476f35",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 776,
+      "EndLine": 776,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:776",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 804,
+      "EndLine": 804,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:804",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-generate-library-9270b83/references/token-creation.md",
+      "StartLine": 81,
+      "EndLine": 81,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-generate-library-9270b83/references/token-creation.md:generic-api-key:81",
+      "blob_sha256": "b516bd93ecab8b46257554d6d48bbc5a2baf4c5254facf700d7813b0dc075fe6",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma design-library / published-variable resource key: DSB_KEY / VARIABLE_KEY is used with setPluginData or figma.variables local collection/variable lookup. It names a design-system resource, not an account authentication credential."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 183,
+      "EndLine": 183,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:183",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 184,
+      "EndLine": 184,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:184",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 185,
+      "EndLine": 185,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:185",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 200,
+      "EndLine": 200,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:200",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 201,
+      "EndLine": 201,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:201",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 203,
+      "EndLine": 203,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:203",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 204,
+      "EndLine": 204,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:204",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+      "StartLine": 63,
+      "EndLine": 63,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-figma-implement-design-9adff58/SKILL.md:generic-api-key:63",
+      "blob_sha256": "9a5a733a3688d514769caa4b9f69da5549a6d42998b015bf4240bfc6d38a9624",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "non_secret_code_or_identifier",
+      "evidence": "Figma fileKey resource identifier (or parsing variable), paired with nodeId / Figma URL extraction and design-context, screenshot, metadata, or Code Connect API calls. It selects a design file; it is not an API access credential. The actual finding contains fileKey syntax or the file-key extraction instruction."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-workers-best-practices-873fdce/references/rules.md",
+      "StartLine": 82,
+      "EndLine": 82,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-workers-best-practices-873fdce/references/rules.md:generic-api-key:82",
+      "blob_sha256": "6730a1c56314039844c6b9b071a7cb089b11708ef7ab1b94763ee6cd3d9a6e17",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-zoom-cobrowse-sdk-39cc3a6/get-started.md",
+      "StartLine": 146,
+      "EndLine": 146,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-cobrowse-sdk-39cc3a6/get-started.md:generic-api-key:146",
+      "blob_sha256": "294fa87c8bb914ab4f1e02405bf3a5700733f44d350c6ae592d647ed83efd575",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-zoom-cobrowse-sdk-39cc3a6/references/full-guide.md",
+      "StartLine": 181,
+      "EndLine": 181,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-cobrowse-sdk-39cc3a6/references/full-guide.md:generic-api-key:181",
+      "blob_sha256": "3cc220946c27c73a7bce7edcb23876d4d2a75ec5689b822a1db3cad3d2727da1",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-zoom-general-37cf44c/use-cases/transcription-bot-linux.md",
+      "StartLine": 45,
+      "EndLine": 46,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-general-37cf44c/use-cases/transcription-bot-linux.md:curl-auth-header:45",
+      "blob_sha256": "cca3f3d27a385b07ef7de3afd65eaef97bf19569bfcf1c980058625c1ef9c4d0",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 191,
+      "EndLine": 192,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:191",
+      "blob_sha256": "5f9c1edf458fc6c7fbb54038fa50d37503b18e9ab542d804b6fde07051d9bc3b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 214,
+      "EndLine": 215,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:214",
+      "blob_sha256": "5f9c1edf458fc6c7fbb54038fa50d37503b18e9ab542d804b6fde07051d9bc3b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md",
+      "StartLine": 520,
+      "EndLine": 521,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-meeting-sdk-linux-7c38d37/meeting-sdk-bot.md:curl-auth-header:520",
+      "blob_sha256": "5f9c1edf458fc6c7fbb54038fa50d37503b18e9ab542d804b6fde07051d9bc3b",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    },
+    {
+      "RuleID": "generic-api-key",
+      "File": "skills/x-openai-zoom-meeting-sdk-linux-7c38d37/references/linux-reference.md",
+      "StartLine": 183,
+      "EndLine": 183,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-meeting-sdk-linux-7c38d37/references/linux-reference.md:generic-api-key:183",
+      "blob_sha256": "4a6f16428a83aab3c48f7e9a4d61babe2b861470cc55339e011d7e6a6289a91d",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": "Credential-named field in the example response/config uses a literal ellipsis (...), with no complete token/key value; precise finding inspected, not a path-wide exception."
+    },
+    {
+      "RuleID": "curl-auth-header",
+      "File": "skills/x-openai-zoom-rtms-ae86f57/examples/rtms-bot.md",
+      "StartLine": 183,
+      "EndLine": 184,
+      "Fingerprint": "ee16803efa6bf87adc97ae239baf0f9f42668a76:skills/x-openai-zoom-rtms-ae86f57/examples/rtms-bot.md:curl-auth-header:183",
+      "blob_sha256": "8ecacec6e458c66efcc5b82a4df188e1e925fadd553737bc008a2650cd4717a8",
+      "CommitParts": [
+        "ee16803efa6bf87adc97",
+        "ae239baf0f9f42668a76"
+      ],
+      "disposition": "documentation_placeholder",
+      "evidence": [
+        "Curl authorization header matched value contains an explicit environment/template/ellipsis placeholder; no literal account credential",
+        "Exact historical fingerprint and commit blob SHA256 required; no directory exemption"
+      ]
+    }
+  ]
+}
