@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-find-dropbox-content-ce8189d",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Mapped Dropbox operation names and pagination to discovered authenticated schemas.",
+  "remaining_dependencies": [
+    "Dropbox search/list/metadata access"
+  ],
+  "retained_product_mentions": [
+    "Dropbox"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

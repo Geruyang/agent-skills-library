@@ -1,0 +1,23 @@
+{
+  "id": "x-openai-remotion-saas-b849714",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Full skill and framework/rendering references reviewed; product deployment choices and credential names are intentional.",
+  "remaining_dependencies": [
+    "Remotion/React",
+    "selected rendering platform"
+  ],
+  "retained_product_mentions": [
+    "Remotion",
+    "AWS Lambda",
+    "Vercel",
+    "Cloudflare",
+    "Vue",
+    "Angular",
+    "Svelte"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

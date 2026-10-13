@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-notion-knowledge-capture-128304d",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Mapped Notion connector schemas to real MCP/API capabilities and removed bundled app/session restart assumptions.",
+  "remaining_dependencies": [
+    "Notion authorization and actual page/database read-write API"
+  ],
+  "retained_product_mentions": [
+    "Notion"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

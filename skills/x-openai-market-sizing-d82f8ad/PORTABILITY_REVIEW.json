@@ -1,0 +1,19 @@
+{
+  "id": "x-openai-market-sizing-d82f8ad",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced source-lane and companion-skill hard bindings with actual data, calculation, report and visualization capabilities.",
+  "remaining_dependencies": [
+    "Authorized source access",
+    " calculation and artifact tools"
+  ],
+  "retained_product_mentions": [
+    "Jupyter",
+    "Google Sheets"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

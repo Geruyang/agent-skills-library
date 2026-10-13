@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-airtable-filters-5bed075",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "明确filters为Airtable连接器schema，检查实际工具；REST回退需语义正确的filterByFormula转换。",
+  "remaining_dependencies": [
+    "认证Airtable连接器或REST",
+    "字段及choice元数据"
+  ],
+  "retained_product_mentions": [
+    "Airtable filters和filterByFormula协议"
+  ]
+}

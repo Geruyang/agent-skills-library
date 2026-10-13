@@ -1,0 +1,18 @@
+{
+  "id": "x-obra-brainstorming-ee7094d",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "scripts/start-server.sh",
+    "visual-companion.md"
+  ],
+  "summary": "保留原版设计审批流程；增加可配置前台进程模式与当前宿主持久会话选择，保留Codex检测作为可选兼容分支；本地视觉指南按技能根定位。",
+  "remaining_dependencies": [
+    "可用shell、Bash、Node.js和浏览器；可持续的本地服务会话；无此能力时使用原有纯文本分支。"
+  ],
+  "retained_product_mentions": [
+    "Claude Code/Codex/Gemini/Copilot的小节是带标签的产品专属教程",
+    "CODEX_CI仅为可选特定宿主检测"
+  ]
+}

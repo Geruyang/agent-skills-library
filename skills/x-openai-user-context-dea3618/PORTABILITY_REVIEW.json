@@ -1,0 +1,20 @@
+{
+  "id": "x-openai-user-context-dea3618",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md",
+    "references/onboarding.md",
+    "scripts/init_user_context.py",
+    "scripts/user_context_preflight.py"
+  ],
+  "summary": "将 Codex 私有状态路径改为显式 --state-dir / PRODUCT_DESIGN_STATE_DIR，默认仅落当前项目 .agent-skills；保留保存前可写验证与禁止保存秘密的边界，并标明完整插件路由依赖。",
+  "remaining_dependencies": [
+    "Python；稳定可写的状态目录；未来会话必须使用同一目录；插件级路由需要单独安装完整 Product Design 插件。"
+  ],
+  "retained_product_mentions": [
+    "ChatGPT 仅为示例图片文件名",
+    "--codex-home 为旧显式 CLI 参数别名"
+  ]
+}

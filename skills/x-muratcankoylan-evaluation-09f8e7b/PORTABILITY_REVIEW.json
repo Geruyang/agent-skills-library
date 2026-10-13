@@ -1,0 +1,15 @@
+{
+  "id": "x-muratcankoylan-evaluation-09f8e7b",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是通用评测、数据集与质量门槛方法，无Codex执行者/宿主工具/固定路径绑定。",
+  "remaining_dependencies": [
+    "按任务选择的评测运行时、数据和模型服务；相关上下文工程技能按需要安装。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

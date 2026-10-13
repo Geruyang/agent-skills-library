@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "commit": "72f999edc7848961b99c4b98bf1e62d12fa35798",
+    "category": "coding-runtime",
+    "design_use": "Rust runtime 与 app-server 协议分离；审批、工具执行、rollout 各有边界。参考完整编码产品，不把内部 API 当稳定跨宿主协议。",
+    "root": "code/openai/codex",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/openai/codex/LICENSE",
+        "sha256": "aa5e89edcbbd01fc3fb188a527d8bdc0da5812305cab220c84348c14ea427288"
+      },
+      {
+        "path": "code/openai/codex/NOTICE",
+        "sha256": "3c505dc54be731583470ef3584e5cb96d60df7add3e7e36294cf4dea8316a5cb"
+      }
+    ],
+    "tracked_files": 9138,
+    "evidence": [
+      {
+        "path": "code/openai/codex/README.md",
+        "sha256": "51fd30959ece9cb3c96fa8fe7e131f0c0f617f7844b0f8e96bde7fd08d22ec1f",
+        "bytes": 3415
+      },
+      {
+        "path": "code/openai/codex/codex-rs/app-server/README.md",
+        "sha256": "4b208566395a3ea758ec55c1072c9f0c196dc105f61294c19e7e48aed0d6122a",
+        "bytes": 40332
+      },
+      {
+        "path": "code/openai/codex/codex-rs/core/src/tools/approvals.rs",
+        "sha256": "ca874c30a9b1fb10a93b10aa09a92e4d169d62ee608751e62373a23fbbcf2c49",
+        "bytes": 30744
+      },
+      {
+        "path": "code/openai/codex/codex-rs/core/src/rollout.rs",
+        "sha256": "24fa17f7e550e053a3635e8546a49a26cd676a5166ad7d5e172f79d4d895b760",
+        "bytes": 1934
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "commit": "2301018b1f61073c501a8e7a4813ef48c239163b",
+    "category": "product-integration",
+    "design_use": "公开仓库主要用于文档、插件与示例，不等于完整产品运行时开源；根许可证指向商业条款。SDK 和产品许可分开判断。",
+    "root": "code/anthropics/claude-code",
+    "license_summary": "Anthropic Commercial Terms of Service; all rights reserved",
+    "license_files": [
+      {
+        "path": "code/anthropics/claude-code/LICENSE.md",
+        "sha256": "728158fd1037143fad6907e8fa34804177e598b7326519503fe83cafdef849e6"
+      }
+    ],
+    "tracked_files": 1530,
+    "evidence": [
+      {
+        "path": "code/anthropics/claude-code/README.md",
+        "sha256": "aa0d8b80ac083e1591be0789273f447058cc9187b4331634a5614155da27778d",
+        "bytes": 2873
+      },
+      {
+        "path": "code/anthropics/claude-code/LICENSE.md",
+        "sha256": "728158fd1037143fad6907e8fa34804177e598b7326519503fe83cafdef849e6",
+        "bytes": 150
+      },
+      {
+        "path": "code/anthropics/claude-code/plugins/README.md",
+        "sha256": "96f807a4aac7f46abee8a5e03db672c2c0d563b9383fa67cf69d842c26e342d4",
+        "bytes": 6530
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "bytedance/trae-agent",
+    "url": "https://github.com/bytedance/trae-agent",
+    "commit": "e839e559ac61bdd0e057c375dd1dee391fee797d",
+    "category": "coding-runtime",
+    "design_use": "Python 研究友好循环、工具执行器和 trajectory；适合消融及自研实验，不代表 TRAE IDE 整体源码。",
+    "root": "code/bytedance/trae-agent",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/bytedance/trae-agent/LICENSE",
+        "sha256": "5968c6ef4f92bf77edbc73fc0d3833d454c36f68589a819a51ab806505b67e47"
+      }
+    ],
+    "tracked_files": 108,
+    "evidence": [
+      {
+        "path": "code/bytedance/trae-agent/README.md",
+        "sha256": "2777bf7fd1074f1ae5f3dd6a072e902104430b6e3958c7a9ab83b4454cc3163d",
+        "bytes": 10524
+      },
+      {
+        "path": "code/bytedance/trae-agent/trae_agent/agent/base_agent.py",
+        "sha256": "39485afbe57c3a9a5dcb11c7897ae9e37542f74082b8dfc01fd94de69f1c8c85",
+        "bytes": 13961
+      },
+      {
+        "path": "code/bytedance/trae-agent/trae_agent/utils/trajectory_recorder.py",
+        "sha256": "d36b562968c80f27822da875fedfc2174a896a3afa6bcb2349fcb1074929103f",
+        "bytes": 10084
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "commit": "a6de9a8b61077fa63ad5c3ecbe2bc12e0cb4b4b9",
+    "category": "desktop-shell",
+    "design_use": "Tauri webview/IPC 桌面封装；v2-dev 无根许可证文件，不能默认允许复制；不提供通用可靠 agent 平台。",
+    "root": "code/lencx/ChatGPT",
+    "license_summary": "No license file in checked-out branch",
+    "license_files": [],
+    "tracked_files": 74,
+    "evidence": [
+      {
+        "path": "code/lencx/ChatGPT/README.md",
+        "sha256": "5649beb16f27c0e2733425b591082d33ca124bef68147d4deb6c4baacd2a23a1",
+        "bytes": 1836
+      },
+      {
+        "path": "code/lencx/ChatGPT/src-tauri/src/main.rs",
+        "sha256": "0a93d833d7cc31234aa56797f70837b80d8f7961c98a81e30ec7fc438b37f12d",
+        "bytes": 916
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "commit": "d21b0790a6c146815f28fea604e41e922f009590",
+    "category": "coding-runtime",
+    "design_use": "按 session key 串行协调、不同 key 并发；interrupt 接受与 cleanup 完成不同，wake 防丢唤醒。与同名 Go 归档仓库不同。",
+    "root": "code/anomalyco/opencode",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/anomalyco/opencode/LICENSE",
+        "sha256": "b5c625d157735f04e1b2b7ceccee849130b554bdb23cd58db55a38a257efbbdd"
+      }
+    ],
+    "tracked_files": 8817,
+    "evidence": [
+      {
+        "path": "code/anomalyco/opencode/README.md",
+        "sha256": "b1705f0eda69dc87bb8e90a3713917bdfddb0e86f50aa1df2d56c8bd8d21c26c",
+        "bytes": 5531
+      },
+      {
+        "path": "code/anomalyco/opencode/packages/core/src/session/run-coordinator.ts",
+        "sha256": "5171d462d98e0c675d525ccc125421a7cf6bc6984d3c64f9a212c4c81956bb66",
+        "bytes": 9261
+      },
+      {
+        "path": "code/anomalyco/opencode/packages/core/src/permission.ts",
+        "sha256": "9a7ad5b124652a635048a0ffb3878df20b3c510703296c741c5db8333c87a54c",
+        "bytes": 13685
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "commit": "9b6e0265d16bbd29ca51e33c9e0c01dc4cec5e83",
+    "category": "coding-runtime",
+    "design_use": "工具 scheduler 显式跟踪验证、审批、执行和终态；sandbox 与 checkpoint 分层，适合观察可取消工具队列。",
+    "root": "code/google-gemini/gemini-cli",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/google-gemini/gemini-cli/LICENSE",
+        "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+      }
+    ],
+    "tracked_files": 3027,
+    "evidence": [
+      {
+        "path": "code/google-gemini/gemini-cli/README.md",
+        "sha256": "bacf354f3f674d57679ebf7b42dd69311bb9ef14200e18ca703d82aba48bf833",
+        "bytes": 13489
+      },
+      {
+        "path": "code/google-gemini/gemini-cli/packages/core/src/scheduler/state-manager.ts",
+        "sha256": "8b3bf0a51c94b3683b24ff6289a4d8705ce4195a6d8606f47a1e471d3ff5af15",
+        "bytes": 17991
+      },
+      {
+        "path": "code/google-gemini/gemini-cli/docs/cli/sandbox.md",
+        "sha256": "2d2c13347d2d6e26dfdc3a33d7b43f12d242fa679eb1220c85153b824e8c0df4",
+        "bytes": 14127
+      },
+      {
+        "path": "code/google-gemini/gemini-cli/docs/cli/checkpointing.md",
+        "sha256": "cb4261f5390134e586459de23a1fef62d2741d9e0c0b3ca1c1372c629e8a89af",
+        "bytes": 3115
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "earendil-works/pi",
+    "url": "https://github.com/earendil-works/pi",
+    "commit": "89e5c2c075535e2f427c30fc74720d65b2944ff9",
+    "category": "embedded-runtime",
+    "design_use": "AgentMessage 到提供方消息的转换在调用边界；steering/followup 和扩展可组合，小核心不自动提供平台持久调度。",
+    "root": "code/earendil-works/pi",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/earendil-works/pi/LICENSE",
+        "sha256": "0457f5bcec3b3b211605dfb5d1a49042fd638f3686a410fe099c24a25af13c48"
+      }
+    ],
+    "tracked_files": 2011,
+    "evidence": [
+      {
+        "path": "code/earendil-works/pi/README.md",
+        "sha256": "d4f05a91fe0de78d1b99d8b8d69c66e7522c493814cc4bd2ed344e4d60b10ce1",
+        "bytes": 10627
+      },
+      {
+        "path": "code/earendil-works/pi/packages/agent/src/agent-loop.ts",
+        "sha256": "28a2b03e34a7e32f004aa851e54d3b5be9dad71c392205614cbc9abdf3a9020a",
+        "bytes": 29513
+      },
+      {
+        "path": "code/earendil-works/pi/packages/coding-agent/docs/sdk.md",
+        "sha256": "d9034ccbf2219a58712d8dd4fcdf47e687d77131e71dd5d119d8a71e9bd2a2e8",
+        "bytes": 10147
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "Aider-AI/aider",
+    "url": "https://github.com/Aider-AI/aider",
+    "commit": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c",
+    "category": "context-coding",
+    "design_use": "RepoMap 用代码 tag/缓存与 token 预算选择上下文；编辑和 Git 流程适合编码助手，不等同通用服务编排。",
+    "root": "code/Aider-AI/aider",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/Aider-AI/aider/LICENSE.txt",
+        "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+      }
+    ],
+    "tracked_files": 691,
+    "evidence": [
+      {
+        "path": "code/Aider-AI/aider/README.md",
+        "sha256": "a32917967d7ae9ebe198724a706d2d7788aac0a960ef6909b0caf5a692669e40",
+        "bytes": 12586
+      },
+      {
+        "path": "code/Aider-AI/aider/aider/repomap.py",
+        "sha256": "4dd9f1c657f969ea8f6f9bca3a4008998ac29e97904fb871cda434db852dd082",
+        "bytes": 28173
+      },
+      {
+        "path": "code/Aider-AI/aider/aider/coders/base_coder.py",
+        "sha256": "2ccd66672cc6e0efba18b044ae14f98e7639d113adaf64ff0840ab2a1e21e125",
+        "bytes": 88787
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "commit": "3bd852002903e016ff30947e973f76e2fcfcf90f",
+    "category": "coding-runtime",
+    "design_use": "持久会话上的 re-entrant operation pipeline；整批工具请求须全部配对，单个 tool result 不能代表批次结束。",
+    "root": "code/aaif-goose/goose",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/aaif-goose/goose/LICENSE",
+        "sha256": "276907a476b8790c650f7a7584b5bd194303bdacb269edf130b51c3cf2a7365d"
+      }
+    ],
+    "tracked_files": 2519,
+    "evidence": [
+      {
+        "path": "code/aaif-goose/goose/README.md",
+        "sha256": "fccd074f76e9956fb822c5521a499cd1d8038af96f1e4952d5b02dba238226aa",
+        "bytes": 3512
+      },
+      {
+        "path": "code/aaif-goose/goose/crates/goose/src/agents/state_machine/mod.rs",
+        "sha256": "191471eae9dcb65ba23e758e5e831ab2791f68708bdd63767b90f1c153730e74",
+        "bytes": 3576
+      },
+      {
+        "path": "code/aaif-goose/goose/crates/goose/src/agents/extension_manager/mod.rs",
+        "sha256": "afc6b5b3d5bbcf38930fdf635950cd8ecdee6bd34777991e9d0406cdf56bb7b8",
+        "bytes": 86572
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "LibreChat-AI/LibreChat",
+    "url": "https://github.com/LibreChat-AI/LibreChat",
+    "commit": "e1dfc10449ff713faffacd60273fddcfe2c0a698",
+    "category": "chat-platform",
+    "design_use": "产品层多 agent、认证和持久 checkpoint；graph namespace 与存储 owner scope 有区别，租户/代际归属需显式保存。",
+    "root": "code/LibreChat-AI/LibreChat",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/LibreChat-AI/LibreChat/LICENSE",
+        "sha256": "958f543bed829e0ca42c35ef86f9eb06f46b8e8ceee28c10b23bcc928e9c03d3"
+      }
+    ],
+    "tracked_files": 6418,
+    "evidence": [
+      {
+        "path": "code/LibreChat-AI/LibreChat/README.md",
+        "sha256": "a643acde1d2ac772f7cb8b2706d98f155863aef93285da7224e7379183edc4ac",
+        "bytes": 16601
+      },
+      {
+        "path": "code/LibreChat-AI/LibreChat/packages/api/src/agents/checkpointer.ts",
+        "sha256": "48e333af6cc46136796436c4c812b8c0900f55251e723e81d5bd8f0320c580a1",
+        "bytes": 54795
+      },
+      {
+        "path": "code/LibreChat-AI/LibreChat/api/server/services/PermissionService.js",
+        "sha256": "fc658d66bab81c89bb000bd1ee6a652ee6a1111ce5a9fbe6f394acae546799a0",
+        "bytes": 28701
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "CherryHQ/cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "commit": "faa1b7483439792283d534c0ea1127ef2cec7c4c",
+    "category": "desktop-platform",
+    "design_use": "renderer IPC、主进程流管理、持久化分层；主进程为审批单写者，attach/detach/abort 语义区分。许可 AGPL 需按复用组件检查。",
+    "root": "code/CherryHQ/cherry-studio",
+    "license_summary": "GNU Affero General Public License v3 (see LICENSE for exact grant)",
+    "license_files": [
+      {
+        "path": "code/CherryHQ/cherry-studio/LICENSE",
+        "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+      }
+    ],
+    "tracked_files": 9872,
+    "evidence": [
+      {
+        "path": "code/CherryHQ/cherry-studio/README.md",
+        "sha256": "e775f21999c1bf39e7b7dcf00bedb693c5cd28d0f059bd153fdaf18535b52ef4",
+        "bytes": 19398
+      },
+      {
+        "path": "code/CherryHQ/cherry-studio/docs/references/ai/core-architecture.md",
+        "sha256": "4dcd8946cc19eb7da61f9093ab98fed60b9a9cf743e5597e40521243c4101143",
+        "bytes": 12764
+      },
+      {
+        "path": "code/CherryHQ/cherry-studio/docs/references/ai/tool-approval.md",
+        "sha256": "8931794f4781dbc3b1ed1ae100fc64d1b1d8b0c66275fa896f3c7ba1a940b77f",
+        "bytes": 4416
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "cline/cline",
+    "url": "https://github.com/cline/cline",
+    "commit": "c3a40572765b76873c597247941118c1778d02c8",
+    "category": "coding-runtime",
+    "design_use": "SDK 核心将 host、会话、待决 prompt、automation 服务装配到多种客户端，复用时查 runtime capability 和产品版本。",
+    "root": "code/cline/cline",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/cline/cline/LICENSE",
+        "sha256": "f704446a5f1271608805598b557e4288cf8580477ea038c9c3d8b361f693f6b8"
+      }
+    ],
+    "tracked_files": 4209,
+    "evidence": [
+      {
+        "path": "code/cline/cline/README.md",
+        "sha256": "e68470af087a1f3a7abe00a725e42e5d4a9da56c204047df2211986ddd844d24",
+        "bytes": 9237
+      },
+      {
+        "path": "code/cline/cline/sdk/packages/core/src/ClineCore.ts",
+        "sha256": "f42e676bed8354b1191a0e7c2bc2b684badd8a08e7de00195d39937ea2e5559f",
+        "bytes": 22121
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "lobehub/lobehub",
+    "url": "https://github.com/lobehub/lobehub",
+    "commit": "3918141d424efdc10ab8c6e04ae6d64896e6ab90",
+    "category": "chat-platform",
+    "design_use": "Agent 与执行 engine 分离；executor 可覆盖、human interaction 与 group orchestration 明确建模。社区许可证不能当普通 MIT。",
+    "root": "code/lobehub/lobehub",
+    "license_summary": "LobeHub Community License",
+    "license_files": [
+      {
+        "path": "code/lobehub/lobehub/LICENSE",
+        "sha256": "790a8c42f10beb4f5e9122e05a8e65d5522de49f89ac69cd31063c0f2be93ea4"
+      }
+    ],
+    "tracked_files": 19053,
+    "evidence": [
+      {
+        "path": "code/lobehub/lobehub/README.md",
+        "sha256": "fa6cb3f66c70ca9ca822035d91c09ba2f06ea9513b097fc36bd4ac12240b2be4",
+        "bytes": 39200
+      },
+      {
+        "path": "code/lobehub/lobehub/packages/agent-runtime/src/core/runtime.ts",
+        "sha256": "b72ad9b0d845946e66dfc900fd1f1bd1b94701b80822e1f6a7a8f9fdabf5d322",
+        "bytes": 34975
+      },
+      {
+        "path": "code/lobehub/lobehub/packages/agent-runtime/src/groupOrchestration/GroupOrchestrationRuntime.ts",
+        "sha256": "4ea29d8f8449222d49817fa597c58d638728a19e71cd73a14478c9e7da1cfa89",
+        "bytes": 5548
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "commit": "f8ae8a6c328946dc62cd0712961a0632574581bf",
+    "category": "chat-platform",
+    "design_use": "多模型/检索/工具/权限的产品集成，中间件处理消息和工具；前端产品并不替代安全执行环境。使用其专有根许可。",
+    "root": "code/open-webui/open-webui",
+    "license_summary": "Open WebUI License",
+    "license_files": [
+      {
+        "path": "code/open-webui/open-webui/LICENSE",
+        "sha256": "9ffc98c7be329932e0660fa3bfa0fbce679498e575fe9f21b7786b09edc4f36b"
+      }
+    ],
+    "tracked_files": 5125,
+    "evidence": [
+      {
+        "path": "code/open-webui/open-webui/README.md",
+        "sha256": "da3d46f4d7e6c158e13ed91e5e46250d22d278b972d8d1b028f5e0bb62be612b",
+        "bytes": 18194
+      },
+      {
+        "path": "code/open-webui/open-webui/backend/open_webui/utils/middleware.py",
+        "sha256": "5fca741a0abe4a79fc536abf09c662322e699f5c6f856f9a6fa3eb4451cabd3c",
+        "bytes": 318348
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "category": "skill-library",
+    "design_use": "技能流程、资源与可验收产物；MCP builder 强调契约和评估。docx/pdf/pptx/xlsx 为 source-available，按组件许可。",
+    "root": "code/anthropics/skills",
+    "license_summary": "Per-component licenses",
+    "license_files": [],
+    "tracked_files": 445,
+    "evidence": [
+      {
+        "path": "code/anthropics/skills/README.md",
+        "sha256": "f845fb2c8bb7f07966ea8bf597ab9654290ba7846bb40a435e42335317aa9f87",
+        "bytes": 5648
+      },
+      {
+        "path": "code/anthropics/skills/skills/mcp-builder/SKILL.md",
+        "sha256": "57231330040e18e033dad8b2fdc0340a6185034c32b42b7d3448f444a6af6cf2",
+        "bytes": 9328
+      },
+      {
+        "path": "code/anthropics/skills/skills/skill-creator/SKILL.md",
+        "sha256": "e030e7685e26283b4a76f5202aa3ae8516fb41dde799be5ae8ea6393ec009fe9",
+        "bytes": 33653
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "commit": "f359d43b406057f1a8cdbc4ea93b827642c162e6",
+    "category": "plugin-library",
+    "design_use": "插件装配 skills/commands/agents/hooks/MCP；名称 slug 不宜随意更改；市场收录不代表权限与兼容性已验证。",
+    "root": "code/anthropics/claude-plugins-official",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/anthropics/claude-plugins-official/LICENSE",
+        "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+      }
+    ],
+    "tracked_files": 556,
+    "evidence": [
+      {
+        "path": "code/anthropics/claude-plugins-official/README.md",
+        "sha256": "f5c9b424482e0d804da7aba16e183c27db782388fdb6e6a1e2ab25525c1b2958",
+        "bytes": 3956
+      },
+      {
+        "path": "code/anthropics/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/tool-design.md",
+        "sha256": "5fa646d6f847574c9c3f44876087a77ddb2ed31fc9440a448ed11d86f7ba8c4b",
+        "bytes": 7243
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "commit": "0722921d5542fc593105c27bd52630babd8b8c2a",
+    "category": "plugin-library",
+    "design_use": "下载技能和 MCP 的最大来源；声明式装配业务知识与执行能力，云端连接定义不等于 SaaS 实现源码。",
+    "root": "code/openai/plugins",
+    "license_summary": "Per-component licenses",
+    "license_files": [],
+    "tracked_files": 5406,
+    "evidence": [
+      {
+        "path": "code/openai/plugins/README.md",
+        "sha256": "e082d17242a85b827520694f915bd330073afc05c056ce16e2aadd1ed757289d",
+        "bytes": 1305
+      },
+      {
+        "path": "code/openai/plugins/plugins/figma/README.md",
+        "sha256": "76329df1cc8b79a69028e41a9bc3388877dc4a7006387e928470b98ec9bf934e",
+        "bytes": 2540
+      },
+      {
+        "path": "code/openai/plugins/plugins/data-analytics/src/analytics-app/handoff.mjs",
+        "sha256": "ed7badadc9a66fcff0db76026f317215a7264dc9463a3dff02f7a6fedac3657c",
+        "bytes": 521
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "commit": "49f948faa9258a0c61caceaf225e179651397431",
+    "category": "skill-library",
+    "design_use": "标准技能包与分场景资源；保留工具/运行时要求，跨宿主按实际能力映射，不能仅替换产品名。",
+    "root": "code/openai/skills",
+    "license_summary": "Per-component licenses",
+    "license_files": [],
+    "tracked_files": 783,
+    "evidence": [
+      {
+        "path": "code/openai/skills/README.md",
+        "sha256": "ab1bd8d8d305a9a1aa8e4b13ec703fd39fd71d60284fc539b91894fc1bf9471d",
+        "bytes": 1883
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "commit": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "category": "workflow-methods",
+    "design_use": "分阶段计划、调试、验证、评审可按需吸收；不继承强制全局启动规则或隐式扩大派发/审批。",
+    "root": "code/obra/superpowers",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/obra/superpowers/LICENSE",
+        "sha256": "0da33ed814ee87e72db078f489c4447af72f13d9f25d9e17476f32efd77705fc"
+      }
+    ],
+    "tracked_files": 238,
+    "evidence": [
+      {
+        "path": "code/obra/superpowers/README.md",
+        "sha256": "9b7be460027bf53c29f628eee72dceeebb83e52dd5e94a1b6f9828a64c579198",
+        "bytes": 14589
+      },
+      {
+        "path": "code/obra/superpowers/skills/using-superpowers/SKILL.md",
+        "sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba",
+        "bytes": 3192
+      },
+      {
+        "path": "code/obra/superpowers/skills/systematic-debugging/SKILL.md",
+        "sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+        "bytes": 9530
+      },
+      {
+        "path": "code/obra/superpowers/skills/verification-before-completion/SKILL.md",
+        "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+        "bytes": 3646
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "commit": "58b55a8921758d13453b440704fb1b5b208c0b0e",
+    "category": "context-methods",
+    "design_use": "上下文预算、压缩、长期记忆、评估、harness 与多 agent 隔离；高级 KV/cache 与自改进方法必须确认运行时条件。",
+    "root": "code/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/LICENSE",
+        "sha256": "b2ecf4e5067cfd29b14a71981286b4305b646d2fb21a62641cc70eaaacd19892"
+      }
+    ],
+    "tracked_files": 510,
+    "evidence": [
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/README.md",
+        "sha256": "0705d3c9b7662275d7b5879b9c356f8e7a9e423a113640c905fcd0d1494ae159",
+        "bytes": 24933
+      },
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/skills/context-compression/SKILL.md",
+        "sha256": "d76d904dd2d36dc00e3e37ad03e119f6dca9a367d153fa25889978bb52937cfc",
+        "bytes": 18788
+      },
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/skills/multi-agent-patterns/SKILL.md",
+        "sha256": "f2bcd2eb3ddc44b23a4eb8048fc310fe87bad66df78dcadead350f4cb3067916",
+        "bytes": 18916
+      },
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/skills/evaluation/SKILL.md",
+        "sha256": "00151fa07acc536d1d152b3474b2770fafb395f7ca544abba963ae580500c406",
+        "bytes": 17113
+      },
+      {
+        "path": "code/muratcankoylan/Agent-Skills-for-Context-Engineering/skills/tool-design/SKILL.md",
+        "sha256": "20744fac015632550c5a038f014b251743fb155368096b707d8d42bbe11f90d0",
+        "bytes": 20385
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "commit": "125efa029b4bfd84238bd2c4fd69c3406f802663",
+    "category": "agent-sdk",
+    "design_use": "Agent/Runner、handoff、session/run state 与工具 guardrails；链首/链尾检查并不覆盖所有副作用，按工具边界控制。",
+    "root": "code/openai/openai-agents-python",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/openai/openai-agents-python/LICENSE",
+        "sha256": "13df7812ca53ecaae1cb4a868844bb598373047ae1d580e4debfbef1dd5b6915"
+      }
+    ],
+    "tracked_files": 1684,
+    "evidence": [
+      {
+        "path": "code/openai/openai-agents-python/README.md",
+        "sha256": "cf68cb43182d6ea4f79a32421f6723e8ee2cc0f68f97524da7f300e9fc77940b",
+        "bytes": 9009
+      },
+      {
+        "path": "code/openai/openai-agents-python/docs/agents.md",
+        "sha256": "a7610fba9f6f95e3fad126f23600f644464bafb1d6a7e020090beff86a4619c9",
+        "bytes": 17801
+      },
+      {
+        "path": "code/openai/openai-agents-python/docs/guardrails.md",
+        "sha256": "becd1b53f30043cb4165a72471b9bc8c39c51d3b03b849e08317124304883745",
+        "bytes": 16594
+      },
+      {
+        "path": "code/openai/openai-agents-python/docs/handoffs.md",
+        "sha256": "dbf25e3780fd5eab005d2ebf92895044eb6184c0f77254167fc69f2e1e9853c6",
+        "bytes": 13426
+      },
+      {
+        "path": "code/openai/openai-agents-python/src/agents/run_state.py",
+        "sha256": "dcdb02ad9e289c63eb6ce1bb4875e1c1ffe8ee90b828f396620fd15317ffd3b4",
+        "bytes": 234382
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "openai/openai-agents-js",
+    "url": "https://github.com/openai/openai-agents-js",
+    "commit": "89a9ddf1e241e75f2e0ad4c15d89de9e215ebac6",
+    "category": "agent-sdk",
+    "design_use": "TypeScript runner、approval 与可恢复 RunState；序列化和工具 identity/version 耦合，不能假设与 Python 所有特性对称。",
+    "root": "code/openai/openai-agents-js",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/openai/openai-agents-js/LICENSE",
+        "sha256": "969d1c8178ad9a1ae2ff1e67534151d4cc58a2626274b272f918995bccd3a6ad"
+      }
+    ],
+    "tracked_files": 1641,
+    "evidence": [
+      {
+        "path": "code/openai/openai-agents-js/README.md",
+        "sha256": "3c7ba935ab6f062de05d771d0edd3a244a28c24a868e5f67bb1c5c65d7d49190",
+        "bytes": 6207
+      },
+      {
+        "path": "code/openai/openai-agents-js/packages/agents-core/src/runState.ts",
+        "sha256": "b6bfbb0bbc82bbc5ee775ed489724aba5fa0ba9db21c9011a70513ca34129bb3",
+        "bytes": 249467
+      },
+      {
+        "path": "code/openai/openai-agents-js/packages/agents-core/src/runner/runLoop.ts",
+        "sha256": "8f04c65cb88ce6f66c7b6a0eb88e6a32722270cfd831c20aed5525e91737cc7d",
+        "bytes": 14484
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "anthropics/claude-agent-sdk-python",
+    "url": "https://github.com/anthropics/claude-agent-sdk-python",
+    "commit": "b6e9d12fe1cc98dde988ab7b7713c1feeee50c6c",
+    "category": "agent-sdk",
+    "design_use": "包装 Claude CLI；allowed_tools 是 auto-approve，can_use_tool 只处理 ask，PreToolUse 与 tools/disallowed_tools 各有语义。",
+    "root": "code/anthropics/claude-agent-sdk-python",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/anthropics/claude-agent-sdk-python/LICENSE",
+        "sha256": "2c7f3d72461b6c088cc0cc0272671ed8165a5065a2102497443ba98a64da64a9"
+      }
+    ],
+    "tracked_files": 157,
+    "evidence": [
+      {
+        "path": "code/anthropics/claude-agent-sdk-python/README.md",
+        "sha256": "b25b92c9505664819251da90b5749c0cc462a3ad7ef1650fc0ae4b0da4df81f3",
+        "bytes": 13627
+      },
+      {
+        "path": "code/anthropics/claude-agent-sdk-python/src/claude_agent_sdk/types.py",
+        "sha256": "5b41c3c8ca2c1f1855b5f1775c7099d401d5f42dcada9bc872fc094f60806a10",
+        "bytes": 108911
+      },
+      {
+        "path": "code/anthropics/claude-agent-sdk-python/src/claude_agent_sdk/query.py",
+        "sha256": "d40889eca552f189188643c292ffdd9bfec706c7d7802a25b0aa992b329a9020",
+        "bytes": 5190
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "OpenHands/software-agent-sdk",
+    "url": "https://github.com/OpenHands/software-agent-sdk",
+    "commit": "3934349da2db0433238621542173a00a8af7439c",
+    "category": "agent-sdk-server",
+    "design_use": "Conversation/event store/security/workspace 与 Agent Server；IDLE 非终态，risk 分析与确认策略分离。调度由外部 automation 项目负责。",
+    "root": "code/OpenHands/software-agent-sdk",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/OpenHands/software-agent-sdk/LICENSE",
+        "sha256": "6129b054edd8cdac1252496d36e6a06848f0fb11e9d2564429ed79674ab4bf32"
+      }
+    ],
+    "tracked_files": 1865,
+    "evidence": [
+      {
+        "path": "code/OpenHands/software-agent-sdk/README.md",
+        "sha256": "bdc50c2993c8ac107c9d06e4ec41cefec3f1080115672a856f14b5f73ad7da3f",
+        "bytes": 11038
+      },
+      {
+        "path": "code/OpenHands/software-agent-sdk/openhands-sdk/openhands/sdk/conversation/state.py",
+        "sha256": "b71c400f326ad73bfe3b49c05ab0e0a88c9fda68aeedf5007d450bc6af8d05d3",
+        "bytes": 33414
+      },
+      {
+        "path": "code/OpenHands/software-agent-sdk/openhands-sdk/openhands/sdk/security/confirmation_policy.py",
+        "sha256": "a67cbdc600e0730497d05120509b1a5226f66007aab8602f24a6692c0f49700f",
+        "bytes": 2206
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "OpenHands/OpenHands",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "commit": "2d174175cedeac45a0bd7c776728464d7c1140a7",
+    "category": "agent-ui",
+    "design_use": "当前快照是 Agent Canvas 前端，消费 SDK/Agent Server，不直接执行动作或提供隔离，automation 是独立服务。",
+    "root": "code/OpenHands/OpenHands",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/OpenHands/OpenHands/LICENSE",
+        "sha256": "e1d1fa9f3a8d7bef24449d488fcd8f00f8f272cac297bb9bed161eb6175b876a"
+      }
+    ],
+    "tracked_files": 2629,
+    "evidence": [
+      {
+        "path": "code/OpenHands/OpenHands/README.md",
+        "sha256": "4ebc158da53d17f88de7ee175bb4fbe56f6442b81314f089682e11412cc34d31",
+        "bytes": 12877
+      },
+      {
+        "path": "code/OpenHands/OpenHands/docs/architecture.md",
+        "sha256": "9f806944e4b13f4cc714da3f86f335b5f5bfcdeb49b9cf68ccaced2aaff3f84c",
+        "bytes": 4404
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "OpenHands/OpenHands-CLI",
+    "url": "https://github.com/OpenHands/OpenHands-CLI",
+    "commit": "0403f1a79a9fc62a6c7be21c17d7b51f64245ad2",
+    "category": "historical-cli",
+    "design_use": "README 声明不再积极维护；可参考 ACP/local/remote runner，但新项目优先核验维护中入口。",
+    "root": "code/OpenHands/OpenHands-CLI",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/OpenHands/OpenHands-CLI/LICENSE",
+        "sha256": "84dcb241634cd853d1b6e9cd8a1d09a7b0d63ad8d3a02bda495e6526b76d41fe"
+      }
+    ],
+    "tracked_files": 415,
+    "evidence": [
+      {
+        "path": "code/OpenHands/OpenHands-CLI/README.md",
+        "sha256": "cb6210f77cd9b9764408cedece0838afd2b60ffa0ec47cb7fcedbb1682eb74d6",
+        "bytes": 9450
+      },
+      {
+        "path": "code/OpenHands/OpenHands-CLI/openhands_cli/tui/core/conversation_runner.py",
+        "sha256": "bbc3c106f0904f8d0b2cde81e7593ba6e08d9b733a8dc7e39c05cf50ce106178",
+        "bytes": 10698
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "modelcontextprotocol/typescript-sdk",
+    "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+    "commit": "b022522089a0c8b632595c6e7b536453945ed5a9",
+    "category": "protocol-sdk",
+    "design_use": "main 为 v2 分包；v1 import 路径与协议版本需分别匹配，避免把旧插件示例混用进新 SDK。",
+    "root": "code/modelcontextprotocol/typescript-sdk",
+    "license_summary": "Apache-2.0 / MIT transition; documentation CC-BY-4.0 (see LICENSE)",
+    "license_files": [
+      {
+        "path": "code/modelcontextprotocol/typescript-sdk/LICENSE",
+        "sha256": "fe5d1e818af2a1038f2805f7fdccdca778a61b42fb182786d2a3f4c8c7c7e9b2"
+      }
+    ],
+    "tracked_files": 1143,
+    "evidence": [
+      {
+        "path": "code/modelcontextprotocol/typescript-sdk/README.md",
+        "sha256": "e9f0700efac8a538000c40e144b95808db8342e2b97ba6b0593e15e5c70ca658",
+        "bytes": 8494
+      },
+      {
+        "path": "code/modelcontextprotocol/typescript-sdk/packages/server/README.md",
+        "sha256": "c61dee2ed5a20d0870ce69fbe2fd89f026c36809ff473780e2b0e8a28729745a",
+        "bytes": 1924
+      },
+      {
+        "path": "code/modelcontextprotocol/typescript-sdk/packages/client/README.md",
+        "sha256": "7092144c3427247e24ca24b018d36f05d654fab95f81206660cb7b253727234a",
+        "bytes": 1346
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "modelcontextprotocol/servers",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "commit": "bbb701e7ac1e57f3edd1c2836b94c5457eaf7b9c",
+    "category": "mcp-reference",
+    "design_use": "七个 reference server 为教学实现；有工具不等于生产安全，roots 不能扩大初始允许范围。",
+    "root": "code/modelcontextprotocol/servers",
+    "license_summary": "Apache-2.0 / MIT transition; documentation CC-BY-4.0 (see LICENSE)",
+    "license_files": [
+      {
+        "path": "code/modelcontextprotocol/servers/LICENSE",
+        "sha256": "fe5d1e818af2a1038f2805f7fdccdca778a61b42fb182786d2a3f4c8c7c7e9b2"
+      }
+    ],
+    "tracked_files": 320,
+    "evidence": [
+      {
+        "path": "code/modelcontextprotocol/servers/README.md",
+        "sha256": "fd0ea51e5c960b4715e540c17161c30b76a551e5a46a0a72a8660e3ee5c8d23f",
+        "bytes": 8877
+      },
+      {
+        "path": "code/modelcontextprotocol/servers/src/filesystem/server.ts",
+        "sha256": "11138abb726aa80a83bd0146d0d72f32eb5a9204cc817d327f4512e3bb994c30",
+        "bytes": 34298
+      },
+      {
+        "path": "code/modelcontextprotocol/servers/src/everything/docs/architecture.md",
+        "sha256": "4a4b1cfe72f3ee85c61f723be52e30985dcbfbca7f8a9e9b38e98795abeb0861",
+        "bytes": 1660
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "ag-ui-protocol/ag-ui",
+    "url": "https://github.com/ag-ui-protocol/ag-ui",
+    "commit": "2aabfc8cada0b429927e4c256c9cf990a6791e5f",
+    "category": "ui-protocol",
+    "design_use": "事件/状态协议连接 agent 与 UI；按版本处理 snapshot/delta、顺序及 conformance，协议本身不执行业务或鉴权。",
+    "root": "code/ag-ui-protocol/ag-ui",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/ag-ui-protocol/ag-ui/LICENSE",
+        "sha256": "06dcddbb6908a0c6dd4a9e8ec822eea41d5a460a53089fecccc8a68049e99241"
+      }
+    ],
+    "tracked_files": 5225,
+    "evidence": [
+      {
+        "path": "code/ag-ui-protocol/ag-ui/README.md",
+        "sha256": "7a5ca7d6de259ec5e0fb144febb7977f1d132d07f33df955da0553d9197fc5e5",
+        "bytes": 13039
+      },
+      {
+        "path": "code/ag-ui-protocol/ag-ui/docs/concepts/architecture.mdx",
+        "sha256": "ab99a807271ff1ae144c978dec5f4ac6e16cd673fcbbff7619bc7058b884e790",
+        "bytes": 6586
+      },
+      {
+        "path": "code/ag-ui-protocol/ag-ui/sdks/typescript/packages/core/src/generated/types.ts",
+        "sha256": "babdb5de14b3ebe41bcc586fcc6c0d914bd6263e34fc67a978090731f2828b77",
+        "bytes": 94992
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "commit": "69ef37e9424c0a7ea9dd2293b559e43ec8176379",
+    "category": "skill-format",
+    "design_use": "SKILL.md frontmatter 与渐进披露规范；可移植目录不意味着宿主支持所有扩展字段和依赖。",
+    "root": "code/agentskills/agentskills",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/agentskills/agentskills/LICENSE",
+        "sha256": "fe3eef8350e66cd74a866ab1c4393cf62d910ee44a0ccd2be662f3a4c331e03c"
+      }
+    ],
+    "tracked_files": 139,
+    "evidence": [
+      {
+        "path": "code/agentskills/agentskills/README.md",
+        "sha256": "2a6085abedcbe08076c5d9e3be2bf1b83ac26a5785a66aa59db46122df9db189",
+        "bytes": 3420
+      },
+      {
+        "path": "code/agentskills/agentskills/docs/specification.mdx",
+        "sha256": "fdbd51921c822f5249632e33e129effd1278a3356e50d0c1a81f91dd969d025a",
+        "bytes": 7413
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "continuedev/continue",
+    "url": "https://github.com/continuedev/continue",
+    "commit": "5522c6f44ca0ac3528b37244818fbfa39b5af470",
+    "category": "historical-cli",
+    "design_use": "README 标停止维护/只读；permissions 文档提示 headless 与 TUI 默认不同，应显式策略而非借用默认。",
+    "root": "code/continuedev/continue",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/continuedev/continue/LICENSE",
+        "sha256": "1331d606d58ef9d6553b399ed67d12afe61c6e1364ca4c2cce551231072647bc"
+      }
+    ],
+    "tracked_files": 3058,
+    "evidence": [
+      {
+        "path": "code/continuedev/continue/README.md",
+        "sha256": "9fbeea91d9b2e3a8c9402559090a1c129e68cbd8665e3e0ef00cc9242101ec6d",
+        "bytes": 2854
+      },
+      {
+        "path": "code/continuedev/continue/extensions/cli/src/permissions/README.md",
+        "sha256": "c0a22d14f31a1e16409588845575f84ce0e552b66f4859a6e2abe196d2cda3dc",
+        "bytes": 3122
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "RooCodeInc/Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "commit": "b867ec9145750d0ae1ff7f02d35406e9bf2a0b16",
+    "category": "coding-runtime",
+    "design_use": "CLI 从 ask/say 消息区分等待、完成、可恢复与输出；checkpoint 与执行状态分开，不能把部分流当终态。",
+    "root": "code/RooCodeInc/Roo-Code",
+    "license_summary": "Apache License 2.0",
+    "license_files": [
+      {
+        "path": "code/RooCodeInc/Roo-Code/LICENSE",
+        "sha256": "c1bbe783413405d9a0f513c9dbcd027a3a164fdf0220ea0c813e2a5f6991cb06"
+      }
+    ],
+    "tracked_files": 3022,
+    "evidence": [
+      {
+        "path": "code/RooCodeInc/Roo-Code/README.md",
+        "sha256": "9202cd10a20018d65c6d97e373251a27b52dc0083a9137a46a214d2037426218",
+        "bytes": 3464
+      },
+      {
+        "path": "code/RooCodeInc/Roo-Code/apps/cli/docs/AGENT_LOOP.md",
+        "sha256": "9562ad77ddb4167377cf3d3d653710ad98edc66edcec5b66bc4a462ae4ea7726",
+        "bytes": 13930
+      },
+      {
+        "path": "code/RooCodeInc/Roo-Code/src/services/checkpoints/ShadowCheckpointService.ts",
+        "sha256": "253d8c77c1a07bbef70b76e4f3263ec59950357d5eb125d43c57946393037576",
+        "bytes": 17290
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "opencode-ai/opencode",
+    "url": "https://github.com/opencode-ai/opencode",
+    "commit": "73ee493265acf15fcd8caab2bc8cd3bd375b63cb",
+    "category": "historical-cli",
+    "design_use": "已归档的 Go/Bubble Tea 产品，指向 Crush；权限服务与 session approval 是历史设计参考，非 anomalyco OpenCode。",
+    "root": "code/opencode-ai/opencode",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/opencode-ai/opencode/LICENSE",
+        "sha256": "d1a22104b5a2fea30dc4c3129b46917b66658f42cf97071a1e840811ca834f84"
+      }
+    ],
+    "tracked_files": 162,
+    "evidence": [
+      {
+        "path": "code/opencode-ai/opencode/README.md",
+        "sha256": "7c6ea675cf9b946599a8cc8094f845951a28da2d9619bdfede445a85642c8d42",
+        "bytes": 25156
+      },
+      {
+        "path": "code/opencode-ai/opencode/internal/permission/permission.go",
+        "sha256": "10b43cfb23054bfe5bb02f4235bcf035baeabc7acaa4c77e288100fd57b2cf6f",
+        "bytes": 3204
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "openai/openai-chatkit-advanced-samples",
+    "url": "https://github.com/openai/openai-chatkit-advanced-samples",
+    "commit": "9729a1c05411f10bd02c2a0780b23c443d5415d6",
+    "category": "ui-samples",
+    "design_use": "FastAPI + React 示例，widget action 与服务端业务状态结合；示例 store/账号流程需要生产实现替换。",
+    "root": "code/openai/openai-chatkit-advanced-samples",
+    "license_summary": "MIT License",
+    "license_files": [
+      {
+        "path": "code/openai/openai-chatkit-advanced-samples/LICENSE",
+        "sha256": "65936bb4b34f90d0a1441859f15a4d8a8d5297782c7baf97218cbbc8bd63c785"
+      }
+    ],
+    "tracked_files": 226,
+    "evidence": [
+      {
+        "path": "code/openai/openai-chatkit-advanced-samples/README.md",
+        "sha256": "0154bf4ba1d9e3223076e9a2bc431a05ce56e403f5e2de9b9f87e2dc9481876d",
+        "bytes": 16195
+      },
+      {
+        "path": "code/openai/openai-chatkit-advanced-samples/examples/customer-support/backend/app/server.py",
+        "sha256": "b25ff829d4933df14aefab52457913fbb865c41e7b50f4b8631871463c3e2811",
+        "bytes": 22562
+      },
+      {
+        "path": "code/openai/openai-chatkit-advanced-samples/examples/customer-support/backend/app/support_agent.py",
+        "sha256": "920ccdb310198a62806082d7ee38821708ba6be722df1d1d6a1e237e777153e3",
+        "bytes": 8581
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  },
+  {
+    "id": "converge-ai-labs/agent-foundation",
+    "url": "https://github.com/converge-ai-labs/agent-foundation",
+    "commit": "136cb59eb1a7fa778ff640bd23d2cc0a0a58d1e1",
+    "category": "harness-service",
+    "design_use": "Harness 定义与 fresh RunBindings、状态恢复分开；Service 提供平台边界，UI 不等于 HTTP SDK；总树预算由宿主聚合。",
+    "root": "code/converge-ai-labs/agent-foundation",
+    "license_summary": "Apache-2.0",
+    "license_files": [
+      {
+        "path": "code/converge-ai-labs/agent-foundation/LICENSE",
+        "sha256": "5da5cdb43cd70dc74a375a4fdff8192e5bcf388b74b4d4e0f2da2a07807f7da1"
+      }
+    ],
+    "tracked_files": 3210,
+    "evidence": [
+      {
+        "path": "code/converge-ai-labs/agent-foundation/README.md",
+        "sha256": "8d7d7100a41562c52aaf0e9bcab759e4df9c5d9ec3b1af2f4212ca2d7f46b78b",
+        "bytes": 10077
+      },
+      {
+        "path": "code/converge-ai-labs/agent-foundation/docs/a13n-harness/agents-and-runs.md",
+        "sha256": "de909579e34c460e34db2c917d388686d2c332b2ee7b3dc9e2a3c33342a88631",
+        "bytes": 20196
+      },
+      {
+        "path": "code/converge-ai-labs/agent-foundation/docs/a13n-harness/mcp.md",
+        "sha256": "f50bdaeac1e91e50684f9bf5c1a5d21b74e2cdb6c8694d6ca0fb3b04076963ef",
+        "bytes": 12738
+      },
+      {
+        "path": "code/converge-ai-labs/agent-foundation/deploy/docker/compose/README.md",
+        "sha256": "a27c91362d6f013e6811760a96eb58b554c61b2d61bc0b29e718f3d92b9eadd9",
+        "bytes": 10619
+      }
+    ],
+    "verification": "selected source/document inspection; whole application not run"
+  }
+]

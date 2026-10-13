@@ -1,0 +1,20 @@
+{
+  "id": "x-openai-gnomad-graphql-skill-9edf1f3",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "scripts/gnomad_graphql.py",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Resolved Python/GraphQL execution and removed fixed /tmp raw-output path.",
+  "remaining_dependencies": [
+    "Python 3 and requests or equivalent GraphQL client",
+    "network",
+    "authorized output directory"
+  ],
+  "retained_product_mentions": [
+    "gnomAD"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

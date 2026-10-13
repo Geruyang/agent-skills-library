@@ -1,0 +1,14 @@
+{
+  "id": "x-openai-improve-skill-f2384ee",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md"
+  ],
+  "summary": "改写当前执行者称谓，去除作者个人Codex路径；保留plugin-eval命令和按评测改善技能的流程。",
+  "remaining_dependencies": [
+    "已安装plugin-eval CLI；可发现的skill-creator；原插件chat-first-workflows参考需另行定位。"
+  ],
+  "retained_product_mentions": []
+}

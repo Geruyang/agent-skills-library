@@ -1,0 +1,16 @@
+{
+  "id": "x-openai-playwright-interactive-21b0e4d",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md"
+  ],
+  "summary": "将强制 Codex js_repl 配置与关闭沙箱改为当前宿主持久 JavaScript/Playwright 能力和最小必要权限；使用真实 Node.js 本地截图保存函数替代 codex.emitImage，保留交互、视觉验收及清理流程。",
+  "remaining_dependencies": [
+    "Node.js、Playwright及浏览器；Electron场景需Electron；持久终端/REPL或等价有状态浏览器能力；宿主图片查看能力。"
+  ],
+  "retained_product_mentions": [
+    "NOTICE.txt 中 .codex/skills/playwright 为资产来源出处，保留许可证与归属"
+  ]
+}

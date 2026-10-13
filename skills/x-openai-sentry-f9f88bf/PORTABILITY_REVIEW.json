@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-sentry-f9f88bf",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文使用真实sentry CLI及环境变量，未发现Codex宿主绑定；保持只读、账号与脱敏约束。",
+  "remaining_dependencies": [
+    "sentry CLI、组织/项目读权限与本地认证；所列curl/Bash安装例只适用于具备该shell的环境。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

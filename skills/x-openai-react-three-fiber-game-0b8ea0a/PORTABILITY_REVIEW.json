@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-react-three-fiber-game-0b8ea0a",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Documented missing upstream companion/shared reference paths and capability-based resource discovery.",
+  "remaining_dependencies": [
+    "React/Three.js runtime",
+    "browser/WebGL",
+    "external upstream companion references"
+  ],
+  "retained_product_mentions": [
+    "React",
+    "Three.js",
+    "React Three Fiber",
+    "Rapier"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-email-ed6e91a",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced source-plugin skill shortcuts with catalog discovery while preserving Resend/Vercel application setup.",
+  "remaining_dependencies": [
+    "Resend and Vercel access",
+    "Node.js/package manager",
+    "optional companion skills"
+  ],
+  "retained_product_mentions": [
+    "Resend",
+    "React Email",
+    "Vercel",
+    "Next.js"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

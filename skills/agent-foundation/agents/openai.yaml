@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Foundation"
+  short_description: "使用 a13n 开发 agent、MCP、持久状态和自托管服务"
+  default_prompt: "使用 $agent-foundation 根据我的需求选择集成入口并实现和验证。"

@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-omniverse-realtime-viewer-5b29cb5",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Full skill and supporting host/path matches reviewed; NVIDIA runtime and Linux deployment examples are target-platform requirements.",
+  "remaining_dependencies": [
+    "NVIDIA GPU",
+    "ovrtx/ovstream",
+    "selected viewer toolchain and deployment access"
+  ],
+  "retained_product_mentions": [
+    "NVIDIA Omniverse",
+    "OpenUSD",
+    "Tauri",
+    "Electron",
+    "WebRTC"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

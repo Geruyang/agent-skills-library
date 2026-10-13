@@ -1,0 +1,16 @@
+{
+  "id": "x-obra-requesting-code-review-6720254",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md"
+  ],
+  "summary": "把general-purpose固定角色名改为实际可用独立审查能力；保留不继承会话历史和审查门槛，缺能力时明确阻塞。",
+  "remaining_dependencies": [
+    "Git；真实独立子agent或用户选择的独立人工审查路径；reviewer模板。"
+  ],
+  "retained_product_mentions": [
+    "general-purpose仅保留为某些宿主的角色标签说明。"
+  ]
+}

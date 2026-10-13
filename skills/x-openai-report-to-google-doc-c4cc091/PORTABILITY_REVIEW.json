@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-report-to-google-doc-c4cc091",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md",
+    "scripts/report_to_google_doc/plan.py"
+  ],
+  "summary": "将生成的上传计划和技能正文从Codex Google Drive工具名改为能力描述/真实schema映射，输出放当前项目；没有Drive上传能力时交付已验证DOCX并明确未上传。",
+  "remaining_dependencies": [
+    "Python及beautifulsoup4/pillow/python-docx；可选图表渲染器；远端交付需Google Drive认证和上传/读取能力。"
+  ],
+  "retained_product_mentions": [
+    "Google Drive/Docs MIME与真实产品名称"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "x-muratcankoylan-self-improvement-loops-11b60a4",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是通用自改进架构知识，保留评估器隔离、权限和人类决策门槛；无Codex运行绑定。",
+  "remaining_dependencies": [
+    "具备隔离权限、锁定评估器及预算的实际运行时；研究claim索引位于完整集合，独立副本依赖已带references的证据和原集合索引。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

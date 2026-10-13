@@ -1,0 +1,17 @@
+{
+  "id": "x-anthropics-plugin-settings-cf24312",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "明确为Claude Code插件设置教程；.claude与Read/Bash是教程对象，不做全局替换。",
+  "remaining_dependencies": [
+    "Claude Code插件目标环境",
+    "运行shell示例需Bash和文本工具"
+  ],
+  "retained_product_mentions": [
+    "Claude Code、.claude/*.local.md、allowed-tools",
+    "ralph-loop/multi-agent-swarm示例"
+  ]
+}

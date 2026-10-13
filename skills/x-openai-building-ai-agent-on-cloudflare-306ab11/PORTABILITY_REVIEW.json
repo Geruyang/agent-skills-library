@@ -1,0 +1,16 @@
+{
+  "id": "x-openai-building-ai-agent-on-cloudflare-306ab11",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Cloudflare教程接口、绑定及CLI属于真实产品，未见助手宿主绑定。",
+  "remaining_dependencies": [
+    "Cloudflare账号与Workers",
+    "Node.js、Wrangler CLI、网络及部署权限"
+  ],
+  "retained_product_mentions": [
+    "Cloudflare Agents SDK、Workers AI、Durable Objects"
+  ]
+}

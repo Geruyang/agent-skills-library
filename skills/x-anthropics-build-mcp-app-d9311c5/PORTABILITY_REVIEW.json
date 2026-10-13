@@ -1,0 +1,20 @@
+{
+  "id": "x-anthropics-build-mcp-app-d9311c5",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "加入MCP Apps/elicitation协商能力检测与资源定位，通用执行者改为assistant；SDK不冒充助手工具。",
+  "remaining_dependencies": [
+    "Node.js、MCP/ext-apps SDK",
+    "目标客户端Apps/elicitation实测能力",
+    "可选build-mcp-server/build-mcpb技能"
+  ],
+  "retained_product_mentions": [
+    "Claude/ChatGPT真实客户端",
+    "Claude Desktop配置及directory要求",
+    "@modelcontextprotocol/ext-apps真实SDK"
+  ]
+}

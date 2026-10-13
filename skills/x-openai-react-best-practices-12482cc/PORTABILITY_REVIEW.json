@@ -1,0 +1,19 @@
+{
+  "id": "x-openai-react-best-practices-12482cc",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Reviewed full skill and supporting host-match scan; package-relative rules and compiled AGENTS.md are bundled product guidance.",
+  "remaining_dependencies": [
+    "React/Next.js project for application",
+    "runtime tools for validation"
+  ],
+  "retained_product_mentions": [
+    "React",
+    "Next.js",
+    "Vercel"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

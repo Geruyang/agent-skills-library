@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-gsap-646176d",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Full GSAP skill and host-match scan reviewed; product API names and composition scope are intentional.",
+  "remaining_dependencies": [
+    "GSAP and browser/composition runtime"
+  ],
+  "retained_product_mentions": [
+    "GSAP",
+    "HyperFrames"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

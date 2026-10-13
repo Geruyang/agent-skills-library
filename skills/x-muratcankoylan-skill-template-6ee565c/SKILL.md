@@ -1,0 +1,130 @@
+---
+name: x-muratcankoylan-skill-template-6ee565c
+description: Template for creating new Agent Skills for context engineering. Use this template when adding new skills to the collection.
+---
+
+### 导出副本边界与技能别名
+
+迁移、安装、修复和经验回写只作用于当前加载的目标宿主技能副本。原 Codex 技能/MCP、下载的源码和 `original-skills` 均为来源材料，不因执行本副本而写入；只有用户另行明确要求配置 Codex 产品本身时，才按该产品流程处理指定目标。脚本需要安装目录或状态目录时，显式提供目标路径；不得从 `CODEX_HOME` 隐式推断写入位置。
+
+跨技能名称可能沿用源库别名。先查 [技能别名表](../../skill-aliases.json)，优先选择同来源、同插件的条目，再使用其 `id` 调用或读取对应入口；不得假定旧 `$skill`、`superpowers:skill` 名称在新宿主直接注册。不能确定目标时先核对，不替换真实产品命令或 Shell 环境变量。
+
+## 跨宿主使用约定
+
+本副本供支持 Agent Skills 的客户端使用。先检查当前宿主实际提供的工具、权限和已连接服务，再执行正文工作流。原文中的宿主工具标识是能力参考；只有实际发现该工具时才可调用，其他宿主应使用经核验的等价 MCP、CLI 或 API。没有等价能力的步骤必须报告不可用，不能虚构调用或完成状态。
+
+技能资源以本技能目录为基准；输出写入当前项目中用户指定的位置。通过技能名称或自然语言触发，具体快捷命令由宿主决定。涉及真实产品、模型 API、协议字段和官方网址的名称保持原意。授权、审批、隐私和工具范围限制在迁移后仍然有效；不得为兼容而扩大权限。具体依赖与迁移说明见同目录 `PORTABILITY.md`。
+
+# Skill Name
+
+Provide a clear, concise description of what this skill covers and when to use it. This description appears in skill discovery and should help agents (and humans) determine when this skill is relevant.
+
+**Important**: Keep the total SKILL.md body under 500 lines for optimal performance. Move detailed reference material to separate files in the `references/` directory.
+
+Every skill body must make its ownership boundary explicit. The description and `When to Activate` section should say what the skill owns and which adjacent skills own nearby work. This prevents broad skills from stealing activation from narrower skills.
+
+## When to Activate
+
+Describe specific situations, tasks, or contexts where this skill should be activated. Include both direct triggers (specific keywords or task types) and indirect signals (broader patterns that indicate skill relevance).
+
+Write in third person. The description is injected into the system prompt, and inconsistent point-of-view can cause discovery problems.
+
+- Good: "Processes Excel files and generates reports"
+- Avoid: "I can help you process Excel files"
+
+Include a short "Do not activate" block for adjacent skills. Example:
+
+- Do not activate for project-level pipeline shape: `project-development`.
+- Do not activate for individual tool schema design: `tool-design`.
+
+## Core Concepts
+
+Explain the fundamental concepts covered by this skill. These are the mental models, principles, or frameworks that the skill teaches.
+
+Default assumption: Claude is already very smart. Only add context Claude does not already have. Challenge each piece of information:
+- "Does Claude really need this explanation?"
+- "Can I assume Claude knows this?"
+- "Does this paragraph justify its token cost?"
+
+Prefer behavior-changing mechanisms over general background. If a concept should be reusable across the corpus, add or update a record in `researcher/mechanisms/registry.jsonl`.
+
+## Detailed Topics
+
+### Topic 1
+
+Provide detailed explanation of the first major topic. Include specific techniques, patterns, or approaches. Use examples to illustrate concepts.
+
+### Topic 2
+
+Provide detailed explanation of the second major topic. Continue with additional topics as needed.
+
+For longer topics, consider moving content to `references/` and linking:
+- See [detailed reference](references/topic-details.md) for complete implementation
+
+## Practical Guidance
+
+Provide actionable guidance for applying the skill. Include common patterns, anti-patterns to avoid, and decision frameworks for choosing between approaches.
+
+Match the level of specificity to the task's fragility:
+- **High freedom**: Multiple approaches are valid, decisions depend on context
+- **Medium freedom**: Preferred pattern exists, some variation acceptable
+- **Low freedom**: Operations are fragile, specific sequence must be followed
+
+Practical guidance should be executable by an agent: a workflow, checklist, decision table, or concrete operating rule. If a section only explains history or motivation, move it to `references/`.
+
+## Examples
+
+Provide concrete examples that illustrate skill application. Examples should show before/after comparisons, demonstrate correct usage, or show how to handle edge cases.
+
+Use input/output pairs for clarity:
+
+**Example:**
+```
+Input: [describe input]
+Output: [show expected output]
+```
+
+## Guidelines
+
+List specific guidelines to follow when applying this skill. These should be actionable rules that can be checked or verified.
+
+1. Guideline one with specific, verifiable criteria
+2. Guideline two with clear success conditions
+3. Continue as needed
+
+## Gotchas
+
+List experience-derived failure modes, common mistakes, and counterintuitive behaviors. These are the highest-signal content in any skill. Each gotcha should be specific, actionable, and non-overlapping with guidance already in the skill body. Use numbered format:
+
+1. **Short descriptive title**: One to two sentences explaining what goes wrong and how to prevent it.
+2. **Another gotcha title**: Description of the failure mode and what to do instead.
+
+## Integration
+
+Explain how this skill integrates with other skills in the collection. List related skills as plain text (not links) to avoid cross-directory reference issues:
+
+- skill-name-one - Brief description of relationship
+- skill-name-two - Brief description of relationship
+
+## References
+
+Internal reference (use relative path to skill's own reference files):
+- [Reference Name](references/reference-file.md) - Description
+
+Related skills in this collection:
+- skill-name - Relationship description
+
+External resources:
+- Research papers, documentation, or guides
+
+Numeric, benchmark, volatile, or vendor-performance claims need an inline `claim-*` ID backed by `researcher/claims/index.jsonl`, or they should be softened and moved to dated reference material.
+
+---
+
+## Skill Metadata
+
+**Created**: [Date]
+**Last Updated**: [Date]
+**Author**: [Author or Attribution]
+**Version**: [Version number]
+

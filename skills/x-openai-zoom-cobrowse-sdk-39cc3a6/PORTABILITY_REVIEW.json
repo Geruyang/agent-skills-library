@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-zoom-cobrowse-sdk-39cc3a6",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是Zoom Cobrowse的产品SDK流程，未将执行者或工具绑定到Codex。",
+  "remaining_dependencies": [
+    "Zoom Cobrowse SDK、应用凭据、浏览器与被授权会话；产品选择路由start/plan-zoom-product需从宿主技能目录查找。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

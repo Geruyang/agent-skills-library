@@ -1,0 +1,16 @@
+{
+  "id": "x-openai-adobe-design-from-template-08bc699",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md"
+  ],
+  "summary": "将Codex/Claude的固定图库与生成能力断言改为实际Adobe连接器权限和呈现能力；保留模板选择、文档URN继承、编辑边界和缺能力说明。",
+  "remaining_dependencies": [
+    "已登录Adobe Express连接器及初始化/搜索；可选文本、图片、动画和导出工具。"
+  ],
+  "retained_product_mentions": [
+    "Adobe Express/API字段/工具名称及官方产品实体"
+  ]
+}

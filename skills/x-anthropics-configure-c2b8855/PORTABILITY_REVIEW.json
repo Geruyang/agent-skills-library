@@ -1,0 +1,18 @@
+{
+  "id": "x-anthropics-configure-c2b8855",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "明确教程配置原Claude Discord服务，先核验路径/命令/权限，保留产品默认目录。",
+  "remaining_dependencies": [
+    "Claude Discord channel server",
+    "授权凭据文件读写与系统权限工具"
+  ],
+  "retained_product_mentions": [
+    "Discord、Claude渠道配置",
+    "~/.claude/channels/discord与/discord命令"
+  ]
+}

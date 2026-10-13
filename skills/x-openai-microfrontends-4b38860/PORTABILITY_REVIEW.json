@@ -1,0 +1,23 @@
+{
+  "id": "x-openai-microfrontends-4b38860",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Reviewed main skill and supporting host-match scan; CLI/interactive terminal requirements are actual Vercel product constraints.",
+  "remaining_dependencies": [
+    "Vercel CLI/account",
+    "interactive terminal for documented operations",
+    "project framework"
+  ],
+  "retained_product_mentions": [
+    "Vercel",
+    "Microfrontends",
+    "Next.js",
+    "SvelteKit",
+    "React Router",
+    "Vite"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

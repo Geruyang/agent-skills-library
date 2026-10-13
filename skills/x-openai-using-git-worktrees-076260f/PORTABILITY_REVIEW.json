@@ -1,0 +1,20 @@
+{
+  "id": "x-openai-using-git-worktrees-076260f",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Added shell/Git discovery, native worktree contract checks, and non-bypassing permission failure behavior.",
+  "remaining_dependencies": [
+    "Git",
+    "writable checkout",
+    "project runtime/test tools"
+  ],
+  "retained_product_mentions": [
+    "Git",
+    "EnterWorktree as a native-tool example"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

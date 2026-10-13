@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-figma-implement-design-9adff58",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Figma MCP是可跨宿主连接的真实服务；正文已区分remote/desktop与节点选择，不作虚构API改名。",
+  "remaining_dependencies": [
+    "已认证Figma MCP及其get_design_context/get_screenshot等实际能力；项目构建和可视验证工具；跨技能边界指向的Figma技能需另行安装/定位。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

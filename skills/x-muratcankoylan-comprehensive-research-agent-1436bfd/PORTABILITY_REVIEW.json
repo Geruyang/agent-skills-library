@@ -1,0 +1,15 @@
+{
+  "id": "x-muratcankoylan-comprehensive-research-agent-1436bfd",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是通用调研证据/错误恢复流程；search/read_file等为能力描述，无Codex强制运行接口。",
+  "remaining_dependencies": [
+    "实际网页搜索/读取和文件读取能力；参考文章/API版本需任务执行时核验。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

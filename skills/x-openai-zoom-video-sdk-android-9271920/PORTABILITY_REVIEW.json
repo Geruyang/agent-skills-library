@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-zoom-video-sdk-android-9271920",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是Android Video SDK开发导航，未发现宿主执行绑定。",
+  "remaining_dependencies": [
+    "Android开发环境、Zoom Video SDK与session token；broader guide需完整父级Video SDK包或对应技能。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

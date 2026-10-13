@@ -1,0 +1,17 @@
+{
+  "id": "x-anthropics-cardputer-buddy-abea3bc",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "设备布局、源码目录及Claude Buddy都是目标项目约定，非执行宿主假设。",
+  "remaining_dependencies": [
+    "用户build-with-claude源码及buddy/onboard脚本",
+    "Cardputer-Adv、Python、串口"
+  ],
+  "retained_product_mentions": [
+    "Claude Buddy、Claude Desktop Hardware Buddy",
+    "MicroPython、UIFlow、m5-onboard"
+  ]
+}

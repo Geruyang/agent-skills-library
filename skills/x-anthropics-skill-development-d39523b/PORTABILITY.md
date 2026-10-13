@@ -1,0 +1,21 @@
+# 迁移记录
+
+来源：`upstream/anthropics/claude-plugins-official`
+
+原名称：`skill-development`
+
+原始副本位于导出包 `original-skills/x-anthropics-skill-development-d39523b`，来源文件未修改。当前文件为独立副本。
+
+原宿主元数据／执行限制如下。目标宿主须在其配置或等价权限机制中实施这些约束；若无法实施，则不要执行依赖这些约束的自动化步骤。模型名称作为原宿主参考，不强制目标宿主使用不存在的模型。
+
+```yaml
+version: 0.1.0
+```
+
+目标宿主能力和远程服务可用性不由安装文件保证；查阅导出包的 MCP 清单与审核记录。
+
+## 本次逐项迁移审核（第 3 批）
+
+- 结果：`reviewed-unchanged`。已完整读取 skill-development 入口并静态审计资源、路径和宿主工具假设；未发现需要修改的 Codex 执行绑定。
+- 审核入口与匹配资源：`SKILL.md`。
+- 仍需环境能力：遵守原技能所列产品、工具链、连接器与认证要求；未运行外部服务验证。

@@ -1,0 +1,18 @@
+# 迁移记录
+
+来源：`upstream/openai/plugins`
+
+原名称：`payments`
+
+原始副本位于导出包 `original-skills/x-openai-payments-ab6f543`，来源文件未修改。当前文件为独立副本。
+
+目标宿主能力和远程服务可用性不由安装文件保证；查阅导出包的 MCP 清单与审核记录。
+
+## 跨宿主复审结论（2026-10-12）
+
+- 审核范围：完整阅读 `SKILL.md`；manifest 未命中宿主词仍做正文人工检查。未执行源技能的业务操作。
+- 结论：Stripe/Vercel/Next.js 产品集成内容保留；跨技能路由需在目标安装清单核对。
+- 状态：`reviewed-unchanged`（此轮正文未改动）。
+- 剩余依赖：Stripe 账号与测试/生产凭据、Node.js SDK、Vercel Marketplace（使用该路径时）；关联技能 marketplace、routing-middleware、env-vars、vercel-functions。
+- 保留的真实产品/API 名称：Stripe、Vercel Marketplace、Next.js。
+- 验证边界：完成静态可移植性审核；未验证远程账号、运行时软件、网络或目标宿主工具可用性。产品版本与价格等资料不在本次审核中重新核验。

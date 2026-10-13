@@ -1,0 +1,23 @@
+{
+  "id": "x-openai-connect-recommend-050fe06",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "references/discovery-questions.md",
+    "references/company-researcher.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced named question/search/web/file executor tools in main and supporting docs with available capabilities.",
+  "remaining_dependencies": [
+    "Web/company evidence or supplied description",
+    "Stripe references",
+    "optional filesystem"
+  ],
+  "retained_product_mentions": [
+    "Stripe",
+    "Stripe Connect",
+    "Stripe Dashboard"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

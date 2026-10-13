@@ -1,0 +1,20 @@
+{
+  "id": "x-anthropics-skill-creator-80032f6",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "将执行者、隔离并行、遥测、浏览器及临时输出改为真实能力分支；明确Claude CLI优化器后端限制。",
+  "remaining_dependencies": [
+    "Python及捆绑评估/打包脚本",
+    "可选隔离runner与HTML交付",
+    "优化器另需已认证Claude CLI或测试过的适配后端"
+  ],
+  "retained_product_mentions": [
+    "Claude CLI和.claude/commands真实产品协议",
+    "Claude.ai/Cowork原实现示例",
+    "Anthropic示例/历史表述"
+  ]
+}

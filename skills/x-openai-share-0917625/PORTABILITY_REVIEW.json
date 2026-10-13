@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-share-0917625",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced missing upstream policy/context paths with resource discovery and mapped deployment to real target capabilities.",
+  "remaining_dependencies": [
+    "Product Design router/policy refs are not bundled",
+    "selected hosting API/CLI and account"
+  ],
+  "retained_product_mentions": [
+    "Sites",
+    "Vercel",
+    "Product Design",
+    "Vinext",
+    ".openai/hosting.json"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

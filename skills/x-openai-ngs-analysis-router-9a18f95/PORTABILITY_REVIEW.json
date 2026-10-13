@@ -1,0 +1,21 @@
+{
+  "id": "x-openai-ngs-analysis-router-9a18f95",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced assumed repository NGS paths with support-package discovery and explicit missing-resource/provisional routing behavior.",
+  "remaining_dependencies": [
+    "NGS shared scripts/intake schema/registry are not bundled",
+    "selected pipeline and genome data"
+  ],
+  "retained_product_mentions": [
+    "nf-core",
+    "BaseSpace",
+    "Terra",
+    "DNAnexus"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

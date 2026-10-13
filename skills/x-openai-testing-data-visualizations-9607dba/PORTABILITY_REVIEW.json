@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-testing-data-visualizations-9607dba",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 manifest 命中；将 Codex 图像生成执行者改为通用图像生成，明确外部设计资源定位与真实浏览器验证能力/受阻状态。",
+  "remaining_dependencies": [
+    "项目测试运行器与可截图/交互的浏览器 MCP、CLI 或库",
+    "共享 visualization references/assets 和相邻技能按需定位；独立副本不保证包含"
+  ],
+  "retained_product_mentions": [
+    "React、D3、Canvas、WebGL、Playwright 为真实技术/产品引用，保留"
+  ]
+}

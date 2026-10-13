@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-supabase-postgres-best-practices-fa6b377",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Full skill and supporting host-match scan reviewed; SQL/Postgres and Supabase references contain no executor bindings.",
+  "remaining_dependencies": [
+    "Postgres/Supabase access for live validation or changes"
+  ],
+  "retained_product_mentions": [
+    "Postgres",
+    "Supabase"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

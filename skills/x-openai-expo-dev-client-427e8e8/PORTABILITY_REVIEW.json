@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-expo-dev-client-427e8e8",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Full workflow reviewed; CLI commands and artifact extensions are Expo/EAS platform requirements, not agent host bindings.",
+  "remaining_dependencies": [
+    "Node.js",
+    "Expo/EAS CLI",
+    "platform build/signing tools"
+  ],
+  "retained_product_mentions": [
+    "Expo",
+    "EAS",
+    "TestFlight",
+    "App Store Connect",
+    "Xcode"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

@@ -1,0 +1,418 @@
+{
+  "original_remaining": 41,
+  "remaining_not_enabled": 30,
+  "entries": [
+    {
+      "name": "airtable",
+      "purpose": "查询/更新表格库与记录",
+      "requirements": "Airtable 账号授权；可访问的 base，组织允许第三方集成。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/airtable/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "atlassian-rovo",
+      "purpose": "搜索和管理 Jira、Confluence",
+      "requirements": "Atlassian 站点账号；OAuth 2.1，或管理员允许的 API token；保留原导出端点。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/atlassian-rovo/.mcp.json"
+      ],
+      "official_docs": "https://developer.atlassian.com/cloud/rovo-mcp/guides/authentication-and-authorization/"
+    },
+    {
+      "name": "xcodebuildmcp",
+      "purpose": "编译、调试 iOS/macOS，操控模拟器",
+      "requirements": "必须 macOS + Xcode/Simulator；当前 Windows 不能直接运行这些工作流。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/build-ios-apps/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "canva",
+      "purpose": "创建设计、编辑素材、检查品牌规范",
+      "requirements": "Canva 账号授权；高级功能受套餐权限限制。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/canva/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "clickup",
+      "purpose": "管理任务、项目、文档",
+      "requirements": "ClickUp 账号授权；所在 Workspace 的相应权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/clickup/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "cloudflare-api",
+      "purpose": "查询/管理 Cloudflare 资源、Workers 等",
+      "requirements": "Cloudflare OAuth，或其支持的限定权限 API token；账号/区域资源权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/cloudflare/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "codex-security",
+      "purpose": "安全扫描、漏洞调查和验证工作流",
+      "requirements": "本地 Node 服务已装；实际扫描仍需独立模型/账号配置及具体预检依赖。启动器将 CODEX_HOME、扫描状态和配置限定为项目副本；未借用原 Codex 登录。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/openai/plugins/plugins/codex-security/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "consensus",
+      "purpose": "检索论文、整理文献证据",
+      "requirements": "Consensus 账号授权；可用额度/功能由账号决定。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/consensus/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "datadog",
+      "purpose": "查询日志、指标、追踪与生产故障",
+      "requirements": "Datadog 账号授权和组织权限；服务端点须与账号站点/区域匹配。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/datadog/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "dropbox",
+      "purpose": "搜索、读取、保存和分享文件",
+      "requirements": "Dropbox 账号授权及目标文件/团队权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/dropbox/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "figma",
+      "purpose": "读取设计、设计转代码、Code Connect",
+      "requirements": "Figma OAuth；文件权限；调用额度与功能取决于套餐和席位。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/figma/.mcp.json"
+      ],
+      "official_docs": "https://developers.figma.com/docs/figma-mcp-server/rate-limits-access/"
+    },
+    {
+      "name": "github",
+      "purpose": "仓库、代码、PR、Issue、CI",
+      "requirements": "GitHub OAuth 或 PAT；私有仓库权限；组织可能要求 SSO/应用批准。OpenAI/Anthropic 两个定义已按同一端点去重。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/github/.mcp.json",
+        "code/anthropics/claude-plugins-official/external_plugins/github/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "gmail",
+      "purpose": "搜索邮件、读取邮件、处理草稿",
+      "requirements": "已接入远端，匿名仅能握手/列工具。业务需 Google OAuth 2.0、自己的 Cloud 项目与 OAuth 客户端、相关 API/MCP 服务及 Workspace Developer Preview 资格。",
+      "installation_status": "configured_remote_auth_pending",
+      "sources": [
+        "code/openai/plugins/plugins/gmail/.mcp.json"
+      ],
+      "official_docs": "https://developers.google.com/workspace/guides/configure-mcp-servers"
+    },
+    {
+      "name": "google-calendar",
+      "purpose": "查询日程、空闲时间、管理事件",
+      "requirements": "已接入远端；业务需 Google OAuth 2.0、Calendar scopes、Cloud API/MCP 服务、OAuth 客户端及 Developer Preview 资格。",
+      "installation_status": "configured_remote_auth_pending",
+      "sources": [
+        "code/openai/plugins/plugins/google-calendar/.mcp.json"
+      ],
+      "official_docs": "https://developers.google.com/workspace/calendar/api/guides/configure-mcp-server"
+    },
+    {
+      "name": "google-drive",
+      "purpose": "搜索/读写 Drive 文件及文档工作流",
+      "requirements": "已接入远端；业务需 Google OAuth 2.0、Drive scopes、Cloud API/MCP 服务、OAuth 客户端及 Developer Preview 资格。",
+      "installation_status": "configured_remote_auth_pending",
+      "sources": [
+        "code/openai/plugins/plugins/google-drive/.mcp.json"
+      ],
+      "official_docs": "https://developers.google.com/workspace/guides/configure-mcp-servers"
+    },
+    {
+      "name": "granola",
+      "purpose": "搜索会议笔记、提取决策和背景",
+      "requirements": "Granola 账号授权；账号内可访问的会议记录。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/granola/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "higgsfield",
+      "purpose": "生成图片、视频及广告素材",
+      "requirements": "Higgsfield 账号授权；生成任务可能需要账号额度。未调用生成业务。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/higgsfield/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "linear",
+      "purpose": "Issue、项目、任务与进度管理",
+      "requirements": "Linear OAuth 和 Workspace 权限；两个来源的相同端点已去重。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/linear/.mcp.json",
+        "code/anthropics/claude-plugins-official/external_plugins/linear/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "monday-com",
+      "purpose": "看板、任务、CRM 与工作流管理",
+      "requirements": "monday.com 账号授权；板块/Workspace 权限及组织集成策略。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/monday-com/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "notion",
+      "purpose": "搜索、读取/创建页面、知识库整理",
+      "requirements": "Notion OAuth；授权 Workspace 和页面访问权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/notion/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "openai-api-key-local-confirmation",
+      "purpose": "确认新 API key 应保存的本地 env 路径",
+      "requirements": "本地 Node MCP 已装，本身不要求密钥。调用确认表单需宿主支持 MCP elicitation；完整创建密钥还需独立 OpenAI 账号/平台选择器流程。此工具不创建密钥。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/openai/plugins/plugins/openai-developers/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "posthog",
+      "purpose": "产品分析、功能开关、实验与错误",
+      "requirements": "PostHog 账号/项目授权；本轮原端点连接失败，不能将此错误判定为已完成认证。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/posthog/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "sentry",
+      "purpose": "查询异常、事件与故障上下文",
+      "requirements": "Sentry 账号授权；对应组织和项目权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/sentry/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "shopify",
+      "purpose": "店铺、商品、库存、订单及开店流程",
+      "requirements": "远端已接入、匿名可列工具；操作店铺需 Shopify 账号/店铺授权与员工或应用权限。未执行建店/交易。",
+      "installation_status": "configured_remote_auth_pending",
+      "sources": [
+        "code/openai/plugins/plugins/shopify/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "slack",
+      "purpose": "搜索频道、消息并进行协作",
+      "requirements": "Slack OAuth/用户授权；Workspace 管理员允许应用/MCP 和相应 scopes。未读取消息或发送消息。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/slack/.mcp.json"
+      ],
+      "official_docs": "https://docs.slack.dev/ai/slack-mcp-server"
+    },
+    {
+      "name": "stripe",
+      "purpose": "支付集成、商品、订阅和账单",
+      "requirements": "Stripe 账号授权及工具对应权限；测试/生产模式分别管理。未执行支付操作。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/stripe/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "supabase",
+      "purpose": "数据库、SQL、认证、迁移与函数",
+      "requirements": "Supabase 账号授权；组织和项目权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/supabase/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "vercel",
+      "purpose": "部署、项目管理、日志与构建排查",
+      "requirements": "Vercel OAuth；对应 Team/项目权限。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/vercel/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "zoom",
+      "purpose": "会议与会议资料的检索分析",
+      "requirements": "Zoom OAuth 2.1、会议权限，可能受管理员与区域设置限制；原清单端点本轮连接失败。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/openai/plugins/plugins/zoom/.mcp.json"
+      ],
+      "official_docs": "https://developers.zoom.us/docs/mcp/servers/"
+    },
+    {
+      "name": "context7",
+      "purpose": "检索指定版本的库文档和示例",
+      "requirements": "当前端点实测返回 401；需要 Context7 API key 或 OAuth。旧 README 的“匿名可用”与本轮现状不一致，未按旧说明直接启用。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/context7/.mcp.json"
+      ],
+      "official_docs": "https://context7.com/docs/resources/all-clients"
+    },
+    {
+      "name": "discord",
+      "purpose": "Discord 与 Claude Code 消息桥接",
+      "requirements": "Bun（已准备）+ Discord Bot token、允许的 intents/频道、配对或 allowlist；Claude Channels 需会话显式启用/组织许可。TRAE 无等价 Channels 验证。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/discord/.mcp.json"
+      ],
+      "official_docs": "https://code.claude.com/docs/en/channels"
+    },
+    {
+      "name": "fakechat",
+      "purpose": "本机网页聊天，用于测试 Claude Channels",
+      "requirements": "已装 Bun 与本地 MCP；没有外部账号。Claude 端口8787、TRAE端口8788，均只监听127.0.0.1。自动入站消息需 Claude Channels 的插件/会话许可；本轮未开启权限绕过标志，TRAE不保证入站推送。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/fakechat/.mcp.json"
+      ],
+      "official_docs": "https://code.claude.com/docs/en/channels"
+    },
+    {
+      "name": "firebase",
+      "purpose": "Firebase 项目、Firestore、Auth、Hosting 等",
+      "requirements": "已装 Node MCP；云资源业务仍需 Firebase CLI 登录或 ADC，以及目标 Firebase 项目权限。项目隔离配置；本轮不调用业务工具。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/firebase/.mcp.json"
+      ],
+      "official_docs": "https://firebase.google.com/docs/ai-assistance/mcp-server"
+    },
+    {
+      "name": "gitlab",
+      "purpose": "代码仓库、MR、Issue、CI/CD",
+      "requirements": "GitLab 账号授权；实例需启用相应 GitLab Duo Agent Platform/MCP，满足实例版本和组织策略。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/gitlab/.mcp.json"
+      ],
+      "official_docs": "https://docs.gitlab.com/user/model_context_protocol/mcp_server/"
+    },
+    {
+      "name": "imessage",
+      "purpose": "iMessage 与 Claude Code 消息桥接",
+      "requirements": "必须 macOS；Bun、Messages 登录、chat.db/磁盘读取和 AppleScript 自动化权限；Claude Channels 许可。Windows 不适用。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/imessage/.mcp.json"
+      ],
+      "official_docs": "https://code.claude.com/docs/en/channels"
+    },
+    {
+      "name": "laravel-boost",
+      "purpose": "Laravel 代码、Artisan、路由和数据库辅助",
+      "requirements": "必须有真实 Laravel 项目、PHP、Composer、laravel/boost 依赖和 artisan；当前目录不是 Laravel 项目且缺 PHP/Composer，不能凭空启动。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/laravel-boost/.mcp.json"
+      ],
+      "official_docs": null
+    },
+    {
+      "name": "playwright",
+      "purpose": "网页自动化、截图与端到端测试",
+      "requirements": "已装 Node MCP；使用本机 Edge，headless + isolated，不复用个人浏览器登录。MCP不需要账号；被访问网站可另需登录。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/playwright/.mcp.json"
+      ],
+      "official_docs": "https://github.com/microsoft/playwright-mcp"
+    },
+    {
+      "name": "serena",
+      "purpose": "代码符号检索、语义分析和编辑",
+      "requirements": "已装独立 Python/Serena；无需云密钥。使用时激活具体源码仓库，语言能力取决于该语言 LSP/SDK；未给34个仓库同时建索引。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/serena/.mcp.json"
+      ],
+      "official_docs": "https://oraios.github.io/serena/02-usage/010_installation.html"
+    },
+    {
+      "name": "telegram",
+      "purpose": "Telegram 与 Claude Code 消息桥接",
+      "requirements": "Bun（已准备）+ BotFather token、配对/allowlist；Claude Channels 会话启用及组织许可。TRAE 的入站 Channels 未验证。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/telegram/.mcp.json"
+      ],
+      "official_docs": "https://code.claude.com/docs/en/channels"
+    },
+    {
+      "name": "terraform",
+      "purpose": "查询 Terraform provider/module 文档",
+      "requirements": "已装官方 Windows 0.4.0，与原清单版本一致；registry 模式无需 Docker/TFE_TOKEN。私有注册表、HCP/TFE 管理需 TFE_TOKEN、实例地址和权限，目前未启用。",
+      "installation_status": "installed_local",
+      "sources": [
+        "code/anthropics/claude-plugins-official/external_plugins/terraform/.mcp.json"
+      ],
+      "official_docs": "https://releases.hashicorp.com/terraform-mcp-server/0.4.0/"
+    },
+    {
+      "name": "example-server",
+      "purpose": "演示 MCP 配置格式",
+      "requirements": "mcp.example.com 是占位域名，不是真实服务；必须替换成自己实现的 endpoint。",
+      "installation_status": "not_enabled",
+      "sources": [
+        "code/anthropics/claude-plugins-official/plugins/example-plugin/.mcp.json"
+      ],
+      "official_docs": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "x-openai-aiq-research-f2e9ae4",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文已采用真实Python HTTP助手、可配置后端和能力条件分支；Codex仅出现在平台清单与原始评测结果，保持原文。",
+  "remaining_dependencies": [
+    "Python3.11+；兼容AI-Q Blueprint服务器及网络；非本地后端明确用户信任；此公开helper不管理认证。"
+  ],
+  "retained_product_mentions": [
+    "Codex/claude-code为历史评测代理",
+    "NVIDIA AI-Q/版本与产品URL"
+  ]
+}

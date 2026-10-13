@@ -1,0 +1,16 @@
+{
+  "id": "x-muratcankoylan-book-sft-pipeline-d3892d7",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文为标准Python/Tinker训练流程；README中的Codex安装部分是明确产品教程，未作为当前执行环境要求，保留原意。",
+  "remaining_dependencies": [
+    "ePub解析依赖、LLM/Tinker服务与凭据、训练预算；相关上下文工程技能按需要安装。"
+  ],
+  "retained_product_mentions": [
+    "Codex/Claude/Cursor带标签安装教程",
+    "Qwen/Tinker/Gemini等真实产品与API示例"
+  ]
+}

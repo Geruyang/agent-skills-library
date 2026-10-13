@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-zoom-meeting-sdk-android-4398669",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是Android Meeting SDK开发导航，未发现执行者/专属工具绑定；保留真实SDK/API。",
+  "remaining_dependencies": [
+    "Android开发环境、Meeting SDK、Zoom应用凭据；父级OAuth/签名指南与broader guide依赖完整Zoom技能包或单独安装的对应技能。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "x-openai-shopify-polaris-admin-extensions-f065ad5",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Removed guaranteed Bash and source-host identity; retained actual Shopify scaffolding and target-aware validation requirements.",
+  "remaining_dependencies": [
+    "Node.js scripts or equivalent Shopify docs/validator",
+    "Shopify CLI for scaffolding"
+  ],
+  "retained_product_mentions": [
+    "Shopify",
+    "Polaris",
+    "Preact",
+    "Claude/Cursor in upstream validator catalog metadata"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

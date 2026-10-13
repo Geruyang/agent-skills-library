@@ -1,0 +1,16 @@
+{
+  "id": "x-muratcankoylan-context-engineering-collection-19d0266",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文为通用上下文工程知识；README 的 Codex 安装示例、兼容性验证脚本和研究证据属于真实产品与历史记录，逐类核查后保持原文。",
+  "remaining_dependencies": [
+    "嵌套参考技能与 Python 验证环境；实际编排、记忆或 KV 操作取决于宿主能力。"
+  ],
+  "retained_product_mentions": [
+    "Codex/Claude/Cursor 安装教程和兼容平台名",
+    "研究 raw evidence、PROVENANCE 与 CHANGELOG 中的历史产品/模型名称"
+  ]
+}

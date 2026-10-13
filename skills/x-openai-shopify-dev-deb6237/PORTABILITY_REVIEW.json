@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-shopify-dev-deb6237",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Resolved Node script paths and actual host identity with official Shopify documentation fallback and blocked behavior.",
+  "remaining_dependencies": [
+    "Node.js or verified Shopify docs connector",
+    "network"
+  ],
+  "retained_product_mentions": [
+    "Shopify"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

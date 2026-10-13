@@ -1,0 +1,21 @@
+{
+  "id": "x-openai-ngs-dna-somatic-variants-7c4f044",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Replaced assumed NGS runner paths with resolved support-package paths and honest blocked/alternative execution behavior.",
+  "remaining_dependencies": [
+    "NGS runners are not bundled",
+    "GATK/nf-core and genome resources"
+  ],
+  "retained_product_mentions": [
+    "GATK",
+    "Mutect2",
+    "nf-core/sarek",
+    "gnomAD"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

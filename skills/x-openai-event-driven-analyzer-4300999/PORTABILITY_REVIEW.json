@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-event-driven-analyzer-4300999",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 manifest 命中；把 request_user_input 和原 sibling/shared 布局假设改为宿主工具探测、真实目录定位与依赖阻塞，保留事件分析及子工作流。",
+  "remaining_dependencies": [
+    "Public Equity Investing router 与 shared runtime/intake/HTML 契约",
+    "事件披露、时间戳行情及可选研究来源",
+    "Python event_math helper；HTML 视觉检查能力"
+  ],
+  "retained_product_mentions": [
+    "Public Equity Investing、Credit Markets、SEC 表单和市场/API schema 引用保留"
+  ]
+}

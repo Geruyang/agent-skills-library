@@ -1,0 +1,26 @@
+{
+  "id": "x-openai-figma-use-678d26c",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "references/gotchas.md",
+    "references/validation-and-recovery.md",
+    "references/component-patterns.md",
+    "references/api-reference.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Adapted script execution, logging, tool discovery, page concurrency, helper APIs, and error recovery in main and supporting docs.",
+  "remaining_dependencies": [
+    "Authorized Figma Plugin API runner",
+    "metadata/render/upload capabilities as needed",
+    "companion design/library workflows"
+  ],
+  "retained_product_mentions": [
+    "Figma",
+    "FigJam",
+    "Figma Slides",
+    "Plugin API"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-turborepo-bf99aac",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Reviewed all 611 lines; Bash/Ubuntu CI examples, environment variables, output names and paths are project/product examples.",
+  "remaining_dependencies": [
+    "Turborepo",
+    "project package manager/runtime",
+    "Vercel account for remote cache"
+  ],
+  "retained_product_mentions": [
+    "Turborepo",
+    "Vercel",
+    "GitHub Actions",
+    "Bun",
+    "Next.js"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

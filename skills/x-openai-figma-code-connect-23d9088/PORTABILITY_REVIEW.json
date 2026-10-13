@@ -1,0 +1,19 @@
+{
+  "id": "x-openai-figma-code-connect-23d9088",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Mapped Figma reference MCP operations to verified discovery/property capabilities while retaining the parserless template contract.",
+  "remaining_dependencies": [
+    "Figma published components and Code Connect access"
+  ],
+  "retained_product_mentions": [
+    "Figma",
+    "Code Connect",
+    "TypeScript"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

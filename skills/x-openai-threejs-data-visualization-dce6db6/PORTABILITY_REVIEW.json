@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-threejs-data-visualization-dce6db6",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "共享理论/模板按包资源定位，缺失前置报告，保留真实图形库及平台API。",
+  "remaining_dependencies": [
+    "build-web-data-visualization共享foundations和advanced-interactive模板",
+    "目标浏览器GPU/WebGL及选定图形库"
+  ],
+  "retained_product_mentions": [
+    "Three.js、WebGL/WebGPU、deck.gl等库",
+    "WebXR和浏览器权限API"
+  ]
+}

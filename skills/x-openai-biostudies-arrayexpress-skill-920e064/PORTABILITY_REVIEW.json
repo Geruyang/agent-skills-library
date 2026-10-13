@@ -1,0 +1,21 @@
+{
+  "id": "x-openai-biostudies-arrayexpress-skill-920e064",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "scripts/rest_request.py",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Resolved Python/HTTP execution and removed fixed /tmp raw-output path.",
+  "remaining_dependencies": [
+    "Python 3 and requests or equivalent HTTP client",
+    "network",
+    "authorized output directory"
+  ],
+  "retained_product_mentions": [
+    "BioStudies",
+    "ArrayExpress"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted support-file scan/inspection. Static review only; source workflows not executed."
+}

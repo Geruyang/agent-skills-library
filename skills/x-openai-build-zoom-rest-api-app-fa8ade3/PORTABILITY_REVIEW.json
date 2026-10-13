@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-build-zoom-rest-api-app-fa8ade3",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是Zoom REST API集成流程，未发现Codex执行者或私有工具依赖。",
+  "remaining_dependencies": [
+    "Zoom应用注册、OAuth与端点scopes、联网API访问及宿主编程工具。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

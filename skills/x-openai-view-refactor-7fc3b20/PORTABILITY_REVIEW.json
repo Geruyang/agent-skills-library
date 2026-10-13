@@ -1,0 +1,16 @@
+{
+  "id": "x-openai-view-refactor-7fc3b20",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "macOS重构正文的文件结构与API是目标工程约定，无宿主固定路径。",
+  "remaining_dependencies": [
+    "macOS SwiftUI工程与Apple工具链",
+    "可选swiftui-patterns/appkit-interop"
+  ],
+  "retained_product_mentions": [
+    "macOS、SwiftUI、AppKit"
+  ]
+}

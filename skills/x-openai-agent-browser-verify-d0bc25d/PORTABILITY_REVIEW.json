@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-agent-browser-verify-d0bc25d",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 manifest 命中；保留 agent-browser 产品命令，正文增加 CLI/真实等价浏览器能力检查、实际服务器 URL 和产物目录解析、不可验证状态；禁止未采集 console 即宣称无错误。",
+  "remaining_dependencies": [
+    "agent-browser CLI 或具备导航/截图/DOM/console 能力的真实浏览器 MCP/API/库",
+    "可达开发服务器；Vercel/Workflow 日志仅在对应后端存在时使用"
+  ],
+  "retained_product_mentions": [
+    "metadata 的 Introducing Codex URL 为来源引用，保留；agent-browser、Vercel、Next.js、Vite、Workflow DevKit 是真实产品"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "x-openai-twilio-content-template-builder-21754fa",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Reviewed full template workflow; SDK calls, Console routes and credential variables are service interfaces, not host tools.",
+  "remaining_dependencies": [
+    "Twilio SDK or API",
+    "account credentials",
+    "channel sender/approval"
+  ],
+  "retained_product_mentions": [
+    "Twilio",
+    "WhatsApp",
+    "Meta",
+    "SMS",
+    "RCS",
+    "MMS"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

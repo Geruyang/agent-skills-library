@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/converge-ai-labs/agent-foundation",
+  "commit": "136cb59eb1a7fa778ff640bd23d2cc0a0a58d1e1",
+  "date": "2026-10-12",
+  "license": "Apache-2.0",
+  "kind": "Authored cross-client skill based on inspected source and documentation",
+  "upstream_modified": false,
+  "framework_runtime_installed": false
+}

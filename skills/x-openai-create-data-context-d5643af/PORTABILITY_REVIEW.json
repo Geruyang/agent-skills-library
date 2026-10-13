@@ -1,0 +1,22 @@
+{
+  "id": "x-openai-create-data-context-d5643af",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md",
+    "references/automation.md",
+    "references/semantic-layer/weekly-polling-automation.md",
+    "scripts/data_analytics_preflight.py",
+    "scripts/record_plugin_install_suppression.py"
+  ],
+  "summary": "将语义层安装目录、脚本状态根和自动化机制改为可发现宿主能力；修复独立导出后的 source-category-config 相对路径。保留明确授权、专用任务与回读验证门槛。",
+  "remaining_dependencies": [
+    "Python；来源连接器认证；本地技能发现；可选调度器必须支持持久化、独立任务身份和回读。",
+    "完整插件级历史测试仍依赖原插件布局，不能等同于独立技能运行验收。"
+  ],
+  "retained_product_mentions": [
+    "ChatGPT personal Skills 是独立真实产品分支",
+    "--codex-home 仅保留为显式传入的旧 CLI 参数别名，不再默认读取 Codex 目录"
+  ]
+}

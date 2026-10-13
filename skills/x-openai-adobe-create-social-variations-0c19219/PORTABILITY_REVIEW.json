@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-adobe-create-social-variations-0c19219",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md"
+  ],
+  "summary": "按实际组件可用性选择Adobe上传、选图和预览，不再以Codex/Claude名称推定能力；替换固定上传目录，保留Adobe API名、云资产上传约束与预览审批。",
+  "remaining_dependencies": [
+    "已认证Adobe Creative Cloud MCP连接；裁切、上传、预览及可选生成/视频权限；网络上传权限。"
+  ],
+  "retained_product_mentions": [
+    "Adobe Creative Cloud / Adobe for creativity 与真实工具名称",
+    "平台名称和尺寸示例保留，运行时仍需按用户目标核验"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "x-anthropics-discernment-nudge-50d7acd",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "辨析提示的固定输出是技能行为，无宿主硬绑定，保留。",
+  "remaining_dependencies": [],
+  "retained_product_mentions": [
+    "AI Fluency框架"
+  ]
+}

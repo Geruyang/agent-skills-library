@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-notion-research-documentation-890939f",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json",
+    "SKILL.md",
+    "evaluations/README.md"
+  ],
+  "summary": "移除强制Codex MCP安装、旧rmcp开关和重启步骤，改为当前宿主Notion MCP/授权API发现、OAuth及明确阻塞；Notion工具别名只作能力映射。",
+  "remaining_dependencies": [
+    "Notion MCP或已授权API；OAuth、工作区访问及所需读写权限。"
+  ],
+  "retained_product_mentions": [
+    "Notion产品、https://mcp.notion.com/mcp服务URL和API操作语义"
+  ]
+}

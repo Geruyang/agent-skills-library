@@ -1,0 +1,19 @@
+# 迁移记录
+
+来源：`upstream/openai/plugins`
+
+原名称：`build-run-debug`
+
+原始副本位于导出包 `original-skills/x-openai-build-run-debug-59814d0`，来源文件未修改。当前文件为独立副本。
+
+目标宿主能力和远程服务可用性不由安装文件保证；查阅导出包的 MCP 清单与审核记录。
+
+## Cross-host manual review: batch 6 (2026-10-12)
+
+- Result: `adapted`. Made Codex Run-button and git initialization conditional while preserving the portable macOS build/run script workflow.
+- Static evidence: read the complete SKILL.md (135 pre-review lines) and all 12 manifest host matches; inspected files: `SKILL.md`, `references/run-button-bootstrap.md`.
+- Remaining dependencies:
+  - macOS, Xcode or Swift toolchain, Bash and optional LLDB/log access
+  - Optional verified host Run-action configuration; local build script is independently deliverable
+- Retained product/API references: Codex, OpenAI.
+- Limits: static portability review only. No source-skill workflow, installer, remote call, credential action, hardware operation or publication was run. Tool/CLI availability, permissions, installed versions and remote access must be verified at use time. If an equivalent capability is absent, report the missing step and provide a local handoff where the original workflow permits one; do not fabricate completion.

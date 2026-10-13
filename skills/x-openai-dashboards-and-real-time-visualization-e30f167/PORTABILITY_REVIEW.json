@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-dashboards-and-real-time-visualization-e30f167",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "将缺失插件树外引用改为可定位包资源标识；测试技能按名称定位，缺失明确阻塞。",
+  "remaining_dependencies": [
+    "build-web-data-visualization共享foundations",
+    "可选testing-data-visualizations",
+    "项目数据和可视化运行环境"
+  ],
+  "retained_product_mentions": [
+    "Canvas/WebGL和图形库实现选项"
+  ]
+}

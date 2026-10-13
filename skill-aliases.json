@@ -1,0 +1,5340 @@
+[
+  {
+    "id": "x-anthropics-academy-guide-0ebe436",
+    "original_name": "academy-guide",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "academy-guide",
+    "entry": "skills/x-anthropics-academy-guide-0ebe436/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-algorithmic-art-a6e3ab9",
+    "original_name": "algorithmic-art",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "algorithmic-art",
+    "entry": "skills/x-anthropics-algorithmic-art-a6e3ab9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-brand-guidelines-964d525",
+    "original_name": "brand-guidelines",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "brand-guidelines",
+    "entry": "skills/x-anthropics-brand-guidelines-964d525/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-canvas-design-2bba889",
+    "original_name": "canvas-design",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "canvas-design",
+    "entry": "skills/x-anthropics-canvas-design-2bba889/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-claude-api-5244e01",
+    "original_name": "claude-api",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "claude-api",
+    "entry": "skills/x-anthropics-claude-api-5244e01/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-discernment-nudge-50d7acd",
+    "original_name": "discernment-nudge",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "discernment-nudge",
+    "entry": "skills/x-anthropics-discernment-nudge-50d7acd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-doc-coauthoring-0604709",
+    "original_name": "doc-coauthoring",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "doc-coauthoring",
+    "entry": "skills/x-anthropics-doc-coauthoring-0604709/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-docx-4f5de80",
+    "original_name": "docx",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "docx",
+    "entry": "skills/x-anthropics-docx-4f5de80/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-frontend-design-64f18a5",
+    "original_name": "frontend-design",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "frontend-design",
+    "entry": "skills/x-anthropics-frontend-design-64f18a5/SKILL.md",
+    "other_origins": [
+      "upstream/anthropics/claude-plugins-official"
+    ]
+  },
+  {
+    "id": "x-anthropics-internal-comms-52d9b46",
+    "original_name": "internal-comms",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "internal-comms",
+    "entry": "skills/x-anthropics-internal-comms-52d9b46/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-mcp-builder-be5a12b",
+    "original_name": "mcp-builder",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "mcp-builder",
+    "entry": "skills/x-anthropics-mcp-builder-be5a12b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-pdf-d551e34",
+    "original_name": "pdf",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "pdf",
+    "entry": "skills/x-anthropics-pdf-d551e34/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-pptx-155e3b5",
+    "original_name": "pptx",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "pptx",
+    "entry": "skills/x-anthropics-pptx-155e3b5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-skill-creator-80032f6",
+    "original_name": "skill-creator",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "skill-creator",
+    "entry": "skills/x-anthropics-skill-creator-80032f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-slack-gif-creator-b1e130c",
+    "original_name": "slack-gif-creator",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "slack-gif-creator",
+    "entry": "skills/x-anthropics-slack-gif-creator-b1e130c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-theme-factory-410b94f",
+    "original_name": "theme-factory",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "theme-factory",
+    "entry": "skills/x-anthropics-theme-factory-410b94f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-web-artifacts-builder-19e5f33",
+    "original_name": "web-artifacts-builder",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "web-artifacts-builder",
+    "entry": "skills/x-anthropics-web-artifacts-builder-19e5f33/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-webapp-testing-8d6189b",
+    "original_name": "webapp-testing",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "webapp-testing",
+    "entry": "skills/x-anthropics-webapp-testing-8d6189b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-xlsx-7c4180d",
+    "original_name": "xlsx",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "xlsx",
+    "entry": "skills/x-anthropics-xlsx-7c4180d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-template-skill-abe7aa4",
+    "original_name": "template-skill",
+    "origin": "upstream/anthropics/skills",
+    "source_skill": "template",
+    "entry": "skills/x-anthropics-template-skill-abe7aa4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-access-a36106c",
+    "original_name": "access",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "access",
+    "entry": "skills/x-anthropics-access-a36106c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-configure-c2b8855",
+    "original_name": "configure",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "configure",
+    "entry": "skills/x-anthropics-configure-c2b8855/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-access-1660754",
+    "original_name": "access",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "access",
+    "entry": "skills/x-anthropics-access-1660754/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-configure-3e1a528",
+    "original_name": "configure",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "configure",
+    "entry": "skills/x-anthropics-configure-3e1a528/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-access-4ef1bc6",
+    "original_name": "access",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "access",
+    "entry": "skills/x-anthropics-access-4ef1bc6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-configure-6e9f182",
+    "original_name": "configure",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "configure",
+    "entry": "skills/x-anthropics-configure-6e9f182/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-claude-automation-recommender-9e11579",
+    "original_name": "claude-automation-recommender",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "claude-automation-recommender",
+    "entry": "skills/x-anthropics-claude-automation-recommender-9e11579/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-claude-md-improver-be60b1c",
+    "original_name": "claude-md-improver",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "claude-md-improver",
+    "entry": "skills/x-anthropics-claude-md-improver-be60b1c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-claude-security-4f1abe6",
+    "original_name": "claude-security",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "claude-security",
+    "entry": "skills/x-anthropics-claude-security-4f1abe6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-cardputer-buddy-abea3bc",
+    "original_name": "cardputer-buddy",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "cardputer-buddy",
+    "entry": "skills/x-anthropics-cardputer-buddy-abea3bc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-m5-onboard-c469691",
+    "original_name": "m5-onboard",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "m5-onboard",
+    "entry": "skills/x-anthropics-m5-onboard-c469691/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-example-command-eaa8db6",
+    "original_name": "example-command",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "example-command",
+    "entry": "skills/x-anthropics-example-command-eaa8db6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-example-skill-7b97cd4",
+    "original_name": "example-skill",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "example-skill",
+    "entry": "skills/x-anthropics-example-skill-7b97cd4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-writing-hookify-rules-3388728",
+    "original_name": "writing-hookify-rules",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "writing-rules",
+    "entry": "skills/x-anthropics-writing-hookify-rules-3388728/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-math-olympiad-210a754",
+    "original_name": "math-olympiad",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "math-olympiad",
+    "entry": "skills/x-anthropics-math-olympiad-210a754/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-siege-39ec72b",
+    "original_name": "siege",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "siege",
+    "entry": "skills/x-anthropics-siege-39ec72b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-solo-6b04a8c",
+    "original_name": "solo",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "solo",
+    "entry": "skills/x-anthropics-solo-6b04a8c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-build-mcp-app-d9311c5",
+    "original_name": "build-mcp-app",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "build-mcp-app",
+    "entry": "skills/x-anthropics-build-mcp-app-d9311c5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-build-mcp-server-f8122f6",
+    "original_name": "build-mcp-server",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "build-mcp-server",
+    "entry": "skills/x-anthropics-build-mcp-server-f8122f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-build-mcpb-56eb1ef",
+    "original_name": "build-mcpb",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "build-mcpb",
+    "entry": "skills/x-anthropics-build-mcpb-56eb1ef/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-playground-b4a5845",
+    "original_name": "playground",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "playground",
+    "entry": "skills/x-anthropics-playground-b4a5845/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-agent-development-4b6a759",
+    "original_name": "agent-development",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "agent-development",
+    "entry": "skills/x-anthropics-agent-development-4b6a759/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-command-development-4a46078",
+    "original_name": "command-development",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "command-development",
+    "entry": "skills/x-anthropics-command-development-4a46078/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-hook-development-724b4c8",
+    "original_name": "hook-development",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "hook-development",
+    "entry": "skills/x-anthropics-hook-development-724b4c8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-mcp-integration-34915eb",
+    "original_name": "mcp-integration",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "mcp-integration",
+    "entry": "skills/x-anthropics-mcp-integration-34915eb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-plugin-settings-cf24312",
+    "original_name": "plugin-settings",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "plugin-settings",
+    "entry": "skills/x-anthropics-plugin-settings-cf24312/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-plugin-structure-a21281d",
+    "original_name": "plugin-structure",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "plugin-structure",
+    "entry": "skills/x-anthropics-plugin-structure-a21281d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-skill-development-d39523b",
+    "original_name": "skill-development",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "skill-development",
+    "entry": "skills/x-anthropics-skill-development-d39523b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-project-artifact-57711f6",
+    "original_name": "project-artifact",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "project-artifact",
+    "entry": "skills/x-anthropics-project-artifact-57711f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-receipts-d6534c2",
+    "original_name": "receipts",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "receipts",
+    "entry": "skills/x-anthropics-receipts-d6534c2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-session-report-ad9609d",
+    "original_name": "session-report",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "session-report",
+    "entry": "skills/x-anthropics-session-report-ad9609d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-anthropics-skill-creator-0e71952",
+    "original_name": "skill-creator",
+    "origin": "upstream/anthropics/claude-plugins-official",
+    "source_skill": "skill-creator",
+    "entry": "skills/x-anthropics-skill-creator-0e71952/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-plugin-creator-d907c27",
+    "original_name": "plugin-creator",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "plugin-creator",
+    "entry": "skills/x-openai-plugin-creator-d907c27/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-batch-edit-photos-3103583",
+    "original_name": "adobe-batch-edit-photos",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-batch-edit-photos",
+    "entry": "skills/x-openai-adobe-batch-edit-photos-3103583/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-create-mockups-039bd3f",
+    "original_name": "adobe-create-mockups",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-create-mockups",
+    "entry": "skills/x-openai-adobe-create-mockups-039bd3f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-create-social-variations-0c19219",
+    "original_name": "adobe-create-social-variations",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-create-social-variations",
+    "entry": "skills/x-openai-adobe-create-social-variations-0c19219/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-design-from-template-08bc699",
+    "original_name": "adobe-design-from-template",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-design-from-template",
+    "entry": "skills/x-openai-adobe-design-from-template-08bc699/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-edit-quick-cut-800e2ae",
+    "original_name": "adobe-edit-quick-cut",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-edit-quick-cut",
+    "entry": "skills/x-openai-adobe-edit-quick-cut-800e2ae/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-adobe-retouch-portraits-7f439fb",
+    "original_name": "adobe-retouch-portraits",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "adobe-retouch-portraits",
+    "entry": "skills/x-openai-adobe-retouch-portraits-7f439fb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-airtable-cli-1f32d06",
+    "original_name": "airtable-cli",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "airtable-cli",
+    "entry": "skills/x-openai-airtable-cli-1f32d06/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-airtable-filters-5bed075",
+    "original_name": "airtable-filters",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "airtable-filters",
+    "entry": "skills/x-openai-airtable-filters-5bed075/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-airtable-overview-c989bb1",
+    "original_name": "airtable-overview",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "airtable-overview",
+    "entry": "skills/x-openai-airtable-overview-c989bb1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-check-status-ff8e718",
+    "original_name": "boltz-check-status",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-check-status",
+    "entry": "skills/x-openai-boltz-check-status-ff8e718/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-cli-setup-6affcc6",
+    "original_name": "boltz-cli-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-cli-setup",
+    "entry": "skills/x-openai-boltz-cli-setup-6affcc6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-protein-design-c48ca05",
+    "original_name": "boltz-protein-design",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-protein-design",
+    "entry": "skills/x-openai-boltz-protein-design-c48ca05/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-protein-screen-82c7642",
+    "original_name": "boltz-protein-screen",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-protein-screen",
+    "entry": "skills/x-openai-boltz-protein-screen-82c7642/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-small-molecule-adme-f55d37a",
+    "original_name": "boltz-small-molecule-adme",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-small-molecule-adme",
+    "entry": "skills/x-openai-boltz-small-molecule-adme-f55d37a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-small-molecule-design-f03693f",
+    "original_name": "boltz-small-molecule-design",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-small-molecule-design",
+    "entry": "skills/x-openai-boltz-small-molecule-design-f03693f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-small-molecule-screen-c199e4f",
+    "original_name": "boltz-small-molecule-screen",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-small-molecule-screen",
+    "entry": "skills/x-openai-boltz-small-molecule-screen-c199e4f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-boltz-structure-and-binding-08418d5",
+    "original_name": "boltz-structure-and-binding",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "boltz-structure-and-binding",
+    "entry": "skills/x-openai-boltz-structure-and-binding-08418d5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ios-app-intents-ee07221",
+    "original_name": "ios-app-intents",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios-app-intents",
+    "entry": "skills/x-openai-ios-app-intents-ee07221/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ios-debugger-agent-197293c",
+    "original_name": "ios-debugger-agent",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios-debugger-agent",
+    "entry": "skills/x-openai-ios-debugger-agent-197293c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ios-ettrace-performance-f35b770",
+    "original_name": "ios-ettrace-performance",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios-ettrace-performance",
+    "entry": "skills/x-openai-ios-ettrace-performance-f35b770/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ios-memgraph-leaks-2a6e50b",
+    "original_name": "ios-memgraph-leaks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios-memgraph-leaks",
+    "entry": "skills/x-openai-ios-memgraph-leaks-2a6e50b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ios-simulator-browser-4a27c73",
+    "original_name": "ios-simulator-browser",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios-simulator-browser",
+    "entry": "skills/x-openai-ios-simulator-browser-4a27c73/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftui-liquid-glass-7cb9ece",
+    "original_name": "swiftui-liquid-glass",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftui-liquid-glass",
+    "entry": "skills/x-openai-swiftui-liquid-glass-7cb9ece/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftui-performance-audit-4035706",
+    "original_name": "swiftui-performance-audit",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftui-performance-audit",
+    "entry": "skills/x-openai-swiftui-performance-audit-4035706/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftui-ui-patterns-b27821b",
+    "original_name": "swiftui-ui-patterns",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftui-ui-patterns",
+    "entry": "skills/x-openai-swiftui-ui-patterns-b27821b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftui-view-refactor-95580cd",
+    "original_name": "swiftui-view-refactor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftui-view-refactor",
+    "entry": "skills/x-openai-swiftui-view-refactor-95580cd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-appkit-interop-2d1f1db",
+    "original_name": "appkit-interop",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "appkit-interop",
+    "entry": "skills/x-openai-appkit-interop-2d1f1db/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-run-debug-59814d0",
+    "original_name": "build-run-debug",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-run-debug",
+    "entry": "skills/x-openai-build-run-debug-59814d0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-liquid-glass-e0e7ee8",
+    "original_name": "liquid-glass",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "liquid-glass",
+    "entry": "skills/x-openai-liquid-glass-e0e7ee8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-packaging-notarization-55ae73e",
+    "original_name": "packaging-notarization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "packaging-notarization",
+    "entry": "skills/x-openai-packaging-notarization-55ae73e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-signing-entitlements-7156254",
+    "original_name": "signing-entitlements",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "signing-entitlements",
+    "entry": "skills/x-openai-signing-entitlements-7156254/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftpm-macos-d4f7e31",
+    "original_name": "swiftpm-macos",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftpm-macos",
+    "entry": "skills/x-openai-swiftpm-macos-d4f7e31/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swiftui-patterns-3e470a1",
+    "original_name": "swiftui-patterns",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swiftui-patterns",
+    "entry": "skills/x-openai-swiftui-patterns-3e470a1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-telemetry-1956b3c",
+    "original_name": "telemetry",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "telemetry",
+    "entry": "skills/x-openai-telemetry-1956b3c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-test-triage-095824b",
+    "original_name": "test-triage",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "test-triage",
+    "entry": "skills/x-openai-test-triage-095824b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-view-refactor-7fc3b20",
+    "original_name": "view-refactor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "view-refactor",
+    "entry": "skills/x-openai-view-refactor-7fc3b20/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-window-management-b9ae575",
+    "original_name": "window-management",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "window-management",
+    "entry": "skills/x-openai-window-management-b9ae575/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-frontend-app-builder-c13e2a4",
+    "original_name": "frontend-app-builder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "frontend-app-builder",
+    "entry": "skills/x-openai-frontend-app-builder-c13e2a4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-frontend-testing-debugging-eff5af3",
+    "original_name": "frontend-testing-debugging",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "frontend-testing-debugging",
+    "entry": "skills/x-openai-frontend-testing-debugging-eff5af3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-react-best-practices-cabf8af",
+    "original_name": "react-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-best-practices",
+    "entry": "skills/x-openai-react-best-practices-cabf8af/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shadcn-d513686",
+    "original_name": "shadcn",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shadcn-best-practices",
+    "entry": "skills/x-openai-shadcn-d513686/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-best-practices-020151f",
+    "original_name": "stripe-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-best-practices",
+    "entry": "skills/x-openai-stripe-best-practices-020151f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-supabase-postgres-best-practices-d44300f",
+    "original_name": "supabase-postgres-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "supabase-best-practices",
+    "entry": "skills/x-openai-supabase-postgres-best-practices-d44300f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-accessibility-and-inclusive-visualization-e2f54f6",
+    "original_name": "accessibility-and-inclusive-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "accessibility-and-inclusive-visualization",
+    "entry": "skills/x-openai-accessibility-and-inclusive-visualization-e2f54f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canvas2d-data-visualization-1b7046b",
+    "original_name": "canvas2d-data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canvas2d-data-visualization",
+    "entry": "skills/x-openai-canvas2d-data-visualization-1b7046b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-d3-data-visualization-94d53d3",
+    "original_name": "d3-data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "d3-data-visualization",
+    "entry": "skills/x-openai-d3-data-visualization-94d53d3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dashboards-and-real-time-visualization-e30f167",
+    "original_name": "dashboards-and-real-time-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dashboards-and-real-time-visualization",
+    "entry": "skills/x-openai-dashboards-and-real-time-visualization-e30f167/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-data-visualization-ae23089",
+    "original_name": "data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "data-visualization",
+    "entry": "skills/x-openai-data-visualization-ae23089/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gantt-chart-visualization-485cc08",
+    "original_name": "gantt-chart-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gantt-chart-visualization",
+    "entry": "skills/x-openai-gantt-chart-visualization-485cc08/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-geospatial-and-cartographic-visualization-145505f",
+    "original_name": "geospatial-and-cartographic-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "geospatial-and-cartographic-visualization",
+    "entry": "skills/x-openai-geospatial-and-cartographic-visualization-145505f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-grammar-of-graphics-and-declarative-visualizat-e4f0e04",
+    "original_name": "grammar-of-graphics-and-declarative-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "grammar-of-graphics-and-declarative-visualization",
+    "entry": "skills/x-openai-grammar-of-graphics-and-declarative-visualizat-e4f0e04/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-node-link-and-diagram-layout-4c4839c",
+    "original_name": "node-link-and-diagram-layout",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "node-link-and-diagram-layout",
+    "entry": "skills/x-openai-node-link-and-diagram-layout-4c4839c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-react-and-nextjs-data-visualization-609c566",
+    "original_name": "react-and-nextjs-data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-and-nextjs-data-visualization",
+    "entry": "skills/x-openai-react-and-nextjs-data-visualization-609c566/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-reports-pdfs-and-slide-automation-9a0a25a",
+    "original_name": "reports-pdfs-and-slide-automation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "reports-pdfs-and-slide-automation",
+    "entry": "skills/x-openai-reports-pdfs-and-slide-automation-9a0a25a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-scrollytelling-and-parallax-data-visualization-9b5580a",
+    "original_name": "scrollytelling-and-parallax-data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "scrollytelling-and-parallax-data-visualization",
+    "entry": "skills/x-openai-scrollytelling-and-parallax-data-visualization-9b5580a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-statistical-and-uncertainty-visualization-7801ee5",
+    "original_name": "statistical-and-uncertainty-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "statistical-and-uncertainty-visualization",
+    "entry": "skills/x-openai-statistical-and-uncertainty-visualization-7801ee5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-testing-data-visualizations-9607dba",
+    "original_name": "testing-data-visualizations",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "testing-data-visualizations",
+    "entry": "skills/x-openai-testing-data-visualizations-9607dba/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-threejs-data-visualization-dce6db6",
+    "original_name": "threejs-data-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "threejs-data-visualization",
+    "entry": "skills/x-openai-threejs-data-visualization-dce6db6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-typescript-data-visualization-engineering-02d5aac",
+    "original_name": "typescript-data-visualization-engineering",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "typescript-data-visualization-engineering",
+    "entry": "skills/x-openai-typescript-data-visualization-engineering-02d5aac/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-uml-and-software-architecture-visualization-8275677",
+    "original_name": "uml-and-software-architecture-visualization",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "uml-and-software-architecture-visualization",
+    "entry": "skills/x-openai-uml-and-software-architecture-visualization-8275677/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-visualization-strategy-and-critique-0e43db4",
+    "original_name": "visualization-strategy-and-critique",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "visualization-strategy-and-critique",
+    "entry": "skills/x-openai-visualization-strategy-and-critique-0e43db4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-brand-check-678d5f7",
+    "original_name": "canva-brand-check",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-brand-check",
+    "entry": "skills/x-openai-canva-brand-check-678d5f7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-branded-presentation-3bc0a21",
+    "original_name": "canva-branded-presentation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-branded-presentation",
+    "entry": "skills/x-openai-canva-branded-presentation-3bc0a21/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-bulk-create-b7c7375",
+    "original_name": "canva-bulk-create",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-bulk-create",
+    "entry": "skills/x-openai-canva-bulk-create-b7c7375/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-design-feedback-d4d31d7",
+    "original_name": "canva-design-feedback",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-design-feedback",
+    "entry": "skills/x-openai-canva-design-feedback-d4d31d7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-edit-design-cabcf81",
+    "original_name": "canva-edit-design",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-edit-design",
+    "entry": "skills/x-openai-canva-edit-design-cabcf81/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-implement-feedback-2f871d0",
+    "original_name": "canva-implement-feedback",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-implement-feedback",
+    "entry": "skills/x-openai-canva-implement-feedback-2f871d0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-resize-for-social-media-7485ec7",
+    "original_name": "canva-resize-for-social-media",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-resize-for-social-media",
+    "entry": "skills/x-openai-canva-resize-for-social-media-7485ec7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-canva-translate-design-c1a13bf",
+    "original_name": "canva-translate-design",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "canva-translate-design",
+    "entry": "skills/x-openai-canva-translate-design-c1a13bf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-connect-chatcut-desktop-bc76c9e",
+    "original_name": "connect-chatcut-desktop",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "connect-chatcut-desktop",
+    "entry": "skills/x-openai-connect-chatcut-desktop-bc76c9e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-circleci-builds-c275496",
+    "original_name": "circleci-builds",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "builds",
+    "entry": "skills/x-openai-circleci-builds-c275496/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chunk-b485e57",
+    "original_name": "chunk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "chunk",
+    "entry": "skills/x-openai-chunk-b485e57/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-circleci-cli-6494e03",
+    "original_name": "circleci-cli",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cli",
+    "entry": "skills/x-openai-circleci-cli-6494e03/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-circleci-config-1fdce04",
+    "original_name": "circleci-config",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "config",
+    "entry": "skills/x-openai-circleci-config-1fdce04/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-agents-sdk-9c57d9f",
+    "original_name": "agents-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "agents-sdk",
+    "entry": "skills/x-openai-agents-sdk-9c57d9f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-building-ai-agent-on-cloudflare-306ab11",
+    "original_name": "building-ai-agent-on-cloudflare",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "building-ai-agent-on-cloudflare",
+    "entry": "skills/x-openai-building-ai-agent-on-cloudflare-306ab11/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-building-mcp-server-on-cloudflare-3e0a42d",
+    "original_name": "building-mcp-server-on-cloudflare",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "building-mcp-server-on-cloudflare",
+    "entry": "skills/x-openai-building-mcp-server-on-cloudflare-3e0a42d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cloudflare-5083390",
+    "original_name": "cloudflare",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cloudflare",
+    "entry": "skills/x-openai-cloudflare-5083390/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-durable-objects-72dce97",
+    "original_name": "durable-objects",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "durable-objects",
+    "entry": "skills/x-openai-durable-objects-72dce97/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-sandbox-sdk-2d3b048",
+    "original_name": "sandbox-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "sandbox-sdk",
+    "entry": "skills/x-openai-sandbox-sdk-2d3b048/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-web-perf-fc0435f",
+    "original_name": "web-perf",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web-perf",
+    "entry": "skills/x-openai-web-perf-fc0435f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-workers-best-practices-873fdce",
+    "original_name": "workers-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "workers-best-practices",
+    "entry": "skills/x-openai-workers-best-practices-873fdce/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-wrangler-e76953e",
+    "original_name": "wrangler",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "wrangler",
+    "entry": "skills/x-openai-wrangler-e76953e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-code-review-f89bc9d",
+    "original_name": "code-review",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "coderabbit-review",
+    "entry": "skills/x-openai-code-review-f89bc9d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-assess-patch-risk-98c3869",
+    "original_name": "assess-patch-risk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "assess-patch-risk",
+    "entry": "skills/x-openai-assess-patch-risk-98c3869/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-attack-path-analysis-68f1e99",
+    "original_name": "attack-path-analysis",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "attack-path-analysis",
+    "entry": "skills/x-openai-attack-path-analysis-68f1e99/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-deep-security-scan-14fd2c4",
+    "original_name": "deep-security-scan",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "deep-security-scan",
+    "entry": "skills/x-openai-deep-security-scan-14fd2c4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-define-security-policy-36e2478",
+    "original_name": "define-security-policy",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "define-security-policy",
+    "entry": "skills/x-openai-define-security-policy-36e2478/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-finding-discovery-5b63cd7",
+    "original_name": "finding-discovery",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "finding-discovery",
+    "entry": "skills/x-openai-finding-discovery-5b63cd7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-fix-finding-da60db4",
+    "original_name": "fix-finding",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "fix-finding",
+    "entry": "skills/x-openai-fix-finding-da60db4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-propose-security-hardening-02be16d",
+    "original_name": "propose-security-hardening",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "propose-security-hardening",
+    "entry": "skills/x-openai-propose-security-hardening-02be16d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-security-diff-scan-89ba6be",
+    "original_name": "security-diff-scan",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "security-diff-scan",
+    "entry": "skills/x-openai-security-diff-scan-89ba6be/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-security-scan-ad4e4cb",
+    "original_name": "security-scan",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "security-scan",
+    "entry": "skills/x-openai-security-scan-ad4e4cb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-threat-model-b548b95",
+    "original_name": "threat-model",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "threat-model",
+    "entry": "skills/x-openai-threat-model-b548b95/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-track-findings-e6c94d7",
+    "original_name": "track-findings",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "track-findings",
+    "entry": "skills/x-openai-track-findings-e6c94d7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-triage-finding-a31b4af",
+    "original_name": "triage-finding",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "triage-finding",
+    "entry": "skills/x-openai-triage-finding-a31b4af/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-validation-43f708d",
+    "original_name": "validation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "validation",
+    "entry": "skills/x-openai-validation-43f708d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-verify-fix-8cb8d64",
+    "original_name": "verify-fix",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "verify-fix",
+    "entry": "skills/x-openai-verify-fix-8cb8d64/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vulnerability-writeup-1bee2c6",
+    "original_name": "vulnerability-writeup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vulnerability-writeup",
+    "entry": "skills/x-openai-vulnerability-writeup-1bee2c6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-intake-9640c7f",
+    "original_name": "intake",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "intake",
+    "entry": "skills/x-openai-intake-9640c7f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-produce-f594139",
+    "original_name": "produce",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "produce",
+    "entry": "skills/x-openai-produce-f594139/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-analyze-data-quality-e271d0f",
+    "original_name": "analyze-data-quality",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "analyze-data-quality",
+    "entry": "skills/x-openai-analyze-data-quality-e271d0f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-dashboard-03f8042",
+    "original_name": "build-dashboard",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-dashboard",
+    "entry": "skills/x-openai-build-dashboard-03f8042/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-report-to-google-doc-c4cc091",
+    "original_name": "report-to-google-doc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "report-to-google-doc",
+    "entry": "skills/x-openai-report-to-google-doc-c4cc091/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-report-to-google-slides-442261d",
+    "original_name": "report-to-google-slides",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "report-to-google-slides",
+    "entry": "skills/x-openai-report-to-google-slides-442261d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-report-to-pdf-625f8ec",
+    "original_name": "report-to-pdf",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "report-to-pdf",
+    "entry": "skills/x-openai-report-to-pdf-625f8ec/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-report-768bc8e",
+    "original_name": "build-report",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-report",
+    "entry": "skills/x-openai-build-report-768bc8e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-create-data-context-d5643af",
+    "original_name": "create-data-context",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "create-data-context",
+    "entry": "skills/x-openai-create-data-context-d5643af/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-design-kpis-a4f142e",
+    "original_name": "design-kpis",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "design-kpis",
+    "entry": "skills/x-openai-design-kpis-a4f142e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gather-business-context-c6dd24a",
+    "original_name": "gather-business-context",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gather-business-context",
+    "entry": "skills/x-openai-gather-business-context-c6dd24a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-index-ad54b55",
+    "original_name": "index",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "index",
+    "entry": "skills/x-openai-index-ad54b55/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-jupyter-notebooks-a1a32af",
+    "original_name": "jupyter-notebooks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "jupyter-notebooks",
+    "entry": "skills/x-openai-jupyter-notebooks-a1a32af/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-kpi-reporting-52b00a6",
+    "original_name": "kpi-reporting",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "kpi-reporting",
+    "entry": "skills/x-openai-kpi-reporting-52b00a6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-market-sizing-d82f8ad",
+    "original_name": "market-sizing",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "market-sizing",
+    "entry": "skills/x-openai-market-sizing-d82f8ad/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-metric-diagnostics-99ec316",
+    "original_name": "metric-diagnostics",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "metric-diagnostics",
+    "entry": "skills/x-openai-metric-diagnostics-99ec316/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-product-business-analysis-02bad41",
+    "original_name": "product-business-analysis",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "product-business-analysis",
+    "entry": "skills/x-openai-product-business-analysis-02bad41/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-publish-artifact-to-sites-3c24489",
+    "original_name": "publish-artifact-to-sites",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "publish-artifact-to-sites",
+    "entry": "skills/x-openai-publish-artifact-to-sites-3c24489/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-validate-data-bc92034",
+    "original_name": "validate-data",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "validate-data",
+    "entry": "skills/x-openai-validate-data-bc92034/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-visualize-data-fe600a7",
+    "original_name": "visualize-data",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "visualize-data",
+    "entry": "skills/x-openai-visualize-data-fe600a7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-clean-up-dropbox-content-2cdaf98",
+    "original_name": "clean-up-dropbox-content",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "clean-up-dropbox-content",
+    "entry": "skills/x-openai-clean-up-dropbox-content-2cdaf98/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-collect-files-with-request-0e2ea8d",
+    "original_name": "collect-files-with-request",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "collect-files-with-request",
+    "entry": "skills/x-openai-collect-files-with-request-0e2ea8d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-find-dropbox-content-ce8189d",
+    "original_name": "find-dropbox-content",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "find-dropbox-content",
+    "entry": "skills/x-openai-find-dropbox-content-ce8189d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-inspect-dropbox-file-b92b791",
+    "original_name": "inspect-dropbox-file",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "inspect-dropbox-file",
+    "entry": "skills/x-openai-inspect-dropbox-file-b92b791/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-organize-dropbox-folder-2aa91a7",
+    "original_name": "organize-dropbox-folder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "organize-dropbox-folder",
+    "entry": "skills/x-openai-organize-dropbox-folder-2aa91a7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-share-dropbox-content-5437ab8",
+    "original_name": "share-dropbox-content",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "share-dropbox-content",
+    "entry": "skills/x-openai-share-dropbox-content-5437ab8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-building-native-ui-6d989e2",
+    "original_name": "building-native-ui",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "building-native-ui",
+    "entry": "skills/x-openai-building-native-ui-6d989e2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-codex-expo-run-actions-2312b50",
+    "original_name": "codex-expo-run-actions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "codex-expo-run-actions",
+    "entry": "skills/x-openai-codex-expo-run-actions-2312b50/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-api-routes-eac656a",
+    "original_name": "expo-api-routes",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-api-routes",
+    "entry": "skills/x-openai-expo-api-routes-eac656a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-cicd-workflows-efb080f",
+    "original_name": "expo-cicd-workflows",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-cicd-workflows",
+    "entry": "skills/x-openai-expo-cicd-workflows-efb080f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-deployment-47f1f8b",
+    "original_name": "expo-deployment",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-deployment",
+    "entry": "skills/x-openai-expo-deployment-47f1f8b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-dev-client-427e8e8",
+    "original_name": "expo-dev-client",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-dev-client",
+    "entry": "skills/x-openai-expo-dev-client-427e8e8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-module-97bca32",
+    "original_name": "expo-module",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-module",
+    "entry": "skills/x-openai-expo-module-97bca32/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-tailwind-setup-db649d8",
+    "original_name": "expo-tailwind-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-tailwind-setup",
+    "entry": "skills/x-openai-expo-tailwind-setup-db649d8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-ui-jetpack-compose-d39b879",
+    "original_name": "expo-ui-jetpack-compose",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-ui-jetpack-compose",
+    "entry": "skills/x-openai-expo-ui-jetpack-compose-d39b879/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-expo-ui-swift-ui-72e6365",
+    "original_name": "expo-ui-swift-ui",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "expo-ui-swift-ui",
+    "entry": "skills/x-openai-expo-ui-swift-ui-72e6365/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-native-data-fetching-25ce446",
+    "original_name": "native-data-fetching",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "native-data-fetching",
+    "entry": "skills/x-openai-native-data-fetching-25ce446/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-upgrading-expo-ab2231b",
+    "original_name": "upgrading-expo",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "upgrading-expo",
+    "entry": "skills/x-openai-upgrading-expo-ab2231b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-use-dom-516876f",
+    "original_name": "use-dom",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "use-dom",
+    "entry": "skills/x-openai-use-dom-516876f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-code-connect-23d9088",
+    "original_name": "figma-code-connect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-code-connect",
+    "entry": "skills/x-openai-figma-code-connect-23d9088/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-create-new-file-ffa32bb",
+    "original_name": "figma-create-new-file",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-create-new-file",
+    "entry": "skills/x-openai-figma-create-new-file-ffa32bb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-design-to-code-12f8fb1",
+    "original_name": "figma-design-to-code",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-design-to-code",
+    "entry": "skills/x-openai-figma-design-to-code-12f8fb1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-generate-design-dc5f3d6",
+    "original_name": "figma-generate-design",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-generate-design",
+    "entry": "skills/x-openai-figma-generate-design-dc5f3d6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-generate-diagram-dff9f74",
+    "original_name": "figma-generate-diagram",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-generate-diagram",
+    "entry": "skills/x-openai-figma-generate-diagram-dff9f74/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-generate-library-7be021d",
+    "original_name": "figma-generate-library",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-generate-library",
+    "entry": "skills/x-openai-figma-generate-library-7be021d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-implement-motion-4085763",
+    "original_name": "figma-implement-motion",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-implement-motion",
+    "entry": "skills/x-openai-figma-implement-motion-4085763/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-swiftui-f38db47",
+    "original_name": "figma-swiftui",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-swiftui",
+    "entry": "skills/x-openai-figma-swiftui-f38db47/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-use-678d26c",
+    "original_name": "figma-use",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-use",
+    "entry": "skills/x-openai-figma-use-678d26c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-use-figjam-731cb26",
+    "original_name": "figma-use-figjam",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-use-figjam",
+    "entry": "skills/x-openai-figma-use-figjam-731cb26/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-use-motion-b8a44c0",
+    "original_name": "figma-use-motion",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-use-motion",
+    "entry": "skills/x-openai-figma-use-motion-b8a44c0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-use-slides-2e7b5c9",
+    "original_name": "figma-use-slides",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "figma-use-slides",
+    "entry": "skills/x-openai-figma-use-slides-2e7b5c9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-game-playtest-848d89d",
+    "original_name": "game-playtest",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "game-playtest",
+    "entry": "skills/x-openai-game-playtest-848d89d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-game-studio-c9c2649",
+    "original_name": "game-studio",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "game-studio",
+    "entry": "skills/x-openai-game-studio-c9c2649/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-game-ui-frontend-1cdc78a",
+    "original_name": "game-ui-frontend",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "game-ui-frontend",
+    "entry": "skills/x-openai-game-ui-frontend-1cdc78a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-phaser-2d-game-f3df62d",
+    "original_name": "phaser-2d-game",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "phaser-2d-game",
+    "entry": "skills/x-openai-phaser-2d-game-f3df62d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-react-three-fiber-game-0b8ea0a",
+    "original_name": "react-three-fiber-game",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-three-fiber-game",
+    "entry": "skills/x-openai-react-three-fiber-game-0b8ea0a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-sprite-pipeline-e1572e4",
+    "original_name": "sprite-pipeline",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "sprite-pipeline",
+    "entry": "skills/x-openai-sprite-pipeline-e1572e4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-three-webgl-game-d68b17c",
+    "original_name": "three-webgl-game",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "three-webgl-game",
+    "entry": "skills/x-openai-three-webgl-game-d68b17c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-web-3d-asset-pipeline-17ece5b",
+    "original_name": "web-3d-asset-pipeline",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web-3d-asset-pipeline",
+    "entry": "skills/x-openai-web-3d-asset-pipeline-17ece5b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-web-game-foundations-594990b",
+    "original_name": "web-game-foundations",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web-game-foundations",
+    "entry": "skills/x-openai-web-game-foundations-594990b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-google-docs-70e759c",
+    "original_name": "google-docs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "google-docs",
+    "entry": "skills/x-openai-google-docs-70e759c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-google-drive-7855235",
+    "original_name": "google-drive",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "google-drive",
+    "entry": "skills/x-openai-google-drive-7855235/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-google-drive-comments-e8e10c7",
+    "original_name": "google-drive-comments",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "google-drive-comments",
+    "entry": "skills/x-openai-google-drive-comments-e8e10c7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-google-sheets-9c9c18b",
+    "original_name": "google-sheets",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "google-sheets",
+    "entry": "skills/x-openai-google-sheets-9c9c18b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-google-slides-f9361a1",
+    "original_name": "google-slides",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "google-slides",
+    "entry": "skills/x-openai-google-slides-f9361a1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-faceless-channel-e59ebea",
+    "original_name": "faceless-channel",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "faceless-channel",
+    "entry": "skills/x-openai-faceless-channel-e59ebea/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-narrator-685a86e",
+    "original_name": "narrator",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "narrator",
+    "entry": "skills/x-openai-narrator-685a86e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-subtitles-bb9adc8",
+    "original_name": "subtitles",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "subtitles",
+    "entry": "skills/x-openai-subtitles-bb9adc8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gsap-646176d",
+    "original_name": "gsap",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gsap",
+    "entry": "skills/x-openai-gsap-646176d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-hyperframes-e48c0c6",
+    "original_name": "hyperframes",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "hyperframes",
+    "entry": "skills/x-openai-hyperframes-e48c0c6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-hyperframes-cli-8d020ff",
+    "original_name": "hyperframes-cli",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "hyperframes-cli",
+    "entry": "skills/x-openai-hyperframes-cli-8d020ff/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-hyperframes-registry-d87dedb",
+    "original_name": "hyperframes-registry",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "hyperframes-registry",
+    "entry": "skills/x-openai-hyperframes-registry-d87dedb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-website-to-hyperframes-b18d058",
+    "original_name": "website-to-hyperframes",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "website-to-hyperframes",
+    "entry": "skills/x-openai-website-to-hyperframes-b18d058/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-alphafold-skill-1e711e2",
+    "original_name": "alphafold-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "alphafold-skill",
+    "entry": "skills/x-openai-alphafold-skill-1e711e2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-bgee-skill-605561f",
+    "original_name": "bgee-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "bgee-skill",
+    "entry": "skills/x-openai-bgee-skill-605561f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-bindingdb-skill-2a4d663",
+    "original_name": "bindingdb-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "bindingdb-skill",
+    "entry": "skills/x-openai-bindingdb-skill-2a4d663/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-biobankjapan-phewas-skill-6dfa4e9",
+    "original_name": "biobankjapan-phewas-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "biobankjapan-phewas-skill",
+    "entry": "skills/x-openai-biobankjapan-phewas-skill-6dfa4e9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-biorxiv-skill-493b300",
+    "original_name": "biorxiv-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "biorxiv-skill",
+    "entry": "skills/x-openai-biorxiv-skill-493b300/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-biostudies-arrayexpress-skill-920e064",
+    "original_name": "biostudies-arrayexpress-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "biostudies-arrayexpress-skill",
+    "entry": "skills/x-openai-biostudies-arrayexpress-skill-920e064/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cbioportal-skill-a18c1b7",
+    "original_name": "cbioportal-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cbioportal-skill",
+    "entry": "skills/x-openai-cbioportal-skill-a18c1b7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cellxgene-skill-a4d2821",
+    "original_name": "cellxgene-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cellxgene-skill",
+    "entry": "skills/x-openai-cellxgene-skill-a4d2821/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chebi-skill-3b5ce10",
+    "original_name": "chebi-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "chebi-skill",
+    "entry": "skills/x-openai-chebi-skill-3b5ce10/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chembl-skill-1d174cf",
+    "original_name": "chembl-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "chembl-skill",
+    "entry": "skills/x-openai-chembl-skill-1d174cf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-civic-skill-ef24a5a",
+    "original_name": "civic-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "civic-skill",
+    "entry": "skills/x-openai-civic-skill-ef24a5a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-clinicaltrials-skill-d3c561d",
+    "original_name": "clinicaltrials-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "clinicaltrials-skill",
+    "entry": "skills/x-openai-clinicaltrials-skill-d3c561d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-clinvar-variation-skill-af9c63f",
+    "original_name": "clinvar-variation-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "clinvar-variation-skill",
+    "entry": "skills/x-openai-clinvar-variation-skill-af9c63f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-efo-ontology-skill-f5b59f6",
+    "original_name": "efo-ontology-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "efo-ontology-skill",
+    "entry": "skills/x-openai-efo-ontology-skill-f5b59f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-encode-skill-3662fd5",
+    "original_name": "encode-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "encode-skill",
+    "entry": "skills/x-openai-encode-skill-3662fd5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ensembl-skill-6f735de",
+    "original_name": "ensembl-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ensembl-skill",
+    "entry": "skills/x-openai-ensembl-skill-6f735de/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-epigraphdb-skill-d5d786d",
+    "original_name": "epigraphdb-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "epigraphdb-skill",
+    "entry": "skills/x-openai-epigraphdb-skill-d5d786d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-eqtl-catalogue-skill-94e6cd7",
+    "original_name": "eqtl-catalogue-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "eqtl-catalogue-skill",
+    "entry": "skills/x-openai-eqtl-catalogue-skill-94e6cd7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-eva-skill-84ed020",
+    "original_name": "eva-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "eva-skill",
+    "entry": "skills/x-openai-eva-skill-84ed020/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-finngen-phewas-skill-8f5adea",
+    "original_name": "finngen-phewas-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "finngen-phewas-skill",
+    "entry": "skills/x-openai-finngen-phewas-skill-8f5adea/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-genebass-gene-burden-skill-b508d43",
+    "original_name": "genebass-gene-burden-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "genebass-gene-burden-skill",
+    "entry": "skills/x-openai-genebass-gene-burden-skill-b508d43/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gnomad-graphql-skill-9edf1f3",
+    "original_name": "gnomad-graphql-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gnomad-graphql-skill",
+    "entry": "skills/x-openai-gnomad-graphql-skill-9edf1f3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gtex-eqtl-skill-aff5cb9",
+    "original_name": "gtex-eqtl-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gtex-eqtl-skill",
+    "entry": "skills/x-openai-gtex-eqtl-skill-aff5cb9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gwas-catalog-skill-95997f9",
+    "original_name": "gwas-catalog-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "gwas-catalog-skill",
+    "entry": "skills/x-openai-gwas-catalog-skill-95997f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-hmdb-skill-d0f618f",
+    "original_name": "hmdb-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "hmdb-skill",
+    "entry": "skills/x-openai-hmdb-skill-d0f618f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-human-protein-atlas-skill-b142063",
+    "original_name": "human-protein-atlas-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "human-protein-atlas-skill",
+    "entry": "skills/x-openai-human-protein-atlas-skill-b142063/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ipd-skill-4148dad",
+    "original_name": "ipd-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ipd-skill",
+    "entry": "skills/x-openai-ipd-skill-4148dad/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-locus-to-gene-mapper-skill-a48ba33",
+    "original_name": "locus-to-gene-mapper-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "locus-to-gene-mapper-skill",
+    "entry": "skills/x-openai-locus-to-gene-mapper-skill-a48ba33/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-metabolights-skill-234dcbd",
+    "original_name": "metabolights-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "metabolights-skill",
+    "entry": "skills/x-openai-metabolights-skill-234dcbd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-mgnify-skill-8d94218",
+    "original_name": "mgnify-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "mgnify-skill",
+    "entry": "skills/x-openai-mgnify-skill-8d94218/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncbi-blast-skill-d137137",
+    "original_name": "ncbi-blast-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncbi-blast-skill",
+    "entry": "skills/x-openai-ncbi-blast-skill-d137137/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncbi-clinicaltables-skill-30730f7",
+    "original_name": "ncbi-clinicaltables-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncbi-clinicaltables-skill",
+    "entry": "skills/x-openai-ncbi-clinicaltables-skill-30730f7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncbi-datasets-skill-128d12a",
+    "original_name": "ncbi-datasets-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncbi-datasets-skill",
+    "entry": "skills/x-openai-ncbi-datasets-skill-128d12a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncbi-entrez-skill-08976c4",
+    "original_name": "ncbi-entrez-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncbi-entrez-skill",
+    "entry": "skills/x-openai-ncbi-entrez-skill-08976c4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncbi-pmc-skill-f1cd941",
+    "original_name": "ncbi-pmc-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncbi-pmc-skill",
+    "entry": "skills/x-openai-ncbi-pmc-skill-f1cd941/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-opentargets-skill-86232e9",
+    "original_name": "opentargets-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "opentargets-skill",
+    "entry": "skills/x-openai-opentargets-skill-86232e9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-pharmgkb-skill-3166a77",
+    "original_name": "pharmgkb-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "pharmgkb-skill",
+    "entry": "skills/x-openai-pharmgkb-skill-3166a77/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-pride-skill-b4c1da7",
+    "original_name": "pride-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "pride-skill",
+    "entry": "skills/x-openai-pride-skill-b4c1da7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-proteomexchange-skill-a51c974",
+    "original_name": "proteomexchange-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "proteomexchange-skill",
+    "entry": "skills/x-openai-proteomexchange-skill-a51c974/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-pubchem-pug-skill-e153ee9",
+    "original_name": "pubchem-pug-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "pubchem-pug-skill",
+    "entry": "skills/x-openai-pubchem-pug-skill-e153ee9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-quickgo-skill-49285fa",
+    "original_name": "quickgo-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "quickgo-skill",
+    "entry": "skills/x-openai-quickgo-skill-49285fa/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-rcsb-pdb-skill-8ceca64",
+    "original_name": "rcsb-pdb-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rcsb-pdb-skill",
+    "entry": "skills/x-openai-rcsb-pdb-skill-8ceca64/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-reactome-skill-aa192ea",
+    "original_name": "reactome-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "reactome-skill",
+    "entry": "skills/x-openai-reactome-skill-aa192ea/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-research-router-skill-6563d16",
+    "original_name": "research-router-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "research-router-skill",
+    "entry": "skills/x-openai-research-router-skill-6563d16/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-rhea-skill-cda7c15",
+    "original_name": "rhea-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rhea-skill",
+    "entry": "skills/x-openai-rhea-skill-cda7c15/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-rnacentral-skill-4e24148",
+    "original_name": "rnacentral-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rnacentral-skill",
+    "entry": "skills/x-openai-rnacentral-skill-4e24148/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-string-skill-374bd75",
+    "original_name": "string-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "string-skill",
+    "entry": "skills/x-openai-string-skill-374bd75/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-tpmi-phewas-skill-40b33f1",
+    "original_name": "tpmi-phewas-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "tpmi-phewas-skill",
+    "entry": "skills/x-openai-tpmi-phewas-skill-40b33f1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ukb-topmed-phewas-skill-9371dfc",
+    "original_name": "ukb-topmed-phewas-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ukb-topmed-phewas-skill",
+    "entry": "skills/x-openai-ukb-topmed-phewas-skill-9371dfc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-uniprot-skill-3e43842",
+    "original_name": "uniprot-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "uniprot-skill",
+    "entry": "skills/x-openai-uniprot-skill-3e43842/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-magicpath-5770581",
+    "original_name": "magicpath",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "magicpath",
+    "entry": "skills/x-openai-magicpath-5770581/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dashboard-expert-3cacee9",
+    "original_name": "dashboard-expert",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dashboard-expert",
+    "entry": "skills/x-openai-dashboard-expert-3cacee9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-mixpanel-auth-fe5cae1",
+    "original_name": "mixpanel-auth",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "mixpanel-auth",
+    "entry": "skills/x-openai-mixpanel-auth-fe5cae1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-mixpanelyst-cd72fae",
+    "original_name": "mixpanelyst",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "mixpanelyst",
+    "entry": "skills/x-openai-mixpanelyst-cd72fae/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-mixpanel-headless-setup-1c898d2",
+    "original_name": "mixpanel-headless-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "setup",
+    "entry": "skills/x-openai-mixpanel-headless-setup-1c898d2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-amplicon-microbiome-096852b",
+    "original_name": "ngs-amplicon-microbiome",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-amplicon-microbiome",
+    "entry": "skills/x-openai-ngs-amplicon-microbiome-096852b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-analysis-router-9a18f95",
+    "original_name": "ngs-analysis-router",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-analysis-router",
+    "entry": "skills/x-openai-ngs-analysis-router-9a18f95/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-atacseq-peaks-qc-1a4081f",
+    "original_name": "ngs-atacseq-peaks-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-atacseq-peaks-qc",
+    "entry": "skills/x-openai-ngs-atacseq-peaks-qc-1a4081f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-bcl-to-fastq-e2fcefa",
+    "original_name": "ngs-bcl-to-fastq",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-bcl-to-fastq",
+    "entry": "skills/x-openai-ngs-bcl-to-fastq-e2fcefa/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-bulk-rnaseq-d9e893d",
+    "original_name": "ngs-bulk-rnaseq",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-bulk-rnaseq",
+    "entry": "skills/x-openai-ngs-bulk-rnaseq-d9e893d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-bulk-rnaseq-counts-qc-7ecc317",
+    "original_name": "ngs-bulk-rnaseq-counts-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-bulk-rnaseq-counts-qc",
+    "entry": "skills/x-openai-ngs-bulk-rnaseq-counts-qc-7ecc317/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-bulk-rnaseq-differential-expression-12c68f9",
+    "original_name": "ngs-bulk-rnaseq-differential-expression",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-bulk-rnaseq-differential-expression",
+    "entry": "skills/x-openai-ngs-bulk-rnaseq-differential-expression-12c68f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-chip-cutrun-peaks-qc-70ea4a6",
+    "original_name": "ngs-chip-cutrun-peaks-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-chip-cutrun-peaks-qc",
+    "entry": "skills/x-openai-ngs-chip-cutrun-peaks-qc-70ea4a6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-dna-germline-variants-f59cc67",
+    "original_name": "ngs-dna-germline-variants",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-dna-germline-variants",
+    "entry": "skills/x-openai-ngs-dna-germline-variants-f59cc67/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-dna-somatic-variants-7c4f044",
+    "original_name": "ngs-dna-somatic-variants",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-dna-somatic-variants",
+    "entry": "skills/x-openai-ngs-dna-somatic-variants-7c4f044/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-dna-umi-panel-variants-f3fc5f4",
+    "original_name": "ngs-dna-umi-panel-variants",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-dna-umi-panel-variants",
+    "entry": "skills/x-openai-ngs-dna-umi-panel-variants-f3fc5f4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-dna-variant-calling-a99e380",
+    "original_name": "ngs-dna-variant-calling",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-dna-variant-calling",
+    "entry": "skills/x-openai-ngs-dna-variant-calling-a99e380/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-epigenomics-peaks-ab23467",
+    "original_name": "ngs-epigenomics-peaks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-epigenomics-peaks",
+    "entry": "skills/x-openai-ngs-epigenomics-peaks-ab23467/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-fastq-qc-d23af8a",
+    "original_name": "ngs-fastq-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-fastq-qc",
+    "entry": "skills/x-openai-ngs-fastq-qc-d23af8a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-runtime-env-9f70489",
+    "original_name": "ngs-runtime-env",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-runtime-env",
+    "entry": "skills/x-openai-ngs-runtime-env-9f70489/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-scrna-seq-4ab7647",
+    "original_name": "ngs-scrna-seq",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-scrna-seq",
+    "entry": "skills/x-openai-ngs-scrna-seq-4ab7647/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ngs-shotgun-metagenomics-992d537",
+    "original_name": "ngs-shotgun-metagenomics",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ngs-shotgun-metagenomics",
+    "entry": "skills/x-openai-ngs-shotgun-metagenomics-992d537/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-scrna-seq-qc-715241a",
+    "original_name": "scrna-seq-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "scrna-seq-qc",
+    "entry": "skills/x-openai-scrna-seq-qc-715241a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-knowledge-capture-128304d",
+    "original_name": "notion-knowledge-capture",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "notion-knowledge-capture",
+    "entry": "skills/x-openai-notion-knowledge-capture-128304d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-meeting-intelligence-b34df83",
+    "original_name": "notion-meeting-intelligence",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "notion-meeting-intelligence",
+    "entry": "skills/x-openai-notion-meeting-intelligence-b34df83/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-research-documentation-45b3d5d",
+    "original_name": "notion-research-documentation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "notion-research-documentation",
+    "entry": "skills/x-openai-notion-research-documentation-45b3d5d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-spec-to-implementation-264d9e3",
+    "original_name": "notion-spec-to-implementation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "notion-spec-to-implementation",
+    "entry": "skills/x-openai-notion-spec-to-implementation-264d9e3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-aiq-deploy-44e98c9",
+    "original_name": "aiq-deploy",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "aiq-deploy",
+    "entry": "skills/x-openai-aiq-deploy-44e98c9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-aiq-research-f2e9ae4",
+    "original_name": "aiq-research",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "aiq-research",
+    "entry": "skills/x-openai-aiq-research-f2e9ae4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cuopt-user-rules-579c3de",
+    "original_name": "cuopt-user-rules",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cuopt-user-rules",
+    "entry": "skills/x-openai-cuopt-user-rules-579c3de/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dynamo-interconnect-check-88163e9",
+    "original_name": "dynamo-interconnect-check",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dynamo-interconnect-check",
+    "entry": "skills/x-openai-dynamo-interconnect-check-88163e9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dynamo-router-starter-6527b74",
+    "original_name": "dynamo-router-starter",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dynamo-router-starter",
+    "entry": "skills/x-openai-dynamo-router-starter-6527b74/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-nemoclaw-user-get-started-c5c0fa5",
+    "original_name": "nemoclaw-user-get-started",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "nemoclaw-user-get-started",
+    "entry": "skills/x-openai-nemoclaw-user-get-started-c5c0fa5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-nvidia-skill-finder-eba8c45",
+    "original_name": "nvidia-skill-finder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "nvidia-skill-finder",
+    "entry": "skills/x-openai-nvidia-skill-finder-eba8c45/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-omniverse-cad-to-simready-1112206",
+    "original_name": "omniverse-cad-to-simready",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "omniverse-cad-to-simready",
+    "entry": "skills/x-openai-omniverse-cad-to-simready-1112206/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-omniverse-realtime-viewer-5b29cb5",
+    "original_name": "omniverse-realtime-viewer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "omniverse-realtime-viewer",
+    "entry": "skills/x-openai-omniverse-realtime-viewer-5b29cb5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-omniverse-usd-performance-tuning-85bd106",
+    "original_name": "omniverse-usd-performance-tuning",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "omniverse-usd-performance-tuning",
+    "entry": "skills/x-openai-omniverse-usd-performance-tuning-85bd106/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-physical-ai-infrastructure-setup-and-resilient-01f2d68",
+    "original_name": "physical-ai-infrastructure-setup-and-resilient-scaling",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "physical-ai-infrastructure-setup-and-resilient-scaling",
+    "entry": "skills/x-openai-physical-ai-infrastructure-setup-and-resilient-01f2d68/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-physical-ai-neural-reconstruction-7930ed1",
+    "original_name": "physical-ai-neural-reconstruction",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "physical-ai-neural-reconstruction",
+    "entry": "skills/x-openai-physical-ai-neural-reconstruction-7930ed1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-openai-ads-conversions-setup-df330f1",
+    "original_name": "openai-ads-conversions-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "openai-ads-conversions-setup",
+    "entry": "skills/x-openai-openai-ads-conversions-setup-df330f1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-agents-sdk-b2bb2b1",
+    "original_name": "agents-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "agents-sdk",
+    "entry": "skills/x-openai-agents-sdk-b2bb2b1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-chatgpt-app-0a4e886",
+    "original_name": "build-chatgpt-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-chatgpt-app",
+    "entry": "skills/x-openai-build-chatgpt-app-0a4e886/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chatgpt-app-submission-d734c08",
+    "original_name": "chatgpt-app-submission",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "chatgpt-app-submission",
+    "entry": "skills/x-openai-chatgpt-app-submission-d734c08/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-openai-api-troubleshooting-bb9ac35",
+    "original_name": "openai-api-troubleshooting",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "openai-api-troubleshooting",
+    "entry": "skills/x-openai-openai-api-troubleshooting-bb9ac35/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-openai-platform-api-key-d61dc2b",
+    "original_name": "openai-platform-api-key",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "openai-platform-api-key",
+    "entry": "skills/x-openai-openai-platform-api-key-d61dc2b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-evaluate-plugin-72b69d9",
+    "original_name": "evaluate-plugin",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "evaluate-plugin",
+    "entry": "skills/x-openai-evaluate-plugin-72b69d9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-evaluate-skill-7c0fe3f",
+    "original_name": "evaluate-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "evaluate-skill",
+    "entry": "skills/x-openai-evaluate-skill-7c0fe3f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-improve-skill-f2384ee",
+    "original_name": "improve-skill",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "improve-skill",
+    "entry": "skills/x-openai-improve-skill-f2384ee/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-metric-pack-designer-f374525",
+    "original_name": "metric-pack-designer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "metric-pack-designer",
+    "entry": "skills/x-openai-metric-pack-designer-f374525/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-plugin-eval-ff58146",
+    "original_name": "plugin-eval",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "plugin-eval",
+    "entry": "skills/x-openai-plugin-eval-ff58146/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-posthog-ccb5fde",
+    "original_name": "posthog",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "posthog",
+    "entry": "skills/x-openai-posthog-ccb5fde/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-audit-98db7ce",
+    "original_name": "audit",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "audit",
+    "entry": "skills/x-openai-audit-98db7ce/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-design-qa-e2364d6",
+    "original_name": "design-qa",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "design-qa",
+    "entry": "skills/x-openai-design-qa-e2364d6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-get-context-bb4f107",
+    "original_name": "get-context",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "get-context",
+    "entry": "skills/x-openai-get-context-bb4f107/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ideate-d6e955f",
+    "original_name": "ideate",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ideate",
+    "entry": "skills/x-openai-ideate-d6e955f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-image-to-code-3d49e76",
+    "original_name": "image-to-code",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "image-to-code",
+    "entry": "skills/x-openai-image-to-code-3d49e76/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-index-d69efa7",
+    "original_name": "index",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "index",
+    "entry": "skills/x-openai-index-d69efa7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-research-4e6a95c",
+    "original_name": "research",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "research",
+    "entry": "skills/x-openai-research-4e6a95c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-share-0917625",
+    "original_name": "share",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "share",
+    "entry": "skills/x-openai-share-0917625/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-url-to-code-4bb3658",
+    "original_name": "url-to-code",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "url-to-code",
+    "entry": "skills/x-openai-url-to-code-4bb3658/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-user-context-dea3618",
+    "original_name": "user-context",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "user-context",
+    "entry": "skills/x-openai-user-context-dea3618/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-catalyst-calendar-ec79012",
+    "original_name": "catalyst-calendar",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "catalyst-calendar",
+    "entry": "skills/x-openai-catalyst-calendar-ec79012/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-company-tearsheet-0cf0cf6",
+    "original_name": "company-tearsheet",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "company-tearsheet",
+    "entry": "skills/x-openai-company-tearsheet-0cf0cf6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-comps-valuation-351238d",
+    "original_name": "comps-valuation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "comps-valuation",
+    "entry": "skills/x-openai-comps-valuation-351238d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dcf-model-builder-5d6c650",
+    "original_name": "dcf-model-builder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dcf-model-builder",
+    "entry": "skills/x-openai-dcf-model-builder-5d6c650/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-deck-report-qc-4e055bd",
+    "original_name": "deck-report-qc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "deck-report-qc",
+    "entry": "skills/x-openai-deck-report-qc-4e055bd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-earnings-deep-dive-395a38e",
+    "original_name": "earnings-deep-dive",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "earnings-deep-dive",
+    "entry": "skills/x-openai-earnings-deep-dive-395a38e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-earnings-preview-33ab71c",
+    "original_name": "earnings-preview",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "earnings-preview",
+    "entry": "skills/x-openai-earnings-preview-33ab71c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-economic-impact-report-1d3f167",
+    "original_name": "economic-impact-report",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "economic-impact-report",
+    "entry": "skills/x-openai-economic-impact-report-1d3f167/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-equity-model-update-b413536",
+    "original_name": "equity-model-update",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "equity-model-update",
+    "entry": "skills/x-openai-equity-model-update-b413536/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-event-driven-analyzer-4300999",
+    "original_name": "event-driven-analyzer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "event-driven-analyzer",
+    "entry": "skills/x-openai-event-driven-analyzer-4300999/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-financials-normalizer-191167d",
+    "original_name": "financials-normalizer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "financials-normalizer",
+    "entry": "skills/x-openai-financials-normalizer-191167d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-idea-generation-6023535",
+    "original_name": "idea-generation",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "idea-generation",
+    "entry": "skills/x-openai-idea-generation-6023535/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-initiating-coverage-dbce191",
+    "original_name": "initiating-coverage",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "initiating-coverage",
+    "entry": "skills/x-openai-initiating-coverage-dbce191/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-long-short-pitch-d3fb23e",
+    "original_name": "long-short-pitch",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "long-short-pitch",
+    "entry": "skills/x-openai-long-short-pitch-d3fb23e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-meeting-prep-72b59d4",
+    "original_name": "meeting-prep",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "meeting-prep",
+    "entry": "skills/x-openai-meeting-prep-72b59d4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-memo-builder-5b2aaa9",
+    "original_name": "memo-builder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "memo-builder",
+    "entry": "skills/x-openai-memo-builder-5b2aaa9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-model-audit-tieout-47a3a8a",
+    "original_name": "model-audit-tieout",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "model-audit-tieout",
+    "entry": "skills/x-openai-model-audit-tieout-47a3a8a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-portfolio-risk-management-e45bdc5",
+    "original_name": "portfolio-risk-management",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "portfolio-risk-management",
+    "entry": "skills/x-openai-portfolio-risk-management-e45bdc5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-public-equity-investing-0bdc3f2",
+    "original_name": "public-equity-investing",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "public-equity-investing",
+    "entry": "skills/x-openai-public-equity-investing-0bdc3f2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-scenario-sensitivity-generator-7311a45",
+    "original_name": "scenario-sensitivity-generator",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "scenario-sensitivity-generator",
+    "entry": "skills/x-openai-scenario-sensitivity-generator-7311a45/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-thesis-tracker-f83bbe9",
+    "original_name": "thesis-tracker",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "thesis-tracker",
+    "entry": "skills/x-openai-thesis-tracker-f83bbe9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-three-statement-model-builder-7ff3920",
+    "original_name": "three-statement-model-builder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "three-statement-model-builder",
+    "entry": "skills/x-openai-three-statement-model-builder-7ff3920/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-user-context-4975b4c",
+    "original_name": "user-context",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "user-context",
+    "entry": "skills/x-openai-user-context-4975b4c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-best-practices-2570cca",
+    "original_name": "remotion-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-best-practices",
+    "entry": "skills/x-openai-remotion-best-practices-2570cca/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-captions-2af8bbe",
+    "original_name": "remotion-captions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-captions",
+    "entry": "skills/x-openai-remotion-captions-2af8bbe/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-create-b65ac31",
+    "original_name": "remotion-create",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-create",
+    "entry": "skills/x-openai-remotion-create-b65ac31/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-docs-f873b61",
+    "original_name": "remotion-docs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-docs",
+    "entry": "skills/x-openai-remotion-docs-f873b61/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-interactivity-0f06e2c",
+    "original_name": "remotion-interactivity",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-interactivity",
+    "entry": "skills/x-openai-remotion-interactivity-0f06e2c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-maps-9dc237a",
+    "original_name": "remotion-maps",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-maps",
+    "entry": "skills/x-openai-remotion-maps-9dc237a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-markup-20a3435",
+    "original_name": "remotion-markup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-markup",
+    "entry": "skills/x-openai-remotion-markup-20a3435/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-multimedia-f7b5e51",
+    "original_name": "remotion-multimedia",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-multimedia",
+    "entry": "skills/x-openai-remotion-multimedia-f7b5e51/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-render-0be676e",
+    "original_name": "remotion-render",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-render",
+    "entry": "skills/x-openai-remotion-render-0be676e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-saas-b849714",
+    "original_name": "remotion-saas",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-saas",
+    "entry": "skills/x-openai-remotion-saas-b849714/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-studio-12b5c21",
+    "original_name": "remotion-studio",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-studio",
+    "entry": "skills/x-openai-remotion-studio-12b5c21/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-remotion-upgrade-911cc6a",
+    "original_name": "remotion-upgrade",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "remotion-upgrade",
+    "entry": "skills/x-openai-remotion-upgrade-911cc6a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-sentry-fa946ca",
+    "original_name": "sentry",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "sentry",
+    "entry": "skills/x-openai-sentry-fa946ca/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-admin-6bd2dfe",
+    "original_name": "shopify-admin",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-admin",
+    "entry": "skills/x-openai-shopify-admin-6bd2dfe/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-app-store-review-fade033",
+    "original_name": "shopify-app-store-review",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-app-store-review",
+    "entry": "skills/x-openai-shopify-app-store-review-fade033/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-custom-data-9e4253e",
+    "original_name": "shopify-custom-data",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-custom-data",
+    "entry": "skills/x-openai-shopify-custom-data-9e4253e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-customer-f49e536",
+    "original_name": "shopify-customer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-customer",
+    "entry": "skills/x-openai-shopify-customer-f49e536/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-dev-deb6237",
+    "original_name": "shopify-dev",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-dev",
+    "entry": "skills/x-openai-shopify-dev-deb6237/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-functions-0dc6927",
+    "original_name": "shopify-functions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-functions",
+    "entry": "skills/x-openai-shopify-functions-0dc6927/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-hydrogen-b9f583b",
+    "original_name": "shopify-hydrogen",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-hydrogen",
+    "entry": "skills/x-openai-shopify-hydrogen-b9f583b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-liquid-8ef5c3f",
+    "original_name": "shopify-liquid",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-liquid",
+    "entry": "skills/x-openai-shopify-liquid-8ef5c3f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-onboarding-dev-1ca9318",
+    "original_name": "shopify-onboarding-dev",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-onboarding-dev",
+    "entry": "skills/x-openai-shopify-onboarding-dev-1ca9318/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-onboarding-merchant-83b25a7",
+    "original_name": "shopify-onboarding-merchant",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-onboarding-merchant",
+    "entry": "skills/x-openai-shopify-onboarding-merchant-83b25a7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-partner-dfefc81",
+    "original_name": "shopify-partner",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-partner",
+    "entry": "skills/x-openai-shopify-partner-dfefc81/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-payments-apps-99d89d4",
+    "original_name": "shopify-payments-apps",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-payments-apps",
+    "entry": "skills/x-openai-shopify-payments-apps-99d89d4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-polaris-admin-extensions-f065ad5",
+    "original_name": "shopify-polaris-admin-extensions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-polaris-admin-extensions",
+    "entry": "skills/x-openai-shopify-polaris-admin-extensions-f065ad5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-polaris-app-home-9d8805b",
+    "original_name": "shopify-polaris-app-home",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-polaris-app-home",
+    "entry": "skills/x-openai-shopify-polaris-app-home-9d8805b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-polaris-checkout-extensions-aa51b1c",
+    "original_name": "shopify-polaris-checkout-extensions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-polaris-checkout-extensions",
+    "entry": "skills/x-openai-shopify-polaris-checkout-extensions-aa51b1c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-polaris-customer-account-extensions-bee00c3",
+    "original_name": "shopify-polaris-customer-account-extensions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-polaris-customer-account-extensions",
+    "entry": "skills/x-openai-shopify-polaris-customer-account-extensions-bee00c3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-pos-ui-c183d4a",
+    "original_name": "shopify-pos-ui",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-pos-ui",
+    "entry": "skills/x-openai-shopify-pos-ui-c183d4a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-storefront-graphql-c25abac",
+    "original_name": "shopify-storefront-graphql",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-storefront-graphql",
+    "entry": "skills/x-openai-shopify-storefront-graphql-c25abac/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shopify-use-shopify-cli-ff537bf",
+    "original_name": "shopify-use-shopify-cli",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shopify-use-shopify-cli",
+    "entry": "skills/x-openai-shopify-use-shopify-cli-ff537bf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ucp-205adaf",
+    "original_name": "ucp",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ucp",
+    "entry": "skills/x-openai-ucp-205adaf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-connect-recommend-050fe06",
+    "original_name": "connect-recommend",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "connect-recommend",
+    "entry": "skills/x-openai-connect-recommend-050fe06/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-apps-6f9d9c7",
+    "original_name": "stripe-apps",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-apps",
+    "entry": "skills/x-openai-stripe-apps-6f9d9c7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-best-practices-a8050ef",
+    "original_name": "stripe-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-best-practices",
+    "entry": "skills/x-openai-stripe-best-practices-a8050ef/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-directory-c0db1e8",
+    "original_name": "stripe-directory",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-directory",
+    "entry": "skills/x-openai-stripe-directory-c0db1e8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-docs-9e5fb8c",
+    "original_name": "stripe-docs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-docs",
+    "entry": "skills/x-openai-stripe-docs-9e5fb8c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-stripe-projects-cb30313",
+    "original_name": "stripe-projects",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "stripe-projects",
+    "entry": "skills/x-openai-stripe-projects-cb30313/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-upgrade-stripe-a67adcf",
+    "original_name": "upgrade-stripe",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "upgrade-stripe",
+    "entry": "skills/x-openai-upgrade-stripe-a67adcf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-supabase-9c20559",
+    "original_name": "supabase",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "supabase",
+    "entry": "skills/x-openai-supabase-9c20559/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-supabase-postgres-best-practices-fa6b377",
+    "original_name": "supabase-postgres-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "supabase-postgres-best-practices",
+    "entry": "skills/x-openai-supabase-postgres-best-practices-fa6b377/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-brainstorming-8a528dc",
+    "original_name": "brainstorming",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "brainstorming",
+    "entry": "skills/x-openai-brainstorming-8a528dc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-dispatching-parallel-agents-a6c2e89",
+    "original_name": "dispatching-parallel-agents",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "dispatching-parallel-agents",
+    "entry": "skills/x-openai-dispatching-parallel-agents-a6c2e89/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-executing-plans-a2a22a3",
+    "original_name": "executing-plans",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "executing-plans",
+    "entry": "skills/x-openai-executing-plans-a2a22a3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-finishing-a-development-branch-6328624",
+    "original_name": "finishing-a-development-branch",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "finishing-a-development-branch",
+    "entry": "skills/x-openai-finishing-a-development-branch-6328624/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-receiving-code-review-f56b7f5",
+    "original_name": "receiving-code-review",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "receiving-code-review",
+    "entry": "skills/x-openai-receiving-code-review-f56b7f5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-requesting-code-review-47c9661",
+    "original_name": "requesting-code-review",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "requesting-code-review",
+    "entry": "skills/x-openai-requesting-code-review-47c9661/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-subagent-driven-development-776947c",
+    "original_name": "subagent-driven-development",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "subagent-driven-development",
+    "entry": "skills/x-openai-subagent-driven-development-776947c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-systematic-debugging-5025c58",
+    "original_name": "systematic-debugging",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "systematic-debugging",
+    "entry": "skills/x-openai-systematic-debugging-5025c58/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-test-driven-development-09504fb",
+    "original_name": "test-driven-development",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "test-driven-development",
+    "entry": "skills/x-openai-test-driven-development-09504fb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-using-git-worktrees-076260f",
+    "original_name": "using-git-worktrees",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "using-git-worktrees",
+    "entry": "skills/x-openai-using-git-worktrees-076260f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-using-superpowers-79346b8",
+    "original_name": "using-superpowers",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "using-superpowers",
+    "entry": "skills/x-openai-using-superpowers-79346b8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-verification-before-completion-e4f704f",
+    "original_name": "verification-before-completion",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "verification-before-completion",
+    "entry": "skills/x-openai-verification-before-completion-e4f704f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-writing-plans-664ffac",
+    "original_name": "writing-plans",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "writing-plans",
+    "entry": "skills/x-openai-writing-plans-664ffac/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-writing-skills-df7363c",
+    "original_name": "writing-skills",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "writing-skills",
+    "entry": "skills/x-openai-writing-skills-df7363c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-temporal-cloud-setup-8ad588b",
+    "original_name": "temporal-cloud-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "temporal-cloud-setup",
+    "entry": "skills/x-openai-temporal-cloud-setup-8ad588b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-temporal-developer-2d0eb90",
+    "original_name": "temporal-developer",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "temporal-developer",
+    "entry": "skills/x-openai-temporal-developer-2d0eb90/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-temporal-ops-6fe3080",
+    "original_name": "temporal-ops",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "temporal-ops",
+    "entry": "skills/x-openai-temporal-ops-6fe3080/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-temporal-serverless-8ad095f",
+    "original_name": "temporal-serverless",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "temporal-serverless",
+    "entry": "skills/x-openai-temporal-serverless-8ad095f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-android-emulator-qa-371fa9b",
+    "original_name": "android-emulator-qa",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android-emulator-qa",
+    "entry": "skills/x-openai-android-emulator-qa-371fa9b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-android-performance-84401fb",
+    "original_name": "android-performance",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android-performance",
+    "entry": "skills/x-openai-android-performance-84401fb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-account-setup-64319f9",
+    "original_name": "twilio-account-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-account-setup",
+    "entry": "skills/x-openai-twilio-account-setup-64319f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-agent-augmentation-architect-be13357",
+    "original_name": "twilio-agent-augmentation-architect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-agent-augmentation-architect",
+    "entry": "skills/x-openai-twilio-agent-augmentation-architect-be13357/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-agent-connect-c1eeb06",
+    "original_name": "twilio-agent-connect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-agent-connect",
+    "entry": "skills/x-openai-twilio-agent-connect-c1eeb06/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-ai-agent-architect-31adb7a",
+    "original_name": "twilio-ai-agent-architect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-ai-agent-architect",
+    "entry": "skills/x-openai-twilio-ai-agent-architect-31adb7a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-call-recordings-d0954e4",
+    "original_name": "twilio-call-recordings",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-call-recordings",
+    "entry": "skills/x-openai-twilio-call-recordings-d0954e4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-cli-reference-18d12f9",
+    "original_name": "twilio-cli-reference",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-cli-reference",
+    "entry": "skills/x-openai-twilio-cli-reference-18d12f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-compliance-onboarding-e2d0194",
+    "original_name": "twilio-compliance-onboarding",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-compliance-onboarding",
+    "entry": "skills/x-openai-twilio-compliance-onboarding-e2d0194/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-compliance-traffic-0bab76f",
+    "original_name": "twilio-compliance-traffic",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-compliance-traffic",
+    "entry": "skills/x-openai-twilio-compliance-traffic-0bab76f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-conference-calls-4e242fe",
+    "original_name": "twilio-conference-calls",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-conference-calls",
+    "entry": "skills/x-openai-twilio-conference-calls-4e242fe/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-content-template-builder-21754fa",
+    "original_name": "twilio-content-template-builder",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-content-template-builder",
+    "entry": "skills/x-openai-twilio-content-template-builder-21754fa/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-conversation-intelligence-3cc6b83",
+    "original_name": "conversation-intelligence",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-conversation-intelligence",
+    "entry": "skills/x-openai-conversation-intelligence-3cc6b83/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-conversation-orchestrator-6665c4d",
+    "original_name": "twilio-conversation-orchestrator",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-conversation-orchestrator",
+    "entry": "skills/x-openai-twilio-conversation-orchestrator-6665c4d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-conversations-classic-api-cf38e34",
+    "original_name": "twilio-conversations-classic-api",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-conversations-classic-api",
+    "entry": "skills/x-openai-twilio-conversations-classic-api-cf38e34/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-customer-memory-69467bd",
+    "original_name": "twilio-customer-memory",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-customer-memory",
+    "entry": "skills/x-openai-twilio-customer-memory-69467bd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-customer-support-architect-74446fb",
+    "original_name": "twilio-customer-support-architect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-customer-support-architect",
+    "entry": "skills/x-openai-twilio-customer-support-architect-74446fb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-debugging-observability-b783cae",
+    "original_name": "twilio-debugging-observability",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-debugging-observability",
+    "entry": "skills/x-openai-twilio-debugging-observability-b783cae/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-email-deliverability-advisor-f75ffad",
+    "original_name": "twilio-email-deliverability-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-email-deliverability-advisor",
+    "entry": "skills/x-openai-twilio-email-deliverability-advisor-f75ffad/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-email-send-bee4996",
+    "original_name": "twilio-email-send",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-email-send",
+    "entry": "skills/x-openai-twilio-email-send-bee4996/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-enterprise-knowledge-836b966",
+    "original_name": "twilio-enterprise-knowledge",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-enterprise-knowledge",
+    "entry": "skills/x-openai-twilio-enterprise-knowledge-836b966/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-iam-auth-setup-41b513b",
+    "original_name": "twilio-iam-auth-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-iam-auth-setup",
+    "entry": "skills/x-openai-twilio-iam-auth-setup-41b513b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-identity-verification-advisor-2e668ec",
+    "original_name": "twilio-identity-verification-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-identity-verification-advisor",
+    "entry": "skills/x-openai-twilio-identity-verification-advisor-2e668ec/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-lookup-phone-intelligence-ef902cb",
+    "original_name": "twilio-lookup-phone-intelligence",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-lookup-phone-intelligence",
+    "entry": "skills/x-openai-twilio-lookup-phone-intelligence-ef902cb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-marketing-promotions-advisor-32c9d7e",
+    "original_name": "twilio-marketing-promotions-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-marketing-promotions-advisor",
+    "entry": "skills/x-openai-twilio-marketing-promotions-advisor-32c9d7e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-messaging-channel-advisor-ce3fc85",
+    "original_name": "twilio-messaging-channel-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-messaging-channel-advisor",
+    "entry": "skills/x-openai-twilio-messaging-channel-advisor-ce3fc85/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-messaging-overview-61fa819",
+    "original_name": "twilio-messaging-overview",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-messaging-overview",
+    "entry": "skills/x-openai-twilio-messaging-overview-61fa819/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-messaging-services-1ea1686",
+    "original_name": "twilio-messaging-services",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-messaging-services",
+    "entry": "skills/x-openai-twilio-messaging-services-1ea1686/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-messaging-webhooks-1c62a55",
+    "original_name": "twilio-messaging-webhooks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-messaging-webhooks",
+    "entry": "skills/x-openai-twilio-messaging-webhooks-1c62a55/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-notifications-alerts-advisor-4070f7d",
+    "original_name": "twilio-notifications-alerts-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-notifications-alerts-advisor",
+    "entry": "skills/x-openai-twilio-notifications-alerts-advisor-4070f7d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-numbers-senders-424bc3c",
+    "original_name": "twilio-numbers-senders",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-numbers-senders",
+    "entry": "skills/x-openai-twilio-numbers-senders-424bc3c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-organizations-setup-a3dd568",
+    "original_name": "twilio-organizations-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-organizations-setup",
+    "entry": "skills/x-openai-twilio-organizations-setup-a3dd568/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-rcs-messaging-83d940d",
+    "original_name": "twilio-rcs-messaging",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-rcs-messaging",
+    "entry": "skills/x-openai-twilio-rcs-messaging-83d940d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-regulatory-compliance-bundles-fd1d23b",
+    "original_name": "twilio-regulatory-compliance-bundles",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-regulatory-compliance-bundles",
+    "entry": "skills/x-openai-twilio-regulatory-compliance-bundles-fd1d23b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-reliability-patterns-6917296",
+    "original_name": "twilio-reliability-patterns",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-reliability-patterns",
+    "entry": "skills/x-openai-twilio-reliability-patterns-6917296/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-security-api-auth-cec2f37",
+    "original_name": "twilio-security-api-auth",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-security-api-auth",
+    "entry": "skills/x-openai-twilio-security-api-auth-cec2f37/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-security-compliance-hipaa-81dc184",
+    "original_name": "twilio-security-compliance-hipaa",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-security-compliance-hipaa",
+    "entry": "skills/x-openai-twilio-security-compliance-hipaa-81dc184/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-security-hardening-87b5d00",
+    "original_name": "twilio-security-hardening",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-security-hardening",
+    "entry": "skills/x-openai-twilio-security-hardening-87b5d00/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-send-message-bed4cc4",
+    "original_name": "twilio-send-message",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-send-message",
+    "entry": "skills/x-openai-twilio-send-message-bed4cc4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-account-setup-dd7255e",
+    "original_name": "twilio-sendgrid-account-setup",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-account-setup",
+    "entry": "skills/x-openai-twilio-sendgrid-account-setup-dd7255e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-deliverability-advisor-bfcc602",
+    "original_name": "twilio-sendgrid-deliverability-advisor",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-deliverability-advisor",
+    "entry": "skills/x-openai-twilio-sendgrid-deliverability-advisor-bfcc602/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-email-send-74bef56",
+    "original_name": "twilio-sendgrid-email-send",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-email-send",
+    "entry": "skills/x-openai-twilio-sendgrid-email-send-74bef56/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-email-settings-3c462b1",
+    "original_name": "twilio-sendgrid-email-settings",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-email-settings",
+    "entry": "skills/x-openai-twilio-sendgrid-email-settings-3c462b1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-engagement-quality-75891ed",
+    "original_name": "twilio-sendgrid-engagement-quality",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-engagement-quality",
+    "entry": "skills/x-openai-twilio-sendgrid-engagement-quality-75891ed/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-inbound-parse-342cff4",
+    "original_name": "twilio-sendgrid-inbound-parse",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-inbound-parse",
+    "entry": "skills/x-openai-twilio-sendgrid-inbound-parse-342cff4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-suppressions-40288ef",
+    "original_name": "twilio-sendgrid-suppressions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-suppressions",
+    "entry": "skills/x-openai-twilio-sendgrid-suppressions-40288ef/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sendgrid-webhooks-2733c59",
+    "original_name": "twilio-sendgrid-webhooks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sendgrid-webhooks",
+    "entry": "skills/x-openai-twilio-sendgrid-webhooks-2733c59/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-isv-sms-best-practices-7c46bb6",
+    "original_name": "twilio-isv-sms-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sms-isv-setup",
+    "entry": "skills/x-openai-twilio-isv-sms-best-practices-7c46bb6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-sms-send-message-286d4f5",
+    "original_name": "twilio-sms-send-message",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-sms-send-message",
+    "entry": "skills/x-openai-twilio-sms-send-message-286d4f5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-taskrouter-routing-f7433df",
+    "original_name": "twilio-taskrouter-routing",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-taskrouter-routing",
+    "entry": "skills/x-openai-twilio-taskrouter-routing-f7433df/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-verify-send-otp-2552812",
+    "original_name": "twilio-verify-send-otp",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-verify-send-otp",
+    "entry": "skills/x-openai-twilio-verify-send-otp-2552812/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-voice-conversation-relay-1695ede",
+    "original_name": "twilio-voice-conversation-relay",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-voice-conversation-relay",
+    "entry": "skills/x-openai-twilio-voice-conversation-relay-1695ede/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-voice-outbound-calls-ad4ff44",
+    "original_name": "twilio-voice-outbound-calls",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-voice-outbound-calls",
+    "entry": "skills/x-openai-twilio-voice-outbound-calls-ad4ff44/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-voice-twiml-b144e29",
+    "original_name": "twilio-voice-twiml",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-voice-twiml",
+    "entry": "skills/x-openai-twilio-voice-twiml-b144e29/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-webhook-architecture-b64682e",
+    "original_name": "twilio-webhook-architecture",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-webhook-architecture",
+    "entry": "skills/x-openai-twilio-webhook-architecture-b64682e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-whatsapp-manage-senders-7442f12",
+    "original_name": "twilio-whatsapp-manage-senders",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-whatsapp-manage-senders",
+    "entry": "skills/x-openai-twilio-whatsapp-manage-senders-7442f12/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-twilio-whatsapp-send-message-018c6e8",
+    "original_name": "twilio-whatsapp-send-message",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "twilio-whatsapp-send-message",
+    "entry": "skills/x-openai-twilio-whatsapp-send-message-018c6e8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-agent-browser-ee27e33",
+    "original_name": "agent-browser",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "agent-browser",
+    "entry": "skills/x-openai-agent-browser-ee27e33/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-agent-browser-verify-d0bc25d",
+    "original_name": "agent-browser-verify",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "agent-browser-verify",
+    "entry": "skills/x-openai-agent-browser-verify-d0bc25d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ai-elements-7942b62",
+    "original_name": "ai-elements",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ai-elements",
+    "entry": "skills/x-openai-ai-elements-7942b62/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ai-gateway-d1b6180",
+    "original_name": "ai-gateway",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ai-gateway",
+    "entry": "skills/x-openai-ai-gateway-d1b6180/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ai-generation-persistence-cbb9005",
+    "original_name": "ai-generation-persistence",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ai-generation-persistence",
+    "entry": "skills/x-openai-ai-generation-persistence-cbb9005/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ai-sdk-1fab0c2",
+    "original_name": "ai-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ai-sdk",
+    "entry": "skills/x-openai-ai-sdk-1fab0c2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-auth-80b1bdb",
+    "original_name": "auth",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "auth",
+    "entry": "skills/x-openai-auth-80b1bdb/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-bootstrap-5fe6b34",
+    "original_name": "bootstrap",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "bootstrap",
+    "entry": "skills/x-openai-bootstrap-5fe6b34/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cdn-caching-9913d4a",
+    "original_name": "cdn-caching",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cdn-caching",
+    "entry": "skills/x-openai-cdn-caching-9913d4a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chat-sdk-de5047e",
+    "original_name": "chat-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "chat-sdk",
+    "entry": "skills/x-openai-chat-sdk-de5047e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cms-aa44b3f",
+    "original_name": "cms",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cms",
+    "entry": "skills/x-openai-cms-aa44b3f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cron-jobs-8cb064d",
+    "original_name": "cron-jobs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cron-jobs",
+    "entry": "skills/x-openai-cron-jobs-8cb064d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-deployments-cicd-1571f25",
+    "original_name": "deployments-cicd",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "deployments-cicd",
+    "entry": "skills/x-openai-deployments-cicd-1571f25/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-email-ed6e91a",
+    "original_name": "email",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "email",
+    "entry": "skills/x-openai-email-ed6e91a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-env-vars-fbc781f",
+    "original_name": "env-vars",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "env-vars",
+    "entry": "skills/x-openai-env-vars-fbc781f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-eve-639f8db",
+    "original_name": "eve",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "eve",
+    "entry": "skills/x-openai-eve-639f8db/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-geist-510bd61",
+    "original_name": "geist",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "geist",
+    "entry": "skills/x-openai-geist-510bd61/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-geistdocs-9f232a4",
+    "original_name": "geistdocs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "geistdocs",
+    "entry": "skills/x-openai-geistdocs-9f232a4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-investigation-mode-6617f1b",
+    "original_name": "investigation-mode",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "investigation-mode",
+    "entry": "skills/x-openai-investigation-mode-6617f1b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-json-render-a19da01",
+    "original_name": "json-render",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "json-render",
+    "entry": "skills/x-openai-json-render-a19da01/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-knowledge-update-e718dfd",
+    "original_name": "knowledge-update",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "knowledge-update",
+    "entry": "skills/x-openai-knowledge-update-e718dfd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-marketplace-49ab473",
+    "original_name": "marketplace",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "marketplace",
+    "entry": "skills/x-openai-marketplace-49ab473/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-micro-c118722",
+    "original_name": "micro",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "micro",
+    "entry": "skills/x-openai-micro-c118722/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-microfrontends-4b38860",
+    "original_name": "microfrontends",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "microfrontends",
+    "entry": "skills/x-openai-microfrontends-4b38860/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ncc-bd25719",
+    "original_name": "ncc",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ncc",
+    "entry": "skills/x-openai-ncc-bd25719/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-next-cache-components-a88e7c0",
+    "original_name": "next-cache-components",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "next-cache-components",
+    "entry": "skills/x-openai-next-cache-components-a88e7c0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-next-forge-912c016",
+    "original_name": "next-forge",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "next-forge",
+    "entry": "skills/x-openai-next-forge-912c016/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-next-upgrade-da1bfab",
+    "original_name": "next-upgrade",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "next-upgrade",
+    "entry": "skills/x-openai-next-upgrade-da1bfab/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-nextjs-0babc94",
+    "original_name": "nextjs",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "nextjs",
+    "entry": "skills/x-openai-nextjs-0babc94/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-observability-5fdcac5",
+    "original_name": "observability",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "observability",
+    "entry": "skills/x-openai-observability-5fdcac5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-payments-ab6f543",
+    "original_name": "payments",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "payments",
+    "entry": "skills/x-openai-payments-ab6f543/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-react-best-practices-12482cc",
+    "original_name": "react-best-practices",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-best-practices",
+    "entry": "skills/x-openai-react-best-practices-12482cc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-routing-middleware-451439e",
+    "original_name": "routing-middleware",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "routing-middleware",
+    "entry": "skills/x-openai-routing-middleware-451439e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-runtime-cache-5e95fce",
+    "original_name": "runtime-cache",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "runtime-cache",
+    "entry": "skills/x-openai-runtime-cache-5e95fce/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-satori-6efb31a",
+    "original_name": "satori",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "satori",
+    "entry": "skills/x-openai-satori-6efb31a/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-shadcn-a1ae15d",
+    "original_name": "shadcn",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "shadcn",
+    "entry": "skills/x-openai-shadcn-a1ae15d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-sign-in-with-vercel-3d5c426",
+    "original_name": "sign-in-with-vercel",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "sign-in-with-vercel",
+    "entry": "skills/x-openai-sign-in-with-vercel-3d5c426/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-swr-8f69c32",
+    "original_name": "swr",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "swr",
+    "entry": "skills/x-openai-swr-8f69c32/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-turbopack-1b74fc9",
+    "original_name": "turbopack",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "turbopack",
+    "entry": "skills/x-openai-turbopack-1b74fc9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-turborepo-bf99aac",
+    "original_name": "turborepo",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "turborepo",
+    "entry": "skills/x-openai-turborepo-bf99aac/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-v0-dev-97da046",
+    "original_name": "v0-dev",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "v0-dev",
+    "entry": "skills/x-openai-v0-dev-97da046/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-agent-5303b1d",
+    "original_name": "vercel-agent",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-agent",
+    "entry": "skills/x-openai-vercel-agent-5303b1d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-api-eb12224",
+    "original_name": "vercel-api",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-api",
+    "entry": "skills/x-openai-vercel-api-eb12224/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-cli-66f92b6",
+    "original_name": "vercel-cli",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-cli",
+    "entry": "skills/x-openai-vercel-cli-66f92b6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-connect-d2e1cf9",
+    "original_name": "vercel-connect",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-connect",
+    "entry": "skills/x-openai-vercel-connect-d2e1cf9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-firewall-9051c37",
+    "original_name": "vercel-firewall",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-firewall",
+    "entry": "skills/x-openai-vercel-firewall-9051c37/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-flags-707ca69",
+    "original_name": "vercel-flags",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-flags",
+    "entry": "skills/x-openai-vercel-flags-707ca69/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-functions-2cd49f8",
+    "original_name": "vercel-functions",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-functions",
+    "entry": "skills/x-openai-vercel-functions-2cd49f8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-queues-53a14e2",
+    "original_name": "vercel-queues",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-queues",
+    "entry": "skills/x-openai-vercel-queues-53a14e2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-sandbox-de79966",
+    "original_name": "vercel-sandbox",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-sandbox",
+    "entry": "skills/x-openai-vercel-sandbox-de79966/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-services-91ca38e",
+    "original_name": "vercel-services",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-services",
+    "entry": "skills/x-openai-vercel-services-91ca38e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-storage-b73b061",
+    "original_name": "vercel-storage",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "vercel-storage",
+    "entry": "skills/x-openai-vercel-storage-b73b061/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-verification-902777c",
+    "original_name": "verification",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "verification",
+    "entry": "skills/x-openai-verification-902777c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-workflow-cc4298d",
+    "original_name": "workflow",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "workflow",
+    "entry": "skills/x-openai-workflow-cc4298d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-bot-0582b85",
+    "original_name": "build-zoom-bot",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-zoom-bot",
+    "entry": "skills/x-openai-build-zoom-bot-0582b85/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-meeting-app-c3f8e89",
+    "original_name": "build-zoom-meeting-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "build-zoom-meeting-app",
+    "entry": "skills/x-openai-build-zoom-meeting-app-c3f8e89/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-choose-zoom-approach-374624e",
+    "original_name": "choose-zoom-approach",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "choose-zoom-approach",
+    "entry": "skills/x-openai-choose-zoom-approach-374624e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-cobrowse-sdk-39cc3a6",
+    "original_name": "zoom-cobrowse-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "cobrowse-sdk",
+    "entry": "skills/x-openai-zoom-cobrowse-sdk-39cc3a6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-contact-center-android-7bd3d1b",
+    "original_name": "zoom-contact-center-android",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android",
+    "entry": "skills/x-openai-zoom-contact-center-android-7bd3d1b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-contact-center-ios-d91c2be",
+    "original_name": "zoom-contact-center-ios",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios",
+    "entry": "skills/x-openai-zoom-contact-center-ios-d91c2be/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-contact-center-app-20fb7cf",
+    "original_name": "build-zoom-contact-center-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "contact-center",
+    "entry": "skills/x-openai-build-zoom-contact-center-app-20fb7cf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-contact-center-web-f4b81f9",
+    "original_name": "zoom-contact-center-web",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web",
+    "entry": "skills/x-openai-zoom-contact-center-web-f4b81f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-debug-zoom-2565b25",
+    "original_name": "debug-zoom",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "debug-zoom",
+    "entry": "skills/x-openai-debug-zoom-2565b25/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-debug-zoom-integration-e63bc32",
+    "original_name": "debug-zoom-integration",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "debug-zoom-integration",
+    "entry": "skills/x-openai-debug-zoom-integration-e63bc32/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-general-37cf44c",
+    "original_name": "zoom-general",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "general",
+    "entry": "skills/x-openai-zoom-general-37cf44c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-android-4398669",
+    "original_name": "zoom-meeting-sdk-android",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android",
+    "entry": "skills/x-openai-zoom-meeting-sdk-android-4398669/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-electron-7fb3a9b",
+    "original_name": "zoom-meeting-sdk-electron",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "electron",
+    "entry": "skills/x-openai-zoom-meeting-sdk-electron-7fb3a9b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-ios-0bffd09",
+    "original_name": "zoom-meeting-sdk-ios",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios",
+    "entry": "skills/x-openai-zoom-meeting-sdk-ios-0bffd09/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-linux-7c38d37",
+    "original_name": "zoom-meeting-sdk-linux",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "linux",
+    "entry": "skills/x-openai-zoom-meeting-sdk-linux-7c38d37/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-macos-cf65110",
+    "original_name": "zoom-meeting-sdk-macos",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "macos",
+    "entry": "skills/x-openai-zoom-meeting-sdk-macos-cf65110/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-react-native-c3f80cf",
+    "original_name": "zoom-meeting-sdk-react-native",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-native",
+    "entry": "skills/x-openai-zoom-meeting-sdk-react-native-c3f80cf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-meeting-sdk-app-f579820",
+    "original_name": "build-zoom-meeting-sdk-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "meeting-sdk",
+    "entry": "skills/x-openai-build-zoom-meeting-sdk-app-f579820/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-unreal-c2dabd5",
+    "original_name": "zoom-meeting-sdk-unreal",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "unreal",
+    "entry": "skills/x-openai-zoom-meeting-sdk-unreal-c2dabd5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-web-client-view-dd74c7c",
+    "original_name": "zoom-meeting-sdk-web-client-view",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "client-view",
+    "entry": "skills/x-openai-zoom-meeting-sdk-web-client-view-dd74c7c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-web-component-view-2fa2d6f",
+    "original_name": "zoom-meeting-sdk-web-component-view",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "component-view",
+    "entry": "skills/x-openai-zoom-meeting-sdk-web-component-view-2fa2d6f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-web-c3851c6",
+    "original_name": "zoom-meeting-sdk-web",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web",
+    "entry": "skills/x-openai-zoom-meeting-sdk-web-c3851c6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-meeting-sdk-windows-85fa062",
+    "original_name": "zoom-meeting-sdk-windows",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "windows",
+    "entry": "skills/x-openai-zoom-meeting-sdk-windows-85fa062/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-oauth-13e78b7",
+    "original_name": "zoom-oauth",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "oauth",
+    "entry": "skills/x-openai-zoom-oauth-13e78b7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-phone-integration-e2a7e6c",
+    "original_name": "build-zoom-phone-integration",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "phone",
+    "entry": "skills/x-openai-build-zoom-phone-integration-e2a7e6c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-plan-zoom-integration-d7076df",
+    "original_name": "plan-zoom-integration",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "plan-zoom-integration",
+    "entry": "skills/x-openai-plan-zoom-integration-d7076df/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-plan-zoom-product-3b4e508",
+    "original_name": "plan-zoom-product",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "plan-zoom-product",
+    "entry": "skills/x-openai-plan-zoom-product-3b4e508/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-probe-sdk-75de778",
+    "original_name": "probe-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "probe-sdk",
+    "entry": "skills/x-openai-probe-sdk-75de778/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-rest-api-app-fa8ade3",
+    "original_name": "build-zoom-rest-api-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rest-api",
+    "entry": "skills/x-openai-build-zoom-rest-api-app-fa8ade3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-rivet-sdk-cdbf846",
+    "original_name": "rivet-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rivet-sdk",
+    "entry": "skills/x-openai-rivet-sdk-cdbf846/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-rtms-ae86f57",
+    "original_name": "zoom-rtms",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "rtms",
+    "entry": "skills/x-openai-zoom-rtms-ae86f57/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-scribe-a8317f9",
+    "original_name": "scribe",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "scribe",
+    "entry": "skills/x-openai-scribe-a8317f9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-setup-zoom-oauth-442899b",
+    "original_name": "setup-zoom-oauth",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "setup-zoom-oauth",
+    "entry": "skills/x-openai-setup-zoom-oauth-442899b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-start-120ae45",
+    "original_name": "start",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "start",
+    "entry": "skills/x-openai-start-120ae45/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-team-chat-app-dc08987",
+    "original_name": "build-zoom-team-chat-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "team-chat",
+    "entry": "skills/x-openai-build-zoom-team-chat-app-dc08987/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-ui-toolkit-e3fb50c",
+    "original_name": "ui-toolkit",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ui-toolkit",
+    "entry": "skills/x-openai-ui-toolkit-e3fb50c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-android-9271920",
+    "original_name": "zoom-video-sdk-android",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android",
+    "entry": "skills/x-openai-zoom-video-sdk-android-9271920/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-flutter-3d5026c",
+    "original_name": "zoom-video-sdk-flutter",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "flutter",
+    "entry": "skills/x-openai-zoom-video-sdk-flutter-3d5026c/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-ios-a51b747",
+    "original_name": "zoom-video-sdk-ios",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios",
+    "entry": "skills/x-openai-zoom-video-sdk-ios-a51b747/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-linux-7528693",
+    "original_name": "zoom-video-sdk-linux",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "linux",
+    "entry": "skills/x-openai-zoom-video-sdk-linux-7528693/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-macos-a68d275",
+    "original_name": "zoom-video-sdk-macos",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "macos",
+    "entry": "skills/x-openai-zoom-video-sdk-macos-a68d275/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-react-native-bf16e19",
+    "original_name": "zoom-video-sdk-react-native",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "react-native",
+    "entry": "skills/x-openai-zoom-video-sdk-react-native-bf16e19/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-video-sdk-app-93497e9",
+    "original_name": "build-zoom-video-sdk-app",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "video-sdk",
+    "entry": "skills/x-openai-build-zoom-video-sdk-app-93497e9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-unity-de31698",
+    "original_name": "zoom-video-sdk-unity",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "unity",
+    "entry": "skills/x-openai-zoom-video-sdk-unity-de31698/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-web-0622b99",
+    "original_name": "zoom-video-sdk-web",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web",
+    "entry": "skills/x-openai-zoom-video-sdk-web-0622b99/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-video-sdk-windows-962bab5",
+    "original_name": "zoom-video-sdk-windows",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "windows",
+    "entry": "skills/x-openai-zoom-video-sdk-windows-962bab5/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-virtual-agent-android-35a69ea",
+    "original_name": "zoom-virtual-agent-android",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "android",
+    "entry": "skills/x-openai-zoom-virtual-agent-android-35a69ea/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-virtual-agent-ios-11dae71",
+    "original_name": "zoom-virtual-agent-ios",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "ios",
+    "entry": "skills/x-openai-zoom-virtual-agent-ios-11dae71/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-build-zoom-virtual-agent-6f67c33",
+    "original_name": "build-zoom-virtual-agent",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "virtual-agent",
+    "entry": "skills/x-openai-build-zoom-virtual-agent-6f67c33/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-virtual-agent-web-cb2963b",
+    "original_name": "zoom-virtual-agent-web",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "web",
+    "entry": "skills/x-openai-zoom-virtual-agent-web-cb2963b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-setup-zoom-webhooks-e8837c7",
+    "original_name": "setup-zoom-webhooks",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "webhooks",
+    "entry": "skills/x-openai-setup-zoom-webhooks-e8837c7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-setup-zoom-websockets-c8c09ef",
+    "original_name": "setup-zoom-websockets",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "websockets",
+    "entry": "skills/x-openai-setup-zoom-websockets-c8c09ef/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zoom-apps-sdk-0178e47",
+    "original_name": "zoom-apps-sdk",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "zoom-apps-sdk",
+    "entry": "skills/x-openai-zoom-apps-sdk-0178e47/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-zotero-ede53be",
+    "original_name": "Zotero",
+    "origin": "upstream/openai/plugins",
+    "source_skill": "zotero",
+    "entry": "skills/x-openai-zotero-ede53be/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-aspnet-core-84d1c85",
+    "original_name": "aspnet-core",
+    "origin": "upstream/openai/skills",
+    "source_skill": "aspnet-core",
+    "entry": "skills/x-openai-aspnet-core-84d1c85/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-chatgpt-apps-b871980",
+    "original_name": "chatgpt-apps",
+    "origin": "upstream/openai/skills",
+    "source_skill": "chatgpt-apps",
+    "entry": "skills/x-openai-chatgpt-apps-b871980/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cli-creator-ff32b6d",
+    "original_name": "cli-creator",
+    "origin": "upstream/openai/skills",
+    "source_skill": "cli-creator",
+    "entry": "skills/x-openai-cli-creator-ff32b6d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-cloudflare-deploy-f6089b7",
+    "original_name": "cloudflare-deploy",
+    "origin": "upstream/openai/skills",
+    "source_skill": "cloudflare-deploy",
+    "entry": "skills/x-openai-cloudflare-deploy-f6089b7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-define-goal-e2d53a0",
+    "original_name": "define-goal",
+    "origin": "upstream/openai/skills",
+    "source_skill": "define-goal",
+    "entry": "skills/x-openai-define-goal-e2d53a0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-8a2aede",
+    "original_name": "figma",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma",
+    "entry": "skills/x-openai-figma-8a2aede/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-code-connect-components-3776464",
+    "original_name": "figma-code-connect-components",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-code-connect-components",
+    "entry": "skills/x-openai-figma-code-connect-components-3776464/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-create-design-system-rules-9378820",
+    "original_name": "figma-create-design-system-rules",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-create-design-system-rules",
+    "entry": "skills/x-openai-figma-create-design-system-rules-9378820/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-create-new-file-9d1db9b",
+    "original_name": "figma-create-new-file",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-create-new-file",
+    "entry": "skills/x-openai-figma-create-new-file-9d1db9b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-generate-design-bfe5a24",
+    "original_name": "figma-generate-design",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-generate-design",
+    "entry": "skills/x-openai-figma-generate-design-bfe5a24/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-generate-library-9270b83",
+    "original_name": "figma-generate-library",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-generate-library",
+    "entry": "skills/x-openai-figma-generate-library-9270b83/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-implement-design-9adff58",
+    "original_name": "figma-implement-design",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-implement-design",
+    "entry": "skills/x-openai-figma-implement-design-9adff58/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-figma-use-0957552",
+    "original_name": "figma-use",
+    "origin": "upstream/openai/skills",
+    "source_skill": "figma-use",
+    "entry": "skills/x-openai-figma-use-0957552/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gh-address-comments-14bf5cc",
+    "original_name": "gh-address-comments",
+    "origin": "upstream/openai/skills",
+    "source_skill": "gh-address-comments",
+    "entry": "skills/x-openai-gh-address-comments-14bf5cc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-gh-fix-ci-f1c03aa",
+    "original_name": "gh-fix-ci",
+    "origin": "upstream/openai/skills",
+    "source_skill": "gh-fix-ci",
+    "entry": "skills/x-openai-gh-fix-ci-f1c03aa/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-hatch-pet-62f7133",
+    "original_name": "hatch-pet",
+    "origin": "upstream/openai/skills",
+    "source_skill": "hatch-pet",
+    "entry": "skills/x-openai-hatch-pet-62f7133/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-jupyter-notebook-f29bc51",
+    "original_name": "jupyter-notebook",
+    "origin": "upstream/openai/skills",
+    "source_skill": "jupyter-notebook",
+    "entry": "skills/x-openai-jupyter-notebook-f29bc51/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-linear-b3d33c4",
+    "original_name": "linear",
+    "origin": "upstream/openai/skills",
+    "source_skill": "linear",
+    "entry": "skills/x-openai-linear-b3d33c4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-migrate-to-codex-ac311db",
+    "original_name": "migrate-to-codex",
+    "origin": "upstream/openai/skills",
+    "source_skill": "migrate-to-codex",
+    "entry": "skills/x-openai-migrate-to-codex-ac311db/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-netlify-deploy-905c9a6",
+    "original_name": "netlify-deploy",
+    "origin": "upstream/openai/skills",
+    "source_skill": "netlify-deploy",
+    "entry": "skills/x-openai-netlify-deploy-905c9a6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-knowledge-capture-13db9c0",
+    "original_name": "notion-knowledge-capture",
+    "origin": "upstream/openai/skills",
+    "source_skill": "notion-knowledge-capture",
+    "entry": "skills/x-openai-notion-knowledge-capture-13db9c0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-meeting-intelligence-011c9f6",
+    "original_name": "notion-meeting-intelligence",
+    "origin": "upstream/openai/skills",
+    "source_skill": "notion-meeting-intelligence",
+    "entry": "skills/x-openai-notion-meeting-intelligence-011c9f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-research-documentation-890939f",
+    "original_name": "notion-research-documentation",
+    "origin": "upstream/openai/skills",
+    "source_skill": "notion-research-documentation",
+    "entry": "skills/x-openai-notion-research-documentation-890939f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-notion-spec-to-implementation-71c92fe",
+    "original_name": "notion-spec-to-implementation",
+    "origin": "upstream/openai/skills",
+    "source_skill": "notion-spec-to-implementation",
+    "entry": "skills/x-openai-notion-spec-to-implementation-71c92fe/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-openai-docs-265646d",
+    "original_name": "openai-docs",
+    "origin": "upstream/openai/skills",
+    "source_skill": "openai-docs",
+    "entry": "skills/x-openai-openai-docs-265646d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-pdf-d772017",
+    "original_name": "pdf",
+    "origin": "upstream/openai/skills",
+    "source_skill": "pdf",
+    "entry": "skills/x-openai-pdf-d772017/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-playwright-87feadc",
+    "original_name": "playwright",
+    "origin": "upstream/openai/skills",
+    "source_skill": "playwright",
+    "entry": "skills/x-openai-playwright-87feadc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-playwright-interactive-21b0e4d",
+    "original_name": "playwright-interactive",
+    "origin": "upstream/openai/skills",
+    "source_skill": "playwright-interactive",
+    "entry": "skills/x-openai-playwright-interactive-21b0e4d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-render-deploy-2dbbc7e",
+    "original_name": "render-deploy",
+    "origin": "upstream/openai/skills",
+    "source_skill": "render-deploy",
+    "entry": "skills/x-openai-render-deploy-2dbbc7e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-screenshot-d4eac11",
+    "original_name": "screenshot",
+    "origin": "upstream/openai/skills",
+    "source_skill": "screenshot",
+    "entry": "skills/x-openai-screenshot-d4eac11/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-security-best-practices-41b67ae",
+    "original_name": "security-best-practices",
+    "origin": "upstream/openai/skills",
+    "source_skill": "security-best-practices",
+    "entry": "skills/x-openai-security-best-practices-41b67ae/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-security-ownership-map-9a9aef1",
+    "original_name": "security-ownership-map",
+    "origin": "upstream/openai/skills",
+    "source_skill": "security-ownership-map",
+    "entry": "skills/x-openai-security-ownership-map-9a9aef1/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-security-threat-model-f23fac0",
+    "original_name": "security-threat-model",
+    "origin": "upstream/openai/skills",
+    "source_skill": "security-threat-model",
+    "entry": "skills/x-openai-security-threat-model-f23fac0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-sentry-f9f88bf",
+    "original_name": "sentry",
+    "origin": "upstream/openai/skills",
+    "source_skill": "sentry",
+    "entry": "skills/x-openai-sentry-f9f88bf/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-speech-8286e75",
+    "original_name": "speech",
+    "origin": "upstream/openai/skills",
+    "source_skill": "speech",
+    "entry": "skills/x-openai-speech-8286e75/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-transcribe-5df1773",
+    "original_name": "transcribe",
+    "origin": "upstream/openai/skills",
+    "source_skill": "transcribe",
+    "entry": "skills/x-openai-transcribe-5df1773/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-vercel-deploy-e9901ec",
+    "original_name": "vercel-deploy",
+    "origin": "upstream/openai/skills",
+    "source_skill": "vercel-deploy",
+    "entry": "skills/x-openai-vercel-deploy-e9901ec/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-winui-app-b345fc3",
+    "original_name": "winui-app",
+    "origin": "upstream/openai/skills",
+    "source_skill": "winui-app",
+    "entry": "skills/x-openai-winui-app-b345fc3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-yeet-7636127",
+    "original_name": "yeet",
+    "origin": "upstream/openai/skills",
+    "source_skill": "yeet",
+    "entry": "skills/x-openai-yeet-7636127/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-imagegen-8c8b9f6",
+    "original_name": "imagegen",
+    "origin": "upstream/openai/skills",
+    "source_skill": "imagegen",
+    "entry": "skills/x-openai-imagegen-8c8b9f6/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-openai-docs-3a658ea",
+    "original_name": "openai-docs",
+    "origin": "upstream/openai/skills",
+    "source_skill": "openai-docs",
+    "entry": "skills/x-openai-openai-docs-3a658ea/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-plugin-creator-b079cbc",
+    "original_name": "plugin-creator",
+    "origin": "upstream/openai/skills",
+    "source_skill": "plugin-creator",
+    "entry": "skills/x-openai-plugin-creator-b079cbc/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-skill-creator-f3701e3",
+    "original_name": "skill-creator",
+    "origin": "upstream/openai/skills",
+    "source_skill": "skill-creator",
+    "entry": "skills/x-openai-skill-creator-f3701e3/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-openai-skill-installer-b36e203",
+    "original_name": "skill-installer",
+    "origin": "upstream/openai/skills",
+    "source_skill": "skill-installer",
+    "entry": "skills/x-openai-skill-installer-b36e203/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-brainstorming-ee7094d",
+    "original_name": "brainstorming",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "brainstorming",
+    "entry": "skills/x-obra-brainstorming-ee7094d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-diagnosing-superpowers-5187475",
+    "original_name": "diagnosing-superpowers",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "diagnosing-superpowers",
+    "entry": "skills/x-obra-diagnosing-superpowers-5187475/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-dispatching-parallel-agents-7735073",
+    "original_name": "dispatching-parallel-agents",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "dispatching-parallel-agents",
+    "entry": "skills/x-obra-dispatching-parallel-agents-7735073/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-executing-plans-2aa066e",
+    "original_name": "executing-plans",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "executing-plans",
+    "entry": "skills/x-obra-executing-plans-2aa066e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-finishing-a-development-branch-0f35e7d",
+    "original_name": "finishing-a-development-branch",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "finishing-a-development-branch",
+    "entry": "skills/x-obra-finishing-a-development-branch-0f35e7d/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-receiving-code-review-d8c6065",
+    "original_name": "receiving-code-review",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "receiving-code-review",
+    "entry": "skills/x-obra-receiving-code-review-d8c6065/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-requesting-code-review-6720254",
+    "original_name": "requesting-code-review",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "requesting-code-review",
+    "entry": "skills/x-obra-requesting-code-review-6720254/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-subagent-driven-development-e88f5f0",
+    "original_name": "subagent-driven-development",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "subagent-driven-development",
+    "entry": "skills/x-obra-subagent-driven-development-e88f5f0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-systematic-debugging-6ea9bab",
+    "original_name": "systematic-debugging",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "systematic-debugging",
+    "entry": "skills/x-obra-systematic-debugging-6ea9bab/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-test-driven-development-a9c0fe4",
+    "original_name": "test-driven-development",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "test-driven-development",
+    "entry": "skills/x-obra-test-driven-development-a9c0fe4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-using-git-worktrees-367fac9",
+    "original_name": "using-git-worktrees",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "using-git-worktrees",
+    "entry": "skills/x-obra-using-git-worktrees-367fac9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-using-superpowers-e5394e7",
+    "original_name": "using-superpowers",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "using-superpowers",
+    "entry": "skills/x-obra-using-superpowers-e5394e7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-verification-before-completion-0488c4e",
+    "original_name": "verification-before-completion",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "verification-before-completion",
+    "entry": "skills/x-obra-verification-before-completion-0488c4e/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-writing-plans-2044426",
+    "original_name": "writing-plans",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "writing-plans",
+    "entry": "skills/x-obra-writing-plans-2044426/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-obra-writing-skills-bcb11ab",
+    "original_name": "writing-skills",
+    "origin": "upstream/obra/superpowers",
+    "source_skill": "writing-skills",
+    "entry": "skills/x-obra-writing-skills-bcb11ab/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-book-sft-pipeline-d3892d7",
+    "original_name": "book-sft-pipeline",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "book-sft-pipeline",
+    "entry": "skills/x-muratcankoylan-book-sft-pipeline-d3892d7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-digital-brain-1ef9ebd",
+    "original_name": "digital-brain",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "digital-brain-skill",
+    "entry": "skills/x-muratcankoylan-digital-brain-1ef9ebd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-comprehensive-research-agent-1436bfd",
+    "original_name": "comprehensive-research-agent",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "comprehensive-research-agent",
+    "entry": "skills/x-muratcankoylan-comprehensive-research-agent-1436bfd/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-reasoning-trace-optimizer-b05c625",
+    "original_name": "reasoning-trace-optimizer",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "interleaved-thinking",
+    "entry": "skills/x-muratcankoylan-reasoning-trace-optimizer-b05c625/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-context-engineering-collection-19d0266",
+    "original_name": "context-engineering-collection",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "Agent-Skills-for-Context-Engineering",
+    "entry": "skills/x-muratcankoylan-context-engineering-collection-19d0266/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-advanced-evaluation-1a6cf04",
+    "original_name": "advanced-evaluation",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "advanced-evaluation",
+    "entry": "skills/x-muratcankoylan-advanced-evaluation-1a6cf04/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-bdi-mental-states-87d55ca",
+    "original_name": "bdi-mental-states",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "bdi-mental-states",
+    "entry": "skills/x-muratcankoylan-bdi-mental-states-87d55ca/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-context-compression-2ee2b24",
+    "original_name": "context-compression",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "context-compression",
+    "entry": "skills/x-muratcankoylan-context-compression-2ee2b24/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-context-degradation-cd1f0f8",
+    "original_name": "context-degradation",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "context-degradation",
+    "entry": "skills/x-muratcankoylan-context-degradation-cd1f0f8/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-context-fundamentals-ad2a946",
+    "original_name": "context-fundamentals",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "context-fundamentals",
+    "entry": "skills/x-muratcankoylan-context-fundamentals-ad2a946/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-context-optimization-eaacc11",
+    "original_name": "context-optimization",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "context-optimization",
+    "entry": "skills/x-muratcankoylan-context-optimization-eaacc11/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-evaluation-09f8e7b",
+    "original_name": "evaluation",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "evaluation",
+    "entry": "skills/x-muratcankoylan-evaluation-09f8e7b/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-filesystem-context-79e5008",
+    "original_name": "filesystem-context",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "filesystem-context",
+    "entry": "skills/x-muratcankoylan-filesystem-context-79e5008/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-harness-engineering-a4ee296",
+    "original_name": "harness-engineering",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "harness-engineering",
+    "entry": "skills/x-muratcankoylan-harness-engineering-a4ee296/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-hosted-agents-5ec64e0",
+    "original_name": "hosted-agents",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "hosted-agents",
+    "entry": "skills/x-muratcankoylan-hosted-agents-5ec64e0/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-latent-briefing-8703952",
+    "original_name": "latent-briefing",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "latent-briefing",
+    "entry": "skills/x-muratcankoylan-latent-briefing-8703952/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-long-horizon-prompting-581c4c9",
+    "original_name": "long-horizon-prompting",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "long-horizon-prompting",
+    "entry": "skills/x-muratcankoylan-long-horizon-prompting-581c4c9/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-memory-systems-fc3798f",
+    "original_name": "memory-systems",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "memory-systems",
+    "entry": "skills/x-muratcankoylan-memory-systems-fc3798f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-multi-agent-patterns-9f53d2f",
+    "original_name": "multi-agent-patterns",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "multi-agent-patterns",
+    "entry": "skills/x-muratcankoylan-multi-agent-patterns-9f53d2f/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-project-development-8e452e7",
+    "original_name": "project-development",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "project-development",
+    "entry": "skills/x-muratcankoylan-project-development-8e452e7/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-self-improvement-loops-11b60a4",
+    "original_name": "self-improvement-loops",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "self-improvement-loops",
+    "entry": "skills/x-muratcankoylan-self-improvement-loops-11b60a4/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-self-managed-context-70bc045",
+    "original_name": "self-managed-context",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "self-managed-context",
+    "entry": "skills/x-muratcankoylan-self-managed-context-70bc045/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-tool-design-c0e61e2",
+    "original_name": "tool-design",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "tool-design",
+    "entry": "skills/x-muratcankoylan-tool-design-c0e61e2/SKILL.md",
+    "other_origins": []
+  },
+  {
+    "id": "x-muratcankoylan-skill-template-6ee565c",
+    "original_name": "skill-template",
+    "origin": "upstream/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "source_skill": "template",
+    "entry": "skills/x-muratcankoylan-skill-template-6ee565c/SKILL.md",
+    "other_origins": []
+  }
+]

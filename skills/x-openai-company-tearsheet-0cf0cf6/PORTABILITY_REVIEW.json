@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-company-tearsheet-0cf0cf6",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 manifest 命中；原固定 request_user_input 改为实际结构化询问或聊天，特定 in-app Browser 排除改为可访问本地文件的真实浏览器能力；外部契约缺失明确阻塞。",
+  "remaining_dependencies": [
+    "Public Equity Investing router 与 shared runtime/intake/HTML 契约需要实际安装并定位",
+    "市场数据、披露资料与相应授权；HTML QA 需要浏览器",
+    "Python 用于可选本地 helpers"
+  ],
+  "retained_product_mentions": [
+    "Public Equity Investing、issuer/HTML dashboard schema 和真实投资研究产品引用保留"
+  ]
+}

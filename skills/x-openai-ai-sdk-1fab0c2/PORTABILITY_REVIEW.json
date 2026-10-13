@@ -1,0 +1,25 @@
+{
+  "id": "x-openai-ai-sdk-1fab0c2",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "references/ai-gateway.md",
+    "references/devtools.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Mapped package/docs/model-list/typecheck operations to available host capabilities and removed source-plugin shortcut syntax.",
+  "remaining_dependencies": [
+    "AI SDK project runtime or official documentation access",
+    "gateway/provider credentials for live calls"
+  ],
+  "retained_product_mentions": [
+    "Vercel AI SDK",
+    "AI Gateway",
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Claude model identifiers"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

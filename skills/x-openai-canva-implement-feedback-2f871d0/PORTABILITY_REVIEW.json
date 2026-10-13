@@ -1,0 +1,17 @@
+{
+  "id": "x-openai-canva-implement-feedback-2f871d0",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "建立实际Canva服务适配与schema检查，不把原连接器标签视作通用宿主API。",
+  "remaining_dependencies": [
+    "认证Canva评论读取及编辑事务/提交能力",
+    "实际版本API支持"
+  ],
+  "retained_product_mentions": [
+    "Canva真实编辑/事务/操作字段"
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "path": "export/mcp/locks/additional-binaries.json",
+    "sha256": "c43682d6fb7b075b83dcf7f8aacea184a9a7c99ccf89ceb2a5aae890b690b97b",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/additional-node-package-lock.json",
+    "sha256": "933d07d49604e9c33581b586d2cb1bb38fd558cd0d5fb47e13ebf1b1690066fb",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/additional-node-package.json",
+    "sha256": "071ac245fd053a41ea81d6f43de42068466905e6817300ac51b0962bb91d1a89",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/filesystem-package-lock.json",
+    "sha256": "dc3d73b7e1c9354a9cbb26d623f970d2af4b2d342c162a96a88f91992e61a89c",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/filesystem-tsconfig.base.json",
+    "sha256": "470a98463604222a0606e1f431697b2092b8acbfa4ddd166ac2ca6a2694569a3",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/filesystem-tsconfig.json",
+    "sha256": "ec39b1f7926a92fd39938832d47b1bf2a03f6974b2ed360cc0d17dbff863c747",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/python.lock.txt",
+    "sha256": "6abc14997a7e51e05656ae3fec742afe2ba3b9afd4016dd64313a7703ea329b7",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-LICENSE",
+    "sha256": "fe5d1e818af2a1038f2805f7fdccdca778a61b42fb182786d2a3f4c8c7c7e9b2",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-package-lock.json",
+    "sha256": "b7894d309c82bae33cd2f3111039e4869d4217bd047580f8e3d38f2134a5fe47",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-package.json",
+    "sha256": "e77ad2871d3b0d7281cd517759632e14fda4f5faec6dd374102adf20b7d05e54",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-README.md",
+    "sha256": "abcf20ddac67f30e43444d95b9efd2d8a9ae4034f1745086a0c5796eb8bbaeb0",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-rebuild.ps1",
+    "sha256": "7a2790d951935d7e38a5c49082fa6cc72a4d69d018b3efd47daf7172e28fe134",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-smoke.mjs",
+    "sha256": "785710ac0d31391967acd49177236e03c7e89dc2ac5620d2ff1751a377e4d5af",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/reference-node-tsconfig.json",
+    "sha256": "8e470d84a07eb6bdcb6fa05807b968e4043d1b3cfe48ba73af22853a994a1181",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/serena-python.lock.txt",
+    "sha256": "b4a26ef6a701e642db821c4b912c7249e0bc80bdcf9655833fdd8abbc673c794",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/locks/versions.json",
+    "sha256": "e70022041a0965c51656647b30818537ac4a026e3ad8b230b2bb694e71ac8450",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/runtime/portable-node/LICENSE.txt",
+    "sha256": "ed34dd8e3f0a78dbaf00d0444ce8e285b015b765379c2e17880455f70370f8e9",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/runtime/portable-python/LICENSE.txt",
+    "sha256": "935cf13e19f8c31b497d20b05d73623431a226b230c3599bc30fa3348979bc68",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/runtime/python-requirements.lock.txt",
+    "sha256": "6d88d37710b7c0b099e3bdf9411139f973f1b7e1d18c0b531e9515f7d3b0e611",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  },
+  {
+    "path": "export/mcp/servers/upstream/fakechat/bun.lock",
+    "sha256": "2b4e7663acc71e323499ac0685497ffd1288c7a03691bf70f72cca57751c4f08",
+    "role": "Runtime lock/license/build evidence; installed dependency, not an additional reviewed repository"
+  }
+]

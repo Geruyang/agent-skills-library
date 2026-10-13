@@ -1,0 +1,25 @@
+{
+  "id": "x-openai-vercel-sandbox-de79966",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Added real Vercel capability/credential checks, distinguished guest Linux commands, and resolved missing upstream helper paths.",
+  "remaining_dependencies": [
+    "Vercel Sandbox service/account",
+    "SDK or equivalent API",
+    "Node runtime",
+    "upstream demo helper not bundled"
+  ],
+  "retained_product_mentions": [
+    "Vercel Sandbox",
+    "Firecracker",
+    "agent-browser",
+    "Chrome",
+    "Amazon Linux",
+    "OIDC"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

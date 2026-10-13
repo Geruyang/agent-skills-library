@@ -1,0 +1,18 @@
+{
+  "id": "x-openai-portfolio-risk-management-e45bdc5",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 manifest 命中；改写宿主提问工具、特定浏览器与原共享资源布局绑定，缺少必要契约或视觉能力时明确受阻，保留风险输出结构。",
+  "remaining_dependencies": [
+    "Public Equity Investing router 与 shared 风险、intake、HTML 契约",
+    "投资组合数据及授权市场数据",
+    "Python 计算脚本；可访问本地 HTML 的浏览器能力"
+  ],
+  "retained_product_mentions": [
+    "Public Equity Investing、Credit Markets、ETF/CDS 等产品及专业术语保留"
+  ]
+}

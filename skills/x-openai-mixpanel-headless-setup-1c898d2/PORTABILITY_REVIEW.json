@@ -1,0 +1,20 @@
+{
+  "id": "x-openai-mixpanel-headless-setup-1c898d2",
+  "status": "reviewed-adapted",
+  "files_changed": [
+    "SKILL.md",
+    "scripts/setup.sh",
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "完整读取正文及 host_matches 的 setup.sh；取消 CODEX_CLOUD、/sessions 推断与固定 Claude bridge 自动加载承诺，改为显式路径和已核验接收契约；定位 companion helper，检测 Bash/Python 能力。",
+  "remaining_dependencies": [
+    "Python 3.10+、Bash 或等价 Python 执行能力、包安装权限",
+    "Mixpanel/mixpanel-headless、网络与用户账户授权",
+    "mixpanelyst auth_manager.py 或已安装 CLI 支持的等价认证检查",
+    "可选凭据桥必须有真实 receiver；MP_AUTH_BRIDGE_FILE 仅为本诊断脚本输入"
+  ],
+  "retained_product_mentions": [
+    "Mixpanel、CodeMode、真实 mp CLI/SDK、~/.mp/config.toml 保留；~/.claude 路径仅作为原 Claude 集成条件性说明保留"
+  ]
+}

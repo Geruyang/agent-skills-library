@@ -1,0 +1,20 @@
+{
+  "id": "x-openai-twilio-security-api-auth-cec2f37",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "Reviewed full authentication guide; credential names, token types and SDK examples are real Twilio integration contracts.",
+  "remaining_dependencies": [
+    "Twilio account and intended authentication method",
+    "runtime/SDK or API client"
+  ],
+  "retained_product_mentions": [
+    "Twilio",
+    "OAuth2",
+    "JWT",
+    "IAM"
+  ],
+  "review_scope": "Full SKILL.md read; manifest host_matches checked (empty); targeted supporting-file scan/inspection. Static portability review, not technical freshness validation; source workflows not executed."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-zoom-meeting-sdk-web-client-view-dd74c7c",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文是ZoomMtg真实SDK接口与应用示例，未发现宿主执行依赖；保持API参数、事件与示例。",
+  "remaining_dependencies": [
+    "Node.js/浏览器、Zoom Meeting SDK及后端签名；parent Web SDK的故障排查与SharedArrayBuffer参考需完整Zoom包。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}

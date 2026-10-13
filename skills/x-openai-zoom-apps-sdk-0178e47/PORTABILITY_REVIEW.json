@@ -1,0 +1,15 @@
+{
+  "id": "x-openai-zoom-apps-sdk-0178e47",
+  "status": "reviewed-unchanged",
+  "files_changed": [
+    "PORTABILITY.md",
+    "PORTABILITY_REVIEW.json"
+  ],
+  "summary": "正文的Zoom client是被开发产品的运行位置，与AI宿主无关；保留实际SDK语义。",
+  "remaining_dependencies": [
+    "Zoom客户端、Apps SDK、Marketplace应用配置与OAuth、允许域名。"
+  ],
+  "retained_product_mentions": [
+    "真实SDK/服务、API、引用产品和研究系统名称保留。"
+  ]
+}
